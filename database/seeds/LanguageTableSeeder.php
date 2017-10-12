@@ -19,39 +19,45 @@ class LanguageTableSeeder extends Seeder
         \DB::table('language')->insert(array (
             0 => 
             array (
-                'language_id' => 1,
+                'id' => 1,
                 'name' => 'English',
                 'updated_at' => '2006-02-15 05:02:19',
+                'created_at' => '2017-10-12 00:07:38',
             ),
             1 => 
             array (
-                'language_id' => 2,
+                'id' => 2,
                 'name' => 'Italian',
                 'updated_at' => '2006-02-15 05:02:19',
+                'created_at' => '2017-10-12 00:07:38',
             ),
             2 => 
             array (
-                'language_id' => 3,
+                'id' => 3,
                 'name' => 'Japanese',
                 'updated_at' => '2006-02-15 05:02:19',
+                'created_at' => '2017-10-12 00:07:38',
             ),
             3 => 
             array (
-                'language_id' => 4,
+                'id' => 4,
                 'name' => 'Mandarin',
                 'updated_at' => '2006-02-15 05:02:19',
+                'created_at' => '2017-10-12 00:07:38',
             ),
             4 => 
             array (
-                'language_id' => 5,
+                'id' => 5,
                 'name' => 'French',
                 'updated_at' => '2006-02-15 05:02:19',
+                'created_at' => '2017-10-12 00:07:38',
             ),
             5 => 
             array (
-                'language_id' => 6,
+                'id' => 6,
                 'name' => 'German',
                 'updated_at' => '2006-02-15 05:02:19',
+                'created_at' => '2017-10-12 00:07:38',
             ),
         ));
         

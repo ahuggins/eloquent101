@@ -19,7 +19,7 @@ class StaffTableSeeder extends Seeder
         \DB::table('staff')->insert(array (
             0 => 
             array (
-                'staff_id' => 1,
+                'id' => 1,
                 'first_name' => 'Mike',
                 'last_name' => 'Hillyer',
                 'address_id' => 3,
@@ -30,10 +30,11 @@ class StaffTableSeeder extends Seeder
                 'username' => 'Mike',
                 'password' => '8cb2237d0679ca88db6464eac60da96345513964',
                 'updated_at' => '2006-02-15 03:57:16',
+                'created_at' => '2017-10-12 00:07:37',
             ),
             1 => 
             array (
-                'staff_id' => 2,
+                'id' => 2,
                 'first_name' => 'Jon',
                 'last_name' => 'Stephens',
                 'address_id' => 4,
@@ -44,6 +45,7 @@ class StaffTableSeeder extends Seeder
                 'username' => 'Jon',
                 'password' => NULL,
                 'updated_at' => '2006-02-15 03:57:16',
+                'created_at' => '2017-10-12 00:07:37',
             ),
         ));
         
