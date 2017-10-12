@@ -1,4 +1,4 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+![](public/img/github-banner.jpg)
 
 ## About Eloquent 101
 
