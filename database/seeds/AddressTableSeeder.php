@@ -26,7 +26,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 300,
                 'postal_code' => '',
                 'phone' => '',
-                'last_update' => '2014-09-25 22:30:27',
+                'updated_at' => '2014-09-25 22:30:27',
             ),
             1 => 
             array (
@@ -37,7 +37,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 576,
                 'postal_code' => '',
                 'phone' => '',
-                'last_update' => '2014-09-25 22:30:09',
+                'updated_at' => '2014-09-25 22:30:09',
             ),
             2 => 
             array (
@@ -48,7 +48,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 300,
                 'postal_code' => '',
                 'phone' => '14033335568',
-                'last_update' => '2014-09-25 22:30:27',
+                'updated_at' => '2014-09-25 22:30:27',
             ),
             3 => 
             array (
@@ -59,7 +59,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 576,
                 'postal_code' => '',
                 'phone' => '6172235589',
-                'last_update' => '2014-09-25 22:30:09',
+                'updated_at' => '2014-09-25 22:30:09',
             ),
             4 => 
             array (
@@ -70,7 +70,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 463,
                 'postal_code' => '35200',
                 'phone' => '28303384290',
-                'last_update' => '2014-09-25 22:31:53',
+                'updated_at' => '2014-09-25 22:31:53',
             ),
             5 => 
             array (
@@ -81,7 +81,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 449,
                 'postal_code' => '17886',
                 'phone' => '838635286649',
-                'last_update' => '2014-09-25 22:34:01',
+                'updated_at' => '2014-09-25 22:34:01',
             ),
             6 => 
             array (
@@ -92,7 +92,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 38,
                 'postal_code' => '83579',
                 'phone' => '448477190408',
-                'last_update' => '2014-09-25 22:31:07',
+                'updated_at' => '2014-09-25 22:31:07',
             ),
             7 => 
             array (
@@ -103,7 +103,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 349,
                 'postal_code' => '53561',
                 'phone' => '705814003527',
-                'last_update' => '2014-09-25 22:32:18',
+                'updated_at' => '2014-09-25 22:32:18',
             ),
             8 => 
             array (
@@ -114,7 +114,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 361,
                 'postal_code' => '42399',
                 'phone' => '10655648674',
-                'last_update' => '2014-09-25 22:33:16',
+                'updated_at' => '2014-09-25 22:33:16',
             ),
             9 => 
             array (
@@ -125,7 +125,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 295,
                 'postal_code' => '18743',
                 'phone' => '860452626434',
-                'last_update' => '2014-09-25 22:33:55',
+                'updated_at' => '2014-09-25 22:33:55',
             ),
             10 => 
             array (
@@ -136,7 +136,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 280,
                 'postal_code' => '93896',
                 'phone' => '716571220373',
-                'last_update' => '2014-09-25 22:34:11',
+                'updated_at' => '2014-09-25 22:34:11',
             ),
             11 => 
             array (
@@ -147,7 +147,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 200,
                 'postal_code' => '77948',
                 'phone' => '657282285970',
-                'last_update' => '2014-09-25 22:32:22',
+                'updated_at' => '2014-09-25 22:32:22',
             ),
             12 => 
             array (
@@ -158,7 +158,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 329,
                 'postal_code' => '45844',
                 'phone' => '380657522649',
-                'last_update' => '2014-09-25 22:32:29',
+                'updated_at' => '2014-09-25 22:32:29',
             ),
             13 => 
             array (
@@ -169,7 +169,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 162,
                 'postal_code' => '53628',
                 'phone' => '648856936185',
-                'last_update' => '2014-09-25 22:31:36',
+                'updated_at' => '2014-09-25 22:31:36',
             ),
             14 => 
             array (
@@ -180,7 +180,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 440,
                 'postal_code' => '1027',
                 'phone' => '635297277345',
-                'last_update' => '2014-09-25 22:31:53',
+                'updated_at' => '2014-09-25 22:31:53',
             ),
             15 => 
             array (
@@ -191,7 +191,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 582,
                 'postal_code' => '10672',
                 'phone' => '465887807014',
-                'last_update' => '2014-09-25 22:31:30',
+                'updated_at' => '2014-09-25 22:31:30',
             ),
             16 => 
             array (
@@ -202,7 +202,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 384,
                 'postal_code' => '29610',
                 'phone' => '695479687538',
-                'last_update' => '2014-09-25 22:33:27',
+                'updated_at' => '2014-09-25 22:33:27',
             ),
             17 => 
             array (
@@ -213,7 +213,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 120,
                 'postal_code' => '16266',
                 'phone' => '517338314235',
-                'last_update' => '2014-09-25 22:33:47',
+                'updated_at' => '2014-09-25 22:33:47',
             ),
             18 => 
             array (
@@ -224,7 +224,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 76,
                 'postal_code' => '72878',
                 'phone' => '990911107354',
-                'last_update' => '2014-09-25 22:31:13',
+                'updated_at' => '2014-09-25 22:31:13',
             ),
             19 => 
             array (
@@ -235,7 +235,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 495,
                 'postal_code' => '54308',
                 'phone' => '949312333307',
-                'last_update' => '2014-09-25 22:33:40',
+                'updated_at' => '2014-09-25 22:33:40',
             ),
             20 => 
             array (
@@ -246,7 +246,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 156,
                 'postal_code' => '81766',
                 'phone' => '407752414682',
-                'last_update' => '2014-09-25 22:32:48',
+                'updated_at' => '2014-09-25 22:32:48',
             ),
             21 => 
             array (
@@ -257,7 +257,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 252,
                 'postal_code' => '43331',
                 'phone' => '747791594069',
-                'last_update' => '2014-09-25 22:32:25',
+                'updated_at' => '2014-09-25 22:32:25',
             ),
             22 => 
             array (
@@ -268,7 +268,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 267,
                 'postal_code' => '72192',
                 'phone' => '272572357893',
-                'last_update' => '2014-09-25 22:33:03',
+                'updated_at' => '2014-09-25 22:33:03',
             ),
             23 => 
             array (
@@ -279,7 +279,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 327,
                 'postal_code' => '21954',
                 'phone' => '144453869132',
-                'last_update' => '2014-09-25 22:32:30',
+                'updated_at' => '2014-09-25 22:32:30',
             ),
             24 => 
             array (
@@ -290,7 +290,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 525,
                 'postal_code' => '34418',
                 'phone' => '892775750063',
-                'last_update' => '2014-09-25 22:30:12',
+                'updated_at' => '2014-09-25 22:30:12',
             ),
             25 => 
             array (
@@ -301,7 +301,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 443,
                 'postal_code' => '37551',
                 'phone' => '161968374323',
-                'last_update' => '2014-09-25 22:32:16',
+                'updated_at' => '2014-09-25 22:32:16',
             ),
             26 => 
             array (
@@ -312,7 +312,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 303,
                 'postal_code' => '7716',
                 'phone' => '902731229323',
-                'last_update' => '2014-09-25 22:31:58',
+                'updated_at' => '2014-09-25 22:31:58',
             ),
             27 => 
             array (
@@ -323,7 +323,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 128,
                 'postal_code' => '99865',
                 'phone' => '934730187245',
-                'last_update' => '2014-09-25 22:30:05',
+                'updated_at' => '2014-09-25 22:30:05',
             ),
             28 => 
             array (
@@ -334,7 +334,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 472,
                 'postal_code' => '99780',
                 'phone' => '196495945706',
-                'last_update' => '2014-09-25 22:32:31',
+                'updated_at' => '2014-09-25 22:32:31',
             ),
             29 => 
             array (
@@ -345,7 +345,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 121,
                 'postal_code' => '58327',
                 'phone' => '998009777982',
-                'last_update' => '2014-09-25 22:31:08',
+                'updated_at' => '2014-09-25 22:31:08',
             ),
             30 => 
             array (
@@ -356,7 +356,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 138,
                 'postal_code' => '49521',
                 'phone' => '665356572025',
-                'last_update' => '2014-09-25 22:32:36',
+                'updated_at' => '2014-09-25 22:32:36',
             ),
             31 => 
             array (
@@ -367,7 +367,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 346,
                 'postal_code' => '65599',
                 'phone' => '678220867005',
-                'last_update' => '2014-09-25 22:31:20',
+                'updated_at' => '2014-09-25 22:31:20',
             ),
             32 => 
             array (
@@ -378,7 +378,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 474,
                 'postal_code' => '65750',
                 'phone' => '18461860151',
-                'last_update' => '2014-09-25 22:31:53',
+                'updated_at' => '2014-09-25 22:31:53',
             ),
             33 => 
             array (
@@ -389,7 +389,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 316,
                 'postal_code' => '50199',
                 'phone' => '525255540978',
-                'last_update' => '2014-09-25 22:33:15',
+                'updated_at' => '2014-09-25 22:33:15',
             ),
             34 => 
             array (
@@ -400,7 +400,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 257,
                 'postal_code' => '30348',
                 'phone' => '745994947458',
-                'last_update' => '2014-09-25 22:31:18',
+                'updated_at' => '2014-09-25 22:31:18',
             ),
             35 => 
             array (
@@ -411,7 +411,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 239,
                 'postal_code' => '65213',
                 'phone' => '627705991774',
-                'last_update' => '2014-09-25 22:31:17',
+                'updated_at' => '2014-09-25 22:31:17',
             ),
             36 => 
             array (
@@ -422,7 +422,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 17,
                 'postal_code' => '79388',
                 'phone' => '911872220378',
-                'last_update' => '2014-09-25 22:31:42',
+                'updated_at' => '2014-09-25 22:31:42',
             ),
             37 => 
             array (
@@ -433,7 +433,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 284,
                 'postal_code' => '94065',
                 'phone' => '708403338270',
-                'last_update' => '2014-09-25 22:31:49',
+                'updated_at' => '2014-09-25 22:31:49',
             ),
             38 => 
             array (
@@ -444,7 +444,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 544,
                 'postal_code' => '34021',
                 'phone' => '440512153169',
-                'last_update' => '2014-09-25 22:31:01',
+                'updated_at' => '2014-09-25 22:31:01',
             ),
             39 => 
             array (
@@ -455,7 +455,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 31,
                 'postal_code' => '38145',
                 'phone' => '481183273622',
-                'last_update' => '2014-09-25 22:31:36',
+                'updated_at' => '2014-09-25 22:31:36',
             ),
             40 => 
             array (
@@ -466,7 +466,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 362,
                 'postal_code' => '47929',
                 'phone' => '912257250465',
-                'last_update' => '2014-09-25 22:30:40',
+                'updated_at' => '2014-09-25 22:30:40',
             ),
             41 => 
             array (
@@ -477,7 +477,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 115,
                 'postal_code' => '34689',
                 'phone' => '489783829737',
-                'last_update' => '2014-09-25 22:32:15',
+                'updated_at' => '2014-09-25 22:32:15',
             ),
             42 => 
             array (
@@ -488,7 +488,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 569,
                 'postal_code' => '3989',
                 'phone' => '378318851631',
-                'last_update' => '2014-09-25 22:30:23',
+                'updated_at' => '2014-09-25 22:30:23',
             ),
             43 => 
             array (
@@ -499,7 +499,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 353,
                 'postal_code' => '94399',
                 'phone' => '680768868518',
-                'last_update' => '2014-09-25 22:32:16',
+                'updated_at' => '2014-09-25 22:32:16',
             ),
             44 => 
             array (
@@ -510,7 +510,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 586,
                 'postal_code' => '16744',
                 'phone' => '42384721397',
-                'last_update' => '2014-09-25 22:30:08',
+                'updated_at' => '2014-09-25 22:30:08',
             ),
             45 => 
             array (
@@ -521,7 +521,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 394,
                 'postal_code' => '61117',
                 'phone' => '471675840679',
-                'last_update' => '2014-09-25 22:33:20',
+                'updated_at' => '2014-09-25 22:33:20',
             ),
             46 => 
             array (
@@ -532,7 +532,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 167,
                 'postal_code' => '48942',
                 'phone' => '539758313890',
-                'last_update' => '2014-09-25 22:31:02',
+                'updated_at' => '2014-09-25 22:31:02',
             ),
             47 => 
             array (
@@ -543,7 +543,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 308,
                 'postal_code' => '76022',
                 'phone' => '177727722820',
-                'last_update' => '2014-09-25 22:32:54',
+                'updated_at' => '2014-09-25 22:32:54',
             ),
             48 => 
             array (
@@ -554,7 +554,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 27,
                 'postal_code' => '37359',
                 'phone' => '675292816413',
-                'last_update' => '2014-09-25 22:30:29',
+                'updated_at' => '2014-09-25 22:30:29',
             ),
             49 => 
             array (
@@ -565,7 +565,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 343,
                 'postal_code' => '23616',
                 'phone' => '262076994845',
-                'last_update' => '2014-09-25 22:32:55',
+                'updated_at' => '2014-09-25 22:32:55',
             ),
             50 => 
             array (
@@ -576,7 +576,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 247,
                 'postal_code' => '52535',
                 'phone' => '69493378813',
-                'last_update' => '2014-09-25 22:30:19',
+                'updated_at' => '2014-09-25 22:30:19',
             ),
             51 => 
             array (
@@ -587,7 +587,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 367,
                 'postal_code' => '69367',
                 'phone' => '705800322606',
-                'last_update' => '2014-09-25 22:32:55',
+                'updated_at' => '2014-09-25 22:32:55',
             ),
             52 => 
             array (
@@ -598,7 +598,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 237,
                 'postal_code' => '74428',
                 'phone' => '876295323994',
-                'last_update' => '2014-09-25 22:33:00',
+                'updated_at' => '2014-09-25 22:33:00',
             ),
             53 => 
             array (
@@ -609,7 +609,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 379,
                 'postal_code' => '80168',
                 'phone' => '307703950263',
-                'last_update' => '2014-09-25 22:33:11',
+                'updated_at' => '2014-09-25 22:33:11',
             ),
             54 => 
             array (
@@ -620,7 +620,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 171,
                 'postal_code' => '48150',
                 'phone' => '171822533480',
-                'last_update' => '2014-09-25 22:33:50',
+                'updated_at' => '2014-09-25 22:33:50',
             ),
             55 => 
             array (
@@ -631,7 +631,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 1,
                 'postal_code' => '4166',
                 'phone' => '680428310138',
-                'last_update' => '2014-09-25 22:33:08',
+                'updated_at' => '2014-09-25 22:33:08',
             ),
             56 => 
             array (
@@ -642,7 +642,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 355,
                 'postal_code' => '38594',
                 'phone' => '697760867968',
-                'last_update' => '2014-09-25 22:31:51',
+                'updated_at' => '2014-09-25 22:31:51',
             ),
             57 => 
             array (
@@ -653,7 +653,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 227,
                 'postal_code' => '48980',
                 'phone' => '920811325222',
-                'last_update' => '2014-09-25 22:31:47',
+                'updated_at' => '2014-09-25 22:31:47',
             ),
             58 => 
             array (
@@ -664,7 +664,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 49,
                 'postal_code' => '57807',
                 'phone' => '499352017190',
-                'last_update' => '2014-09-25 22:32:47',
+                'updated_at' => '2014-09-25 22:32:47',
             ),
             59 => 
             array (
@@ -675,7 +675,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 397,
                 'postal_code' => '39072',
                 'phone' => '347487831378',
-                'last_update' => '2014-09-25 22:31:02',
+                'updated_at' => '2014-09-25 22:31:02',
             ),
             60 => 
             array (
@@ -686,7 +686,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 560,
                 'postal_code' => '45428',
                 'phone' => '889318963672',
-                'last_update' => '2014-09-25 22:31:58',
+                'updated_at' => '2014-09-25 22:31:58',
             ),
             61 => 
             array (
@@ -697,7 +697,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 282,
                 'postal_code' => '69226',
                 'phone' => '212869228936',
-                'last_update' => '2014-09-25 22:32:00',
+                'updated_at' => '2014-09-25 22:32:00',
             ),
             62 => 
             array (
@@ -708,7 +708,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 350,
                 'postal_code' => '94352',
                 'phone' => '800024380485',
-                'last_update' => '2014-09-25 22:31:21',
+                'updated_at' => '2014-09-25 22:31:21',
             ),
             63 => 
             array (
@@ -719,7 +719,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 231,
                 'postal_code' => '55561',
                 'phone' => '250767749542',
-                'last_update' => '2014-09-25 22:31:17',
+                'updated_at' => '2014-09-25 22:31:17',
             ),
             64 => 
             array (
@@ -730,7 +730,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 56,
                 'postal_code' => '83980',
                 'phone' => '1395251317',
-                'last_update' => '2014-09-25 22:33:12',
+                'updated_at' => '2014-09-25 22:33:12',
             ),
             65 => 
             array (
@@ -741,7 +741,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 441,
                 'postal_code' => '85505',
                 'phone' => '914090181665',
-                'last_update' => '2014-09-25 22:33:59',
+                'updated_at' => '2014-09-25 22:33:59',
             ),
             66 => 
             array (
@@ -752,7 +752,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 306,
                 'postal_code' => '67055',
                 'phone' => '491001136577',
-                'last_update' => '2014-09-25 22:33:56',
+                'updated_at' => '2014-09-25 22:33:56',
             ),
             67 => 
             array (
@@ -763,7 +763,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 139,
                 'postal_code' => '70385',
                 'phone' => '333489324603',
-                'last_update' => '2014-09-25 22:30:32',
+                'updated_at' => '2014-09-25 22:30:32',
             ),
             68 => 
             array (
@@ -774,7 +774,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 105,
                 'postal_code' => '71110',
                 'phone' => '409983924481',
-                'last_update' => '2014-09-25 22:31:02',
+                'updated_at' => '2014-09-25 22:31:02',
             ),
             69 => 
             array (
@@ -785,7 +785,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 321,
                 'postal_code' => '96109',
                 'phone' => '663449333709',
-                'last_update' => '2014-09-25 22:33:11',
+                'updated_at' => '2014-09-25 22:33:11',
             ),
             70 => 
             array (
@@ -796,7 +796,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 579,
                 'postal_code' => '5135',
                 'phone' => '947233365992',
-                'last_update' => '2014-09-25 22:30:46',
+                'updated_at' => '2014-09-25 22:30:46',
             ),
             71 => 
             array (
@@ -807,7 +807,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 475,
                 'postal_code' => '48960',
                 'phone' => '990214419142',
-                'last_update' => '2014-09-25 22:31:27',
+                'updated_at' => '2014-09-25 22:31:27',
             ),
             72 => 
             array (
@@ -818,7 +818,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 63,
                 'postal_code' => '59025',
                 'phone' => '107137400143',
-                'last_update' => '2014-09-25 22:29:59',
+                'updated_at' => '2014-09-25 22:29:59',
             ),
             73 => 
             array (
@@ -829,7 +829,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 13,
                 'postal_code' => '6856',
                 'phone' => '407733804223',
-                'last_update' => '2014-09-25 22:32:59',
+                'updated_at' => '2014-09-25 22:32:59',
             ),
             74 => 
             array (
@@ -840,7 +840,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 61,
                 'postal_code' => '50805',
                 'phone' => '565018274456',
-                'last_update' => '2014-09-25 22:32:34',
+                'updated_at' => '2014-09-25 22:32:34',
             ),
             75 => 
             array (
@@ -851,7 +851,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 517,
                 'postal_code' => '75444',
                 'phone' => '255800440636',
-                'last_update' => '2014-09-25 22:32:39',
+                'updated_at' => '2014-09-25 22:32:39',
             ),
             76 => 
             array (
@@ -862,7 +862,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 114,
                 'postal_code' => '60951',
                 'phone' => '427454485876',
-                'last_update' => '2014-09-25 22:33:14',
+                'updated_at' => '2014-09-25 22:33:14',
             ),
             77 => 
             array (
@@ -873,7 +873,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 431,
                 'postal_code' => '20207',
                 'phone' => '241832790687',
-                'last_update' => '2014-09-25 22:30:21',
+                'updated_at' => '2014-09-25 22:30:21',
             ),
             78 => 
             array (
@@ -884,7 +884,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 108,
                 'postal_code' => '72394',
                 'phone' => '251164340471',
-                'last_update' => '2014-09-25 22:33:14',
+                'updated_at' => '2014-09-25 22:33:14',
             ),
             79 => 
             array (
@@ -895,7 +895,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 402,
                 'postal_code' => '98889',
                 'phone' => '896314772871',
-                'last_update' => '2014-09-25 22:31:55',
+                'updated_at' => '2014-09-25 22:31:55',
             ),
             80 => 
             array (
@@ -906,7 +906,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 30,
                 'postal_code' => '9223',
                 'phone' => '918711376618',
-                'last_update' => '2014-09-25 22:30:16',
+                'updated_at' => '2014-09-25 22:30:16',
             ),
             81 => 
             array (
@@ -917,7 +917,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 425,
                 'postal_code' => '96709',
                 'phone' => '875756771675',
-                'last_update' => '2014-09-25 22:31:24',
+                'updated_at' => '2014-09-25 22:31:24',
             ),
             82 => 
             array (
@@ -928,7 +928,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 256,
                 'postal_code' => '1079',
                 'phone' => '18581624103',
-                'last_update' => '2014-09-25 22:31:48',
+                'updated_at' => '2014-09-25 22:31:48',
             ),
             83 => 
             array (
@@ -939,7 +939,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 217,
                 'postal_code' => '20936',
                 'phone' => '701457319790',
-                'last_update' => '2014-09-25 22:32:24',
+                'updated_at' => '2014-09-25 22:32:24',
             ),
             84 => 
             array (
@@ -950,7 +950,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 319,
                 'postal_code' => '37307',
                 'phone' => '223664661973',
-                'last_update' => '2014-09-25 22:31:59',
+                'updated_at' => '2014-09-25 22:31:59',
             ),
             85 => 
             array (
@@ -961,7 +961,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 479,
                 'postal_code' => '9495',
                 'phone' => '821972242086',
-                'last_update' => '2014-09-25 22:33:33',
+                'updated_at' => '2014-09-25 22:33:33',
             ),
             86 => 
             array (
@@ -972,7 +972,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 497,
                 'postal_code' => '74671',
                 'phone' => '800716535041',
-                'last_update' => '2014-09-25 22:33:06',
+                'updated_at' => '2014-09-25 22:33:06',
             ),
             87 => 
             array (
@@ -983,7 +983,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 40,
                 'postal_code' => '67912',
                 'phone' => '48417642933',
-                'last_update' => '2014-09-25 22:32:02',
+                'updated_at' => '2014-09-25 22:32:02',
             ),
             88 => 
             array (
@@ -994,7 +994,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 88,
                 'postal_code' => '88002',
                 'phone' => '720998247660',
-                'last_update' => '2014-09-25 22:33:36',
+                'updated_at' => '2014-09-25 22:33:36',
             ),
             89 => 
             array (
@@ -1005,7 +1005,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 489,
                 'postal_code' => '84931',
                 'phone' => '135117278909',
-                'last_update' => '2014-09-25 22:33:20',
+                'updated_at' => '2014-09-25 22:33:20',
             ),
             90 => 
             array (
@@ -1016,7 +1016,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 480,
                 'postal_code' => '29932',
                 'phone' => '198123170793',
-                'last_update' => '2014-09-25 22:30:53',
+                'updated_at' => '2014-09-25 22:30:53',
             ),
             91 => 
             array (
@@ -1027,7 +1027,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 113,
                 'postal_code' => '82624',
                 'phone' => '978987363654',
-                'last_update' => '2014-09-25 22:33:06',
+                'updated_at' => '2014-09-25 22:33:06',
             ),
             92 => 
             array (
@@ -1038,7 +1038,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 289,
                 'postal_code' => '75543',
                 'phone' => '846225459260',
-                'last_update' => '2014-09-25 22:30:05',
+                'updated_at' => '2014-09-25 22:30:05',
             ),
             93 => 
             array (
@@ -1049,7 +1049,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 332,
                 'postal_code' => '25958',
                 'phone' => '991562402283',
-                'last_update' => '2014-09-25 22:30:40',
+                'updated_at' => '2014-09-25 22:30:40',
             ),
             94 => 
             array (
@@ -1060,7 +1060,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 53,
                 'postal_code' => '52163',
                 'phone' => '345679835036',
-                'last_update' => '2014-09-25 22:30:23',
+                'updated_at' => '2014-09-25 22:30:23',
             ),
             95 => 
             array (
@@ -1071,7 +1071,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 183,
                 'postal_code' => '17119',
                 'phone' => '132986892228',
-                'last_update' => '2014-09-25 22:30:17',
+                'updated_at' => '2014-09-25 22:30:17',
             ),
             96 => 
             array (
@@ -1082,7 +1082,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 592,
                 'postal_code' => '49021',
                 'phone' => '275595571388',
-                'last_update' => '2014-09-25 22:30:50',
+                'updated_at' => '2014-09-25 22:30:50',
             ),
             97 => 
             array (
@@ -1093,7 +1093,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 82,
                 'postal_code' => '53182',
                 'phone' => '835433605312',
-                'last_update' => '2014-09-25 22:32:35',
+                'updated_at' => '2014-09-25 22:32:35',
             ),
             98 => 
             array (
@@ -1104,7 +1104,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 399,
                 'postal_code' => '22870',
                 'phone' => '4764773857',
-                'last_update' => '2014-09-25 22:31:22',
+                'updated_at' => '2014-09-25 22:31:22',
             ),
             99 => 
             array (
@@ -1115,7 +1115,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 41,
                 'postal_code' => '30695',
                 'phone' => '6171054059',
-                'last_update' => '2014-09-25 22:33:43',
+                'updated_at' => '2014-09-25 22:33:43',
             ),
             100 => 
             array (
@@ -1126,7 +1126,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 534,
                 'postal_code' => '71986',
                 'phone' => '817248913162',
-                'last_update' => '2014-09-25 22:32:18',
+                'updated_at' => '2014-09-25 22:32:18',
             ),
             101 => 
             array (
@@ -1137,7 +1137,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 12,
                 'postal_code' => '92265',
                 'phone' => '412903167998',
-                'last_update' => '2014-09-25 22:33:35',
+                'updated_at' => '2014-09-25 22:33:35',
             ),
             102 => 
             array (
@@ -1148,7 +1148,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 268,
                 'postal_code' => '51540',
                 'phone' => '333339908719',
-                'last_update' => '2014-09-25 22:33:07',
+                'updated_at' => '2014-09-25 22:33:07',
             ),
             103 => 
             array (
@@ -1159,7 +1159,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 238,
                 'postal_code' => '97287',
                 'phone' => '942570536750',
-                'last_update' => '2014-09-25 22:32:49',
+                'updated_at' => '2014-09-25 22:32:49',
             ),
             104 => 
             array (
@@ -1170,7 +1170,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 2,
                 'postal_code' => '77459',
                 'phone' => '196568435814',
-                'last_update' => '2014-09-25 22:32:59',
+                'updated_at' => '2014-09-25 22:32:59',
             ),
             105 => 
             array (
@@ -1181,7 +1181,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 34,
                 'postal_code' => '49708',
                 'phone' => '709935135487',
-                'last_update' => '2014-09-25 22:31:40',
+                'updated_at' => '2014-09-25 22:31:40',
             ),
             106 => 
             array (
@@ -1192,7 +1192,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 220,
                 'postal_code' => '3305',
                 'phone' => '484292626944',
-                'last_update' => '2014-09-25 22:32:24',
+                'updated_at' => '2014-09-25 22:32:24',
             ),
             107 => 
             array (
@@ -1203,7 +1203,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 543,
                 'postal_code' => '80720',
                 'phone' => '449216226468',
-                'last_update' => '2014-09-25 22:31:01',
+                'updated_at' => '2014-09-25 22:31:01',
             ),
             108 => 
             array (
@@ -1214,7 +1214,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 173,
                 'postal_code' => '76383',
                 'phone' => '963887147572',
-                'last_update' => '2014-09-25 22:33:31',
+                'updated_at' => '2014-09-25 22:33:31',
             ),
             109 => 
             array (
@@ -1225,7 +1225,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 225,
                 'postal_code' => '78311',
                 'phone' => '547003310357',
-                'last_update' => '2014-09-25 22:32:48',
+                'updated_at' => '2014-09-25 22:32:48',
             ),
             110 => 
             array (
@@ -1236,7 +1236,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 334,
                 'postal_code' => '9599',
                 'phone' => '330838016880',
-                'last_update' => '2014-09-25 22:30:06',
+                'updated_at' => '2014-09-25 22:30:06',
             ),
             111 => 
             array (
@@ -1247,7 +1247,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 213,
                 'postal_code' => '93026',
                 'phone' => '371490777743',
-                'last_update' => '2014-09-25 22:32:07',
+                'updated_at' => '2014-09-25 22:32:07',
             ),
             112 => 
             array (
@@ -1258,7 +1258,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 273,
                 'postal_code' => '30418',
                 'phone' => '622255216127',
-                'last_update' => '2014-09-25 22:33:04',
+                'updated_at' => '2014-09-25 22:33:04',
             ),
             113 => 
             array (
@@ -1269,7 +1269,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 159,
                 'postal_code' => '61069',
                 'phone' => '379804592943',
-                'last_update' => '2014-09-25 22:30:33',
+                'updated_at' => '2014-09-25 22:30:33',
             ),
             114 => 
             array (
@@ -1280,7 +1280,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 102,
                 'postal_code' => '75834',
                 'phone' => '272234298332',
-                'last_update' => '2014-09-25 22:34:03',
+                'updated_at' => '2014-09-25 22:34:03',
             ),
             115 => 
             array (
@@ -1291,7 +1291,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 292,
                 'postal_code' => '87057',
                 'phone' => '824370924746',
-                'last_update' => '2014-09-25 22:33:55',
+                'updated_at' => '2014-09-25 22:33:55',
             ),
             116 => 
             array (
@@ -1302,7 +1302,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 132,
                 'postal_code' => '10885',
                 'phone' => '358178933857',
-                'last_update' => '2014-09-25 22:34:04',
+                'updated_at' => '2014-09-25 22:34:04',
             ),
             117 => 
             array (
@@ -1313,7 +1313,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 148,
                 'postal_code' => '24321',
                 'phone' => '886636413768',
-                'last_update' => '2014-09-25 22:31:04',
+                'updated_at' => '2014-09-25 22:31:04',
             ),
             118 => 
             array (
@@ -1324,7 +1324,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 365,
                 'postal_code' => '75149',
                 'phone' => '867546627903',
-                'last_update' => '2014-09-25 22:32:11',
+                'updated_at' => '2014-09-25 22:32:11',
             ),
             119 => 
             array (
@@ -1335,7 +1335,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 403,
                 'postal_code' => '63502',
                 'phone' => '386759646229',
-                'last_update' => '2014-09-25 22:31:34',
+                'updated_at' => '2014-09-25 22:31:34',
             ),
             120 => 
             array (
@@ -1346,7 +1346,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 176,
                 'postal_code' => '73644',
                 'phone' => '577812616052',
-                'last_update' => '2014-09-25 22:31:16',
+                'updated_at' => '2014-09-25 22:31:16',
             ),
             121 => 
             array (
@@ -1357,7 +1357,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 185,
                 'postal_code' => '78625',
                 'phone' => '909029256431',
-                'last_update' => '2014-09-25 22:33:51',
+                'updated_at' => '2014-09-25 22:33:51',
             ),
             122 => 
             array (
@@ -1368,7 +1368,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 476,
                 'postal_code' => '96065',
                 'phone' => '787654415858',
-                'last_update' => '2014-09-25 22:30:58',
+                'updated_at' => '2014-09-25 22:30:58',
             ),
             123 => 
             array (
@@ -1379,7 +1379,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 147,
                 'postal_code' => '76157',
                 'phone' => '765345144779',
-                'last_update' => '2014-09-25 22:30:52',
+                'updated_at' => '2014-09-25 22:30:52',
             ),
             124 => 
             array (
@@ -1390,7 +1390,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 164,
                 'postal_code' => '58186',
                 'phone' => '665993880048',
-                'last_update' => '2014-09-25 22:31:15',
+                'updated_at' => '2014-09-25 22:31:15',
             ),
             125 => 
             array (
@@ -1401,7 +1401,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 305,
                 'postal_code' => '64615',
                 'phone' => '937222955822',
-                'last_update' => '2014-09-25 22:32:33',
+                'updated_at' => '2014-09-25 22:32:33',
             ),
             126 => 
             array (
@@ -1412,7 +1412,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 566,
                 'postal_code' => '6804',
                 'phone' => '677976133614',
-                'last_update' => '2014-09-25 22:31:29',
+                'updated_at' => '2014-09-25 22:31:29',
             ),
             127 => 
             array (
@@ -1423,7 +1423,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 281,
                 'postal_code' => '45142',
                 'phone' => '614935229095',
-                'last_update' => '2014-09-25 22:33:27',
+                'updated_at' => '2014-09-25 22:33:27',
             ),
             128 => 
             array (
@@ -1434,7 +1434,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 85,
                 'postal_code' => '60304',
                 'phone' => '490211944645',
-                'last_update' => '2014-09-25 22:33:02',
+                'updated_at' => '2014-09-25 22:33:02',
             ),
             129 => 
             array (
@@ -1445,7 +1445,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 410,
                 'postal_code' => '66255',
                 'phone' => '582835362905',
-                'last_update' => '2014-09-25 22:30:20',
+                'updated_at' => '2014-09-25 22:30:20',
             ),
             130 => 
             array (
@@ -1456,7 +1456,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 484,
                 'postal_code' => '8439',
                 'phone' => '237426099212',
-                'last_update' => '2014-09-25 22:32:57',
+                'updated_at' => '2014-09-25 22:32:57',
             ),
             131 => 
             array (
@@ -1467,7 +1467,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 236,
                 'postal_code' => '4999',
                 'phone' => '973047364353',
-                'last_update' => '2014-09-25 22:32:42',
+                'updated_at' => '2014-09-25 22:32:42',
             ),
             132 => 
             array (
@@ -1478,7 +1478,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 302,
                 'postal_code' => '15819',
                 'phone' => '509492324775',
-                'last_update' => '2014-09-25 22:30:39',
+                'updated_at' => '2014-09-25 22:30:39',
             ),
             133 => 
             array (
@@ -1489,7 +1489,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 190,
                 'postal_code' => '82639',
                 'phone' => '935448624185',
-                'last_update' => '2014-09-25 22:30:18',
+                'updated_at' => '2014-09-25 22:30:18',
             ),
             134 => 
             array (
@@ -1500,7 +1500,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 345,
                 'postal_code' => '14014',
                 'phone' => '252265130067',
-                'last_update' => '2014-09-25 22:33:32',
+                'updated_at' => '2014-09-25 22:33:32',
             ),
             135 => 
             array (
@@ -1511,7 +1511,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 87,
                 'postal_code' => '49757',
                 'phone' => '707169393853',
-                'last_update' => '2014-09-25 22:33:02',
+                'updated_at' => '2014-09-25 22:33:02',
             ),
             136 => 
             array (
@@ -1522,7 +1522,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 541,
                 'postal_code' => '83401',
                 'phone' => '321944036800',
-                'last_update' => '2014-09-25 22:32:13',
+                'updated_at' => '2014-09-25 22:32:13',
             ),
             137 => 
             array (
@@ -1533,7 +1533,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 421,
                 'postal_code' => '4285',
                 'phone' => '23712411567',
-                'last_update' => '2014-09-25 22:30:57',
+                'updated_at' => '2014-09-25 22:30:57',
             ),
             138 => 
             array (
@@ -1544,7 +1544,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 417,
                 'postal_code' => '5892',
                 'phone' => '90921003005',
-                'last_update' => '2014-09-25 22:31:24',
+                'updated_at' => '2014-09-25 22:31:24',
             ),
             139 => 
             array (
@@ -1555,7 +1555,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 211,
                 'postal_code' => '81691',
                 'phone' => '146497509724',
-                'last_update' => '2014-09-25 22:31:17',
+                'updated_at' => '2014-09-25 22:31:17',
             ),
             140 => 
             array (
@@ -1566,7 +1566,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 29,
                 'postal_code' => '11044',
                 'phone' => '963369996279',
-                'last_update' => '2014-09-25 22:32:20',
+                'updated_at' => '2014-09-25 22:32:20',
             ),
             141 => 
             array (
@@ -1577,7 +1577,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 207,
                 'postal_code' => '85769',
                 'phone' => '468060467018',
-                'last_update' => '2014-09-25 22:30:35',
+                'updated_at' => '2014-09-25 22:30:35',
             ),
             142 => 
             array (
@@ -1588,7 +1588,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 542,
                 'postal_code' => '57519',
                 'phone' => '33173584456',
-                'last_update' => '2014-09-25 22:33:16',
+                'updated_at' => '2014-09-25 22:33:16',
             ),
             143 => 
             array (
@@ -1599,7 +1599,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 123,
                 'postal_code' => '13377',
                 'phone' => '9099941466',
-                'last_update' => '2014-09-25 22:33:48',
+                'updated_at' => '2014-09-25 22:33:48',
             ),
             144 => 
             array (
@@ -1610,7 +1610,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 172,
                 'postal_code' => '93762',
                 'phone' => '581852137991',
-                'last_update' => '2014-09-25 22:31:45',
+                'updated_at' => '2014-09-25 22:31:45',
             ),
             145 => 
             array (
@@ -1621,7 +1621,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 149,
                 'postal_code' => '60562',
                 'phone' => '581174211853',
-                'last_update' => '2014-09-25 22:33:36',
+                'updated_at' => '2014-09-25 22:33:36',
             ),
             146 => 
             array (
@@ -1632,7 +1632,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 266,
                 'postal_code' => '97700',
                 'phone' => '923261616249',
-                'last_update' => '2014-09-25 22:33:26',
+                'updated_at' => '2014-09-25 22:33:26',
             ),
             147 => 
             array (
@@ -1643,7 +1643,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 340,
                 'postal_code' => '30861',
                 'phone' => '563660187896',
-                'last_update' => '2014-09-25 22:30:13',
+                'updated_at' => '2014-09-25 22:30:13',
             ),
             148 => 
             array (
@@ -1654,7 +1654,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 491,
                 'postal_code' => '3439',
                 'phone' => '918032330119',
-                'last_update' => '2014-09-25 22:33:05',
+                'updated_at' => '2014-09-25 22:33:05',
             ),
             149 => 
             array (
@@ -1665,7 +1665,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 499,
                 'postal_code' => '90732',
                 'phone' => '206841104594',
-                'last_update' => '2014-09-25 22:34:01',
+                'updated_at' => '2014-09-25 22:34:01',
             ),
             150 => 
             array (
@@ -1676,7 +1676,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 555,
                 'postal_code' => '99457',
                 'phone' => '597815221267',
-                'last_update' => '2014-09-25 22:31:55',
+                'updated_at' => '2014-09-25 22:31:55',
             ),
             151 => 
             array (
@@ -1687,7 +1687,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 442,
                 'postal_code' => '92150',
                 'phone' => '354615066969',
-                'last_update' => '2014-09-25 22:32:46',
+                'updated_at' => '2014-09-25 22:32:46',
             ),
             152 => 
             array (
@@ -1698,7 +1698,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 94,
                 'postal_code' => '25545',
                 'phone' => '885899703621',
-                'last_update' => '2014-09-25 22:33:46',
+                'updated_at' => '2014-09-25 22:33:46',
             ),
             153 => 
             array (
@@ -1709,7 +1709,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 202,
                 'postal_code' => '95444',
                 'phone' => '632316273199',
-                'last_update' => '2014-09-25 22:32:06',
+                'updated_at' => '2014-09-25 22:32:06',
             ),
             154 => 
             array (
@@ -1720,7 +1720,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 291,
                 'postal_code' => '77777',
                 'phone' => '189446090264',
-                'last_update' => '2014-09-25 22:30:38',
+                'updated_at' => '2014-09-25 22:30:38',
             ),
             155 => 
             array (
@@ -1731,7 +1731,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 354,
                 'postal_code' => '64863',
                 'phone' => '761379480249',
-                'last_update' => '2014-09-25 22:31:21',
+                'updated_at' => '2014-09-25 22:31:21',
             ),
             156 => 
             array (
@@ -1742,7 +1742,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 232,
                 'postal_code' => '36061',
                 'phone' => '719202533520',
-                'last_update' => '2014-09-25 22:31:33',
+                'updated_at' => '2014-09-25 22:31:33',
             ),
             157 => 
             array (
@@ -1753,7 +1753,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 590,
                 'postal_code' => '76990',
                 'phone' => '499408708580',
-                'last_update' => '2014-09-25 22:30:49',
+                'updated_at' => '2014-09-25 22:30:49',
             ),
             158 => 
             array (
@@ -1764,7 +1764,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 72,
                 'postal_code' => '41778',
                 'phone' => '904253967161',
-                'last_update' => '2014-09-25 22:33:13',
+                'updated_at' => '2014-09-25 22:33:13',
             ),
             159 => 
             array (
@@ -1775,7 +1775,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 381,
                 'postal_code' => '21294',
                 'phone' => '889538496300',
-                'last_update' => '2014-09-25 22:32:26',
+                'updated_at' => '2014-09-25 22:32:26',
             ),
             160 => 
             array (
@@ -1786,7 +1786,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 420,
                 'postal_code' => '53502',
                 'phone' => '368899174225',
-                'last_update' => '2014-09-25 22:32:28',
+                'updated_at' => '2014-09-25 22:32:28',
             ),
             161 => 
             array (
@@ -1797,7 +1797,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 187,
                 'postal_code' => '66639',
                 'phone' => '170117068815',
-                'last_update' => '2014-09-25 22:33:52',
+                'updated_at' => '2014-09-25 22:33:52',
             ),
             162 => 
             array (
@@ -1808,7 +1808,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 307,
                 'postal_code' => '81037',
                 'phone' => '931059836497',
-                'last_update' => '2014-09-25 22:30:10',
+                'updated_at' => '2014-09-25 22:30:10',
             ),
             163 => 
             array (
@@ -1819,7 +1819,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 310,
                 'postal_code' => '81511',
                 'phone' => '149981248346',
-                'last_update' => '2014-09-25 22:32:54',
+                'updated_at' => '2014-09-25 22:32:54',
             ),
             164 => 
             array (
@@ -1830,7 +1830,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 533,
                 'postal_code' => '44660',
                 'phone' => '177167004331',
-                'last_update' => '2014-09-25 22:31:41',
+                'updated_at' => '2014-09-25 22:31:41',
             ),
             165 => 
             array (
@@ -1841,7 +1841,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 297,
                 'postal_code' => '22853',
                 'phone' => '168476538960',
-                'last_update' => '2014-09-25 22:31:01',
+                'updated_at' => '2014-09-25 22:31:01',
             ),
             166 => 
             array (
@@ -1852,7 +1852,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 253,
                 'postal_code' => '57844',
                 'phone' => '819416131190',
-                'last_update' => '2014-09-25 22:31:48',
+                'updated_at' => '2014-09-25 22:31:48',
             ),
             167 => 
             array (
@@ -1863,7 +1863,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 529,
                 'postal_code' => '3313',
                 'phone' => '697151428760',
-                'last_update' => '2014-09-25 22:33:29',
+                'updated_at' => '2014-09-25 22:33:29',
             ),
             168 => 
             array (
@@ -1874,7 +1874,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 199,
                 'postal_code' => '62250',
                 'phone' => '935508855935',
-                'last_update' => '2014-09-25 22:30:34',
+                'updated_at' => '2014-09-25 22:30:34',
             ),
             169 => 
             array (
@@ -1885,7 +1885,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 304,
                 'postal_code' => '76901',
                 'phone' => '843801144113',
-                'last_update' => '2014-09-25 22:31:59',
+                'updated_at' => '2014-09-25 22:31:59',
             ),
             170 => 
             array (
@@ -1896,7 +1896,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 107,
                 'postal_code' => '62686',
                 'phone' => '182363341674',
-                'last_update' => '2014-09-25 22:31:14',
+                'updated_at' => '2014-09-25 22:31:14',
             ),
             171 => 
             array (
@@ -1907,7 +1907,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 240,
                 'postal_code' => '59571',
                 'phone' => '201705577290',
-                'last_update' => '2014-09-25 22:30:36',
+                'updated_at' => '2014-09-25 22:30:36',
             ),
             172 => 
             array (
@@ -1918,7 +1918,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 407,
                 'postal_code' => '70618',
                 'phone' => '161801569569',
-                'last_update' => '2014-09-25 22:30:40',
+                'updated_at' => '2014-09-25 22:30:40',
             ),
             173 => 
             array (
@@ -1929,7 +1929,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 550,
                 'postal_code' => '63337',
                 'phone' => '264541743403',
-                'last_update' => '2014-09-25 22:31:28',
+                'updated_at' => '2014-09-25 22:31:28',
             ),
             174 => 
             array (
@@ -1940,7 +1940,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 223,
                 'postal_code' => '58194',
                 'phone' => '275788967899',
-                'last_update' => '2014-09-25 22:31:59',
+                'updated_at' => '2014-09-25 22:31:59',
             ),
             175 => 
             array (
@@ -1951,7 +1951,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 58,
                 'postal_code' => '47753',
                 'phone' => '734780743462',
-                'last_update' => '2014-09-25 22:33:23',
+                'updated_at' => '2014-09-25 22:33:23',
             ),
             176 => 
             array (
@@ -1962,7 +1962,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 186,
                 'postal_code' => '6802',
                 'phone' => '493008546874',
-                'last_update' => '2014-09-25 22:30:10',
+                'updated_at' => '2014-09-25 22:30:10',
             ),
             177 => 
             array (
@@ -1973,7 +1973,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 373,
                 'postal_code' => '25220',
                 'phone' => '48265851133',
-                'last_update' => '2014-09-25 22:34:04',
+                'updated_at' => '2014-09-25 22:34:04',
             ),
             178 => 
             array (
@@ -1984,7 +1984,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 18,
                 'postal_code' => '4854',
                 'phone' => '230250973122',
-                'last_update' => '2014-09-25 22:31:10',
+                'updated_at' => '2014-09-25 22:31:10',
             ),
             179 => 
             array (
@@ -1995,7 +1995,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 483,
                 'postal_code' => '89668',
                 'phone' => '506134035434',
-                'last_update' => '2014-09-25 22:30:01',
+                'updated_at' => '2014-09-25 22:30:01',
             ),
             180 => 
             array (
@@ -2006,7 +2006,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 330,
                 'postal_code' => '54132',
                 'phone' => '953689007081',
-                'last_update' => '2014-09-25 22:32:09',
+                'updated_at' => '2014-09-25 22:32:09',
             ),
             181 => 
             array (
@@ -2017,7 +2017,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 456,
                 'postal_code' => '47288',
                 'phone' => '391065549876',
-                'last_update' => '2014-09-25 22:30:21',
+                'updated_at' => '2014-09-25 22:30:21',
             ),
             182 => 
             array (
@@ -2028,7 +2028,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 270,
                 'postal_code' => '35109',
                 'phone' => '866092335135',
-                'last_update' => '2014-09-25 22:32:50',
+                'updated_at' => '2014-09-25 22:32:50',
             ),
             183 => 
             array (
@@ -2039,7 +2039,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 405,
                 'postal_code' => '29747',
                 'phone' => '104150372603',
-                'last_update' => '2014-09-25 22:30:52',
+                'updated_at' => '2014-09-25 22:30:52',
             ),
             184 => 
             array (
@@ -2050,7 +2050,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 333,
                 'postal_code' => '67497',
                 'phone' => '72136330362',
-                'last_update' => '2014-09-25 22:33:57',
+                'updated_at' => '2014-09-25 22:33:57',
             ),
             185 => 
             array (
@@ -2061,7 +2061,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 126,
                 'postal_code' => '8862',
                 'phone' => '662227486184',
-                'last_update' => '2014-09-25 22:33:48',
+                'updated_at' => '2014-09-25 22:33:48',
             ),
             186 => 
             array (
@@ -2072,7 +2072,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 317,
                 'postal_code' => '55709',
                 'phone' => '947468818183',
-                'last_update' => '2014-09-25 22:30:20',
+                'updated_at' => '2014-09-25 22:30:20',
             ),
             187 => 
             array (
@@ -2083,7 +2083,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 438,
                 'postal_code' => '43310',
                 'phone' => '302590383819',
-                'last_update' => '2014-09-25 22:32:21',
+                'updated_at' => '2014-09-25 22:32:21',
             ),
             188 => 
             array (
@@ -2094,7 +2094,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 467,
                 'postal_code' => '65121',
                 'phone' => '951486492670',
-                'last_update' => '2014-09-25 22:31:38',
+                'updated_at' => '2014-09-25 22:31:38',
             ),
             189 => 
             array (
@@ -2105,7 +2105,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 195,
                 'postal_code' => '74750',
                 'phone' => '760171523969',
-                'last_update' => '2014-09-25 22:31:16',
+                'updated_at' => '2014-09-25 22:31:16',
             ),
             190 => 
             array (
@@ -2116,7 +2116,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 506,
                 'postal_code' => '38982',
                 'phone' => '855863906434',
-                'last_update' => '2014-09-25 22:33:34',
+                'updated_at' => '2014-09-25 22:33:34',
             ),
             191 => 
             array (
@@ -2127,7 +2127,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 62,
                 'postal_code' => '58852',
                 'phone' => '650752094490',
-                'last_update' => '2014-09-25 22:32:34',
+                'updated_at' => '2014-09-25 22:32:34',
             ),
             192 => 
             array (
@@ -2138,7 +2138,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 383,
                 'postal_code' => '5379',
                 'phone' => '247646995453',
-                'last_update' => '2014-09-25 22:30:28',
+                'updated_at' => '2014-09-25 22:30:28',
             ),
             193 => 
             array (
@@ -2149,7 +2149,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 513,
                 'postal_code' => '49348',
                 'phone' => '352469351088',
-                'last_update' => '2014-09-25 22:33:18',
+                'updated_at' => '2014-09-25 22:33:18',
             ),
             194 => 
             array (
@@ -2160,7 +2160,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 369,
                 'postal_code' => '65387',
                 'phone' => '812824036424',
-                'last_update' => '2014-09-25 22:32:56',
+                'updated_at' => '2014-09-25 22:32:56',
             ),
             195 => 
             array (
@@ -2171,7 +2171,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 169,
                 'postal_code' => '90845',
                 'phone' => '956188728558',
-                'last_update' => '2014-09-25 22:31:15',
+                'updated_at' => '2014-09-25 22:31:15',
             ),
             196 => 
             array (
@@ -2182,7 +2182,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 271,
                 'postal_code' => '10428',
                 'phone' => '940830176580',
-                'last_update' => '2014-09-25 22:31:56',
+                'updated_at' => '2014-09-25 22:31:56',
             ),
             197 => 
             array (
@@ -2193,7 +2193,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 204,
                 'postal_code' => '32114',
                 'phone' => '104491201771',
-                'last_update' => '2014-09-25 22:31:45',
+                'updated_at' => '2014-09-25 22:31:45',
             ),
             198 => 
             array (
@@ -2204,7 +2204,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 477,
                 'postal_code' => '15540',
                 'phone' => '419419591240',
-                'last_update' => '2014-09-25 22:31:06',
+                'updated_at' => '2014-09-25 22:31:06',
             ),
             199 => 
             array (
@@ -2215,7 +2215,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 325,
                 'postal_code' => '36490',
                 'phone' => '331132568928',
-                'last_update' => '2014-09-25 22:31:05',
+                'updated_at' => '2014-09-25 22:31:05',
             ),
             200 => 
             array (
@@ -2226,7 +2226,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 109,
                 'postal_code' => '89459',
                 'phone' => '264286442804',
-                'last_update' => '2014-09-25 22:30:31',
+                'updated_at' => '2014-09-25 22:30:31',
             ),
             201 => 
             array (
@@ -2237,7 +2237,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 218,
                 'postal_code' => '1545',
                 'phone' => '768481779568',
-                'last_update' => '2014-09-25 22:32:24',
+                'updated_at' => '2014-09-25 22:32:24',
             ),
             202 => 
             array (
@@ -2248,7 +2248,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 194,
                 'postal_code' => '95824',
                 'phone' => '470884141195',
-                'last_update' => '2014-09-25 22:34:06',
+                'updated_at' => '2014-09-25 22:34:06',
             ),
             203 => 
             array (
@@ -2259,7 +2259,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 35,
                 'postal_code' => '8073',
                 'phone' => '764477681869',
-                'last_update' => '2014-09-25 22:33:30',
+                'updated_at' => '2014-09-25 22:33:30',
             ),
             204 => 
             array (
@@ -2270,7 +2270,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 575,
                 'postal_code' => '4662',
                 'phone' => '146640639760',
-                'last_update' => '2014-09-25 22:31:06',
+                'updated_at' => '2014-09-25 22:31:06',
             ),
             205 => 
             array (
@@ -2281,7 +2281,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 77,
                 'postal_code' => '3924',
                 'phone' => '369050085652',
-                'last_update' => '2014-09-25 22:31:13',
+                'updated_at' => '2014-09-25 22:31:13',
             ),
             206 => 
             array (
@@ -2292,7 +2292,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 184,
                 'postal_code' => '61613',
                 'phone' => '652218196731',
-                'last_update' => '2014-09-25 22:31:32',
+                'updated_at' => '2014-09-25 22:31:32',
             ),
             207 => 
             array (
@@ -2303,7 +2303,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 557,
                 'postal_code' => '25238',
                 'phone' => '646237101779',
-                'last_update' => '2014-09-25 22:33:30',
+                'updated_at' => '2014-09-25 22:33:30',
             ),
             208 => 
             array (
@@ -2314,7 +2314,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 122,
                 'postal_code' => '86599',
                 'phone' => '905903574913',
-                'last_update' => '2014-09-25 22:32:32',
+                'updated_at' => '2014-09-25 22:32:32',
             ),
             209 => 
             array (
@@ -2325,7 +2325,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 83,
                 'postal_code' => '10925',
                 'phone' => '90336226227',
-                'last_update' => '2014-09-25 22:30:16',
+                'updated_at' => '2014-09-25 22:30:16',
             ),
             210 => 
             array (
@@ -2336,7 +2336,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 371,
                 'postal_code' => '10800',
                 'phone' => '403404780639',
-                'last_update' => '2014-09-25 22:31:07',
+                'updated_at' => '2014-09-25 22:31:07',
             ),
             211 => 
             array (
@@ -2347,7 +2347,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 51,
                 'postal_code' => '89959',
                 'phone' => '49677664184',
-                'last_update' => '2014-09-25 22:31:11',
+                'updated_at' => '2014-09-25 22:31:11',
             ),
             212 => 
             array (
@@ -2358,7 +2358,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 74,
                 'postal_code' => '4855',
                 'phone' => '95666951770',
-                'last_update' => '2014-09-25 22:31:12',
+                'updated_at' => '2014-09-25 22:31:12',
             ),
             213 => 
             array (
@@ -2369,7 +2369,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 7,
                 'postal_code' => '99405',
                 'phone' => '756460337785',
-                'last_update' => '2014-09-25 22:34:08',
+                'updated_at' => '2014-09-25 22:34:08',
             ),
             214 => 
             array (
@@ -2380,7 +2380,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 174,
                 'postal_code' => '82161',
                 'phone' => '408304391718',
-                'last_update' => '2014-09-25 22:30:33',
+                'updated_at' => '2014-09-25 22:30:33',
             ),
             215 => 
             array (
@@ -2391,7 +2391,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 65,
                 'postal_code' => '25053',
                 'phone' => '168758068397',
-                'last_update' => '2014-09-25 22:33:45',
+                'updated_at' => '2014-09-25 22:33:45',
             ),
             216 => 
             array (
@@ -2402,7 +2402,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 518,
                 'postal_code' => '67924',
                 'phone' => '584316724815',
-                'last_update' => '2014-09-25 22:34:11',
+                'updated_at' => '2014-09-25 22:34:11',
             ),
             217 => 
             array (
@@ -2413,7 +2413,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 508,
                 'postal_code' => '2299',
                 'phone' => '785881412500',
-                'last_update' => '2014-09-25 22:34:02',
+                'updated_at' => '2014-09-25 22:34:02',
             ),
             218 => 
             array (
@@ -2424,7 +2424,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 498,
                 'postal_code' => '99124',
                 'phone' => '352679173732',
-                'last_update' => '2014-09-25 22:30:24',
+                'updated_at' => '2014-09-25 22:30:24',
             ),
             219 => 
             array (
@@ -2435,7 +2435,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 28,
                 'postal_code' => '21464',
                 'phone' => '873492228462',
-                'last_update' => '2014-09-25 22:30:15',
+                'updated_at' => '2014-09-25 22:30:15',
             ),
             220 => 
             array (
@@ -2446,7 +2446,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 448,
                 'postal_code' => '22474',
                 'phone' => '778502731092',
-                'last_update' => '2014-09-25 22:31:26',
+                'updated_at' => '2014-09-25 22:31:26',
             ),
             221 => 
             array (
@@ -2457,7 +2457,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 251,
                 'postal_code' => '40301',
                 'phone' => '886649065861',
-                'last_update' => '2014-09-25 22:29:59',
+                'updated_at' => '2014-09-25 22:29:59',
             ),
             222 => 
             array (
@@ -2468,7 +2468,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 567,
                 'postal_code' => '20657',
                 'phone' => '991802825778',
-                'last_update' => '2014-09-25 22:30:08',
+                'updated_at' => '2014-09-25 22:30:08',
             ),
             223 => 
             array (
@@ -2479,7 +2479,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 593,
                 'postal_code' => '94420',
                 'phone' => '706878974831',
-                'last_update' => '2014-09-25 22:33:19',
+                'updated_at' => '2014-09-25 22:33:19',
             ),
             224 => 
             array (
@@ -2490,7 +2490,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 511,
                 'postal_code' => '22824',
                 'phone' => '469738825391',
-                'last_update' => '2014-09-25 22:31:44',
+                'updated_at' => '2014-09-25 22:31:44',
             ),
             225 => 
             array (
@@ -2501,7 +2501,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 235,
                 'postal_code' => '73431',
                 'phone' => '516331171356',
-                'last_update' => '2014-09-25 22:32:49',
+                'updated_at' => '2014-09-25 22:32:49',
             ),
             226 => 
             array (
@@ -2512,7 +2512,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 324,
                 'postal_code' => '88307',
                 'phone' => '99760893676',
-                'last_update' => '2014-09-25 22:32:30',
+                'updated_at' => '2014-09-25 22:32:30',
             ),
             227 => 
             array (
@@ -2523,7 +2523,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 243,
                 'postal_code' => '82338',
                 'phone' => '963063788669',
-                'last_update' => '2014-09-25 22:31:18',
+                'updated_at' => '2014-09-25 22:31:18',
             ),
             228 => 
             array (
@@ -2534,7 +2534,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 22,
                 'postal_code' => '66851',
                 'phone' => '460795526514',
-                'last_update' => '2014-09-25 22:31:10',
+                'updated_at' => '2014-09-25 22:31:10',
             ),
             229 => 
             array (
@@ -2545,7 +2545,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 37,
                 'postal_code' => '64344',
                 'phone' => '684192903087',
-                'last_update' => '2014-09-25 22:32:31',
+                'updated_at' => '2014-09-25 22:32:31',
             ),
             230 => 
             array (
@@ -2556,7 +2556,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 439,
                 'postal_code' => '47446',
                 'phone' => '669828224459',
-                'last_update' => '2014-09-25 22:31:06',
+                'updated_at' => '2014-09-25 22:31:06',
             ),
             231 => 
             array (
@@ -2567,7 +2567,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 406,
                 'postal_code' => '87911',
                 'phone' => '594319417514',
-                'last_update' => '2014-09-25 22:30:25',
+                'updated_at' => '2014-09-25 22:30:25',
             ),
             232 => 
             array (
@@ -2578,7 +2578,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 26,
                 'postal_code' => '93323',
                 'phone' => '22326410776',
-                'last_update' => '2014-09-25 22:30:15',
+                'updated_at' => '2014-09-25 22:30:15',
             ),
             233 => 
             array (
@@ -2589,7 +2589,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 86,
                 'postal_code' => '50598',
                 'phone' => '479007229460',
-                'last_update' => '2014-09-25 22:32:46',
+                'updated_at' => '2014-09-25 22:32:46',
             ),
             234 => 
             array (
@@ -2600,7 +2600,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 559,
                 'postal_code' => '42420',
                 'phone' => '541327526474',
-                'last_update' => '2014-09-25 22:31:28',
+                'updated_at' => '2014-09-25 22:31:28',
             ),
             235 => 
             array (
@@ -2611,7 +2611,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 596,
                 'postal_code' => '31390',
                 'phone' => '588964509072',
-                'last_update' => '2014-09-25 22:32:28',
+                'updated_at' => '2014-09-25 22:32:28',
             ),
             236 => 
             array (
@@ -2622,7 +2622,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 216,
                 'postal_code' => '98775',
                 'phone' => '431770603551',
-                'last_update' => '2014-09-25 22:30:56',
+                'updated_at' => '2014-09-25 22:30:56',
             ),
             237 => 
             array (
@@ -2633,7 +2633,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 233,
                 'postal_code' => '90628',
                 'phone' => '630424482919',
-                'last_update' => '2014-09-25 22:31:57',
+                'updated_at' => '2014-09-25 22:31:57',
             ),
             238 => 
             array (
@@ -2644,7 +2644,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 96,
                 'postal_code' => '76448',
                 'phone' => '610173756082',
-                'last_update' => '2014-09-25 22:30:51',
+                'updated_at' => '2014-09-25 22:30:51',
             ),
             239 => 
             array (
@@ -2655,7 +2655,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 527,
                 'postal_code' => '18727',
                 'phone' => '727785483194',
-                'last_update' => '2014-09-25 22:32:40',
+                'updated_at' => '2014-09-25 22:32:40',
             ),
             240 => 
             array (
@@ -2666,7 +2666,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 357,
                 'postal_code' => '36971',
                 'phone' => '792557457753',
-                'last_update' => '2014-09-25 22:33:07',
+                'updated_at' => '2014-09-25 22:33:07',
             ),
             241 => 
             array (
@@ -2677,7 +2677,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 473,
                 'postal_code' => '14408',
                 'phone' => '918119601885',
-                'last_update' => '2014-09-25 22:31:26',
+                'updated_at' => '2014-09-25 22:31:26',
             ),
             242 => 
             array (
@@ -2688,7 +2688,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 118,
                 'postal_code' => '22236',
                 'phone' => '63937119031',
-                'last_update' => '2014-09-25 22:31:31',
+                'updated_at' => '2014-09-25 22:31:31',
             ),
             243 => 
             array (
@@ -2699,7 +2699,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 226,
                 'postal_code' => '1921',
                 'phone' => '137773001988',
-                'last_update' => '2014-09-25 22:31:47',
+                'updated_at' => '2014-09-25 22:31:47',
             ),
             244 => 
             array (
@@ -2710,7 +2710,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 578,
                 'postal_code' => '87660',
                 'phone' => '279979529227',
-                'last_update' => '2014-09-25 22:30:45',
+                'updated_at' => '2014-09-25 22:30:45',
             ),
             245 => 
             array (
@@ -2721,7 +2721,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 422,
                 'postal_code' => '28349',
                 'phone' => '890283544295',
-                'last_update' => '2014-09-25 22:30:41',
+                'updated_at' => '2014-09-25 22:30:41',
             ),
             246 => 
             array (
@@ -2732,7 +2732,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 454,
                 'postal_code' => '37288',
                 'phone' => '686015532180',
-                'last_update' => '2014-09-25 22:30:06',
+                'updated_at' => '2014-09-25 22:30:06',
             ),
             247 => 
             array (
@@ -2743,7 +2743,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 294,
                 'postal_code' => '27722',
                 'phone' => '569868543137',
-                'last_update' => '2014-09-25 22:32:38',
+                'updated_at' => '2014-09-25 22:32:38',
             ),
             248 => 
             array (
@@ -2754,7 +2754,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 553,
                 'postal_code' => '81314',
                 'phone' => '890289150158',
-                'last_update' => '2014-09-25 22:33:08',
+                'updated_at' => '2014-09-25 22:33:08',
             ),
             249 => 
             array (
@@ -2765,7 +2765,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 328,
                 'postal_code' => '6461',
                 'phone' => '741070712873',
-                'last_update' => '2014-09-25 22:30:20',
+                'updated_at' => '2014-09-25 22:30:20',
             ),
             250 => 
             array (
@@ -2776,7 +2776,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 124,
                 'postal_code' => '75933',
                 'phone' => '266798132374',
-                'last_update' => '2014-09-25 22:32:03',
+                'updated_at' => '2014-09-25 22:32:03',
             ),
             251 => 
             array (
@@ -2787,7 +2787,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 520,
                 'postal_code' => '57338',
                 'phone' => '435785045362',
-                'last_update' => '2014-09-25 22:34:02',
+                'updated_at' => '2014-09-25 22:34:02',
             ),
             252 => 
             array (
@@ -2798,7 +2798,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 535,
                 'postal_code' => '38140',
                 'phone' => '56257502250',
-                'last_update' => '2014-09-25 22:30:43',
+                'updated_at' => '2014-09-25 22:30:43',
             ),
             253 => 
             array (
@@ -2809,7 +2809,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 390,
                 'postal_code' => '98332',
                 'phone' => '716256596301',
-                'last_update' => '2014-09-25 22:32:27',
+                'updated_at' => '2014-09-25 22:32:27',
             ),
             254 => 
             array (
@@ -2820,7 +2820,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 198,
                 'postal_code' => '36481',
                 'phone' => '567359279425',
-                'last_update' => '2014-09-25 22:31:05',
+                'updated_at' => '2014-09-25 22:31:05',
             ),
             255 => 
             array (
@@ -2831,7 +2831,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 312,
                 'postal_code' => '3433',
                 'phone' => '246810237916',
-                'last_update' => '2014-09-25 22:33:37',
+                'updated_at' => '2014-09-25 22:33:37',
             ),
             256 => 
             array (
@@ -2842,7 +2842,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 338,
                 'postal_code' => '32474',
                 'phone' => '134673576619',
-                'last_update' => '2014-09-25 22:31:50',
+                'updated_at' => '2014-09-25 22:31:50',
             ),
             257 => 
             array (
@@ -2853,7 +2853,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 413,
                 'postal_code' => '45403',
                 'phone' => '840522972766',
-                'last_update' => '2014-09-25 22:30:21',
+                'updated_at' => '2014-09-25 22:30:21',
             ),
             258 => 
             array (
@@ -2864,7 +2864,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 192,
                 'postal_code' => '20777',
                 'phone' => '987442542471',
-                'last_update' => '2014-09-25 22:32:37',
+                'updated_at' => '2014-09-25 22:32:37',
             ),
             259 => 
             array (
@@ -2875,7 +2875,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 342,
                 'postal_code' => '68146',
                 'phone' => '884536620568',
-                'last_update' => '2014-09-25 22:32:18',
+                'updated_at' => '2014-09-25 22:32:18',
             ),
             260 => 
             array (
@@ -2886,7 +2886,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 64,
                 'postal_code' => '86768',
                 'phone' => '245477603573',
-                'last_update' => '2014-09-25 22:32:17',
+                'updated_at' => '2014-09-25 22:32:17',
             ),
             261 => 
             array (
@@ -2897,7 +2897,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 460,
                 'postal_code' => '69517',
                 'phone' => '46871694740',
-                'last_update' => '2014-09-25 22:30:55',
+                'updated_at' => '2014-09-25 22:30:55',
             ),
             262 => 
             array (
@@ -2908,7 +2908,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 197,
                 'postal_code' => '50390',
                 'phone' => '538241037443',
-                'last_update' => '2014-09-25 22:31:16',
+                'updated_at' => '2014-09-25 22:31:16',
             ),
             263 => 
             array (
@@ -2919,7 +2919,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 136,
                 'postal_code' => '98484',
                 'phone' => '276555730211',
-                'last_update' => '2014-09-25 22:30:32',
+                'updated_at' => '2014-09-25 22:30:32',
             ),
             264 => 
             array (
@@ -2930,7 +2930,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 548,
                 'postal_code' => '30065',
                 'phone' => '265153400632',
-                'last_update' => '2014-09-25 22:32:41',
+                'updated_at' => '2014-09-25 22:32:41',
             ),
             265 => 
             array (
@@ -2941,7 +2941,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 414,
                 'postal_code' => '93629',
                 'phone' => '282874611748',
-                'last_update' => '2014-09-25 22:30:56',
+                'updated_at' => '2014-09-25 22:30:56',
             ),
             266 => 
             array (
@@ -2952,7 +2952,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 323,
                 'postal_code' => '51990',
                 'phone' => '322888976727',
-                'last_update' => '2014-09-25 22:32:38',
+                'updated_at' => '2014-09-25 22:32:38',
             ),
             267 => 
             array (
@@ -2963,7 +2963,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 203,
                 'postal_code' => '19428',
                 'phone' => '303967439816',
-                'last_update' => '2014-09-25 22:31:45',
+                'updated_at' => '2014-09-25 22:31:45',
             ),
             268 => 
             array (
@@ -2974,7 +2974,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 378,
                 'postal_code' => '20536',
                 'phone' => '475553436330',
-                'last_update' => '2014-09-25 22:30:54',
+                'updated_at' => '2014-09-25 22:30:54',
             ),
             269 => 
             array (
@@ -2985,7 +2985,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 447,
                 'postal_code' => '5410',
                 'phone' => '621625204422',
-                'last_update' => '2014-09-25 22:30:10',
+                'updated_at' => '2014-09-25 22:30:10',
             ),
             270 => 
             array (
@@ -2996,7 +2996,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 298,
                 'postal_code' => '53928',
                 'phone' => '192459639410',
-                'last_update' => '2014-09-25 22:30:39',
+                'updated_at' => '2014-09-25 22:30:39',
             ),
             271 => 
             array (
@@ -3007,7 +3007,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 395,
                 'postal_code' => '49298',
                 'phone' => '357445645426',
-                'last_update' => '2014-09-25 22:31:21',
+                'updated_at' => '2014-09-25 22:31:21',
             ),
             272 => 
             array (
@@ -3018,7 +3018,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 446,
                 'postal_code' => '75090',
                 'phone' => '685010736240',
-                'last_update' => '2014-09-25 22:34:00',
+                'updated_at' => '2014-09-25 22:34:00',
             ),
             273 => 
             array (
@@ -3029,7 +3029,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 255,
                 'postal_code' => '83565',
                 'phone' => '701767622697',
-                'last_update' => '2014-09-25 22:32:42',
+                'updated_at' => '2014-09-25 22:32:42',
             ),
             274 => 
             array (
@@ -3040,7 +3040,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 283,
                 'postal_code' => '11763',
                 'phone' => '271149517630',
-                'last_update' => '2014-09-25 22:31:20',
+                'updated_at' => '2014-09-25 22:31:20',
             ),
             275 => 
             array (
@@ -3051,7 +3051,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 584,
                 'postal_code' => '46063',
                 'phone' => '170739645687',
-                'last_update' => '2014-09-25 22:30:48',
+                'updated_at' => '2014-09-25 22:30:48',
             ),
             276 => 
             array (
@@ -3062,7 +3062,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 445,
                 'postal_code' => '2012',
                 'phone' => '45387294817',
-                'last_update' => '2014-09-25 22:32:11',
+                'updated_at' => '2014-09-25 22:32:11',
             ),
             277 => 
             array (
@@ -3073,7 +3073,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 263,
                 'postal_code' => '85548',
                 'phone' => '959949395183',
-                'last_update' => '2014-09-25 22:31:19',
+                'updated_at' => '2014-09-25 22:31:19',
             ),
             278 => 
             array (
@@ -3084,7 +3084,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 404,
                 'postal_code' => '89502',
                 'phone' => '874337098891',
-                'last_update' => '2014-09-25 22:33:57',
+                'updated_at' => '2014-09-25 22:33:57',
             ),
             279 => 
             array (
@@ -3095,7 +3095,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 573,
                 'postal_code' => '24645',
                 'phone' => '75975221996',
-                'last_update' => '2014-09-25 22:34:03',
+                'updated_at' => '2014-09-25 22:34:03',
             ),
             280 => 
             array (
@@ -3106,7 +3106,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 374,
                 'postal_code' => '55802',
                 'phone' => '363982224739',
-                'last_update' => '2014-09-25 22:32:25',
+                'updated_at' => '2014-09-25 22:32:25',
             ),
             281 => 
             array (
@@ -3117,7 +3117,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 222,
                 'postal_code' => '56254',
                 'phone' => '880756161823',
-                'last_update' => '2014-09-25 22:33:25',
+                'updated_at' => '2014-09-25 22:33:25',
             ),
             282 => 
             array (
@@ -3128,7 +3128,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 514,
                 'postal_code' => '96204',
                 'phone' => '117592274996',
-                'last_update' => '2014-09-25 22:31:40',
+                'updated_at' => '2014-09-25 22:31:40',
             ),
             283 => 
             array (
@@ -3139,7 +3139,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 389,
                 'postal_code' => '36229',
                 'phone' => '85059738746',
-                'last_update' => '2014-09-25 22:32:26',
+                'updated_at' => '2014-09-25 22:32:26',
             ),
             284 => 
             array (
@@ -3150,7 +3150,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 175,
                 'postal_code' => '30657',
                 'phone' => '583021225407',
-                'last_update' => '2014-09-25 22:30:34',
+                'updated_at' => '2014-09-25 22:30:34',
             ),
             285 => 
             array (
@@ -3161,7 +3161,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 411,
                 'postal_code' => '8160',
                 'phone' => '62781725285',
-                'last_update' => '2014-09-25 22:32:45',
+                'updated_at' => '2014-09-25 22:32:45',
             ),
             286 => 
             array (
@@ -3172,7 +3172,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 277,
                 'postal_code' => '58492',
                 'phone' => '790651020929',
-                'last_update' => '2014-09-25 22:30:38',
+                'updated_at' => '2014-09-25 22:30:38',
             ),
             287 => 
             array (
@@ -3183,7 +3183,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 69,
                 'postal_code' => '75860',
                 'phone' => '195003555232',
-                'last_update' => '2014-09-25 22:32:23',
+                'updated_at' => '2014-09-25 22:32:23',
             ),
             288 => 
             array (
@@ -3194,7 +3194,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 386,
                 'postal_code' => '46044',
                 'phone' => '341242939532',
-                'last_update' => '2014-09-25 22:31:53',
+                'updated_at' => '2014-09-25 22:31:53',
             ),
             289 => 
             array (
@@ -3205,7 +3205,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 152,
                 'postal_code' => '22650',
                 'phone' => '558236142492',
-                'last_update' => '2014-09-25 22:32:23',
+                'updated_at' => '2014-09-25 22:32:23',
             ),
             290 => 
             array (
@@ -3216,7 +3216,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 522,
                 'postal_code' => '64221',
                 'phone' => '648482415405',
-                'last_update' => '2014-09-25 22:31:27',
+                'updated_at' => '2014-09-25 22:31:27',
             ),
             291 => 
             array (
@@ -3227,7 +3227,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 563,
                 'postal_code' => '33768',
                 'phone' => '957128697225',
-                'last_update' => '2014-09-25 22:32:14',
+                'updated_at' => '2014-09-25 22:32:14',
             ),
             292 => 
             array (
@@ -3238,7 +3238,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 279,
                 'postal_code' => '58124',
                 'phone' => '172262454487',
-                'last_update' => '2014-09-25 22:31:09',
+                'updated_at' => '2014-09-25 22:31:09',
             ),
             293 => 
             array (
@@ -3249,7 +3249,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 562,
                 'postal_code' => '53145',
                 'phone' => '892523334',
-                'last_update' => '2014-09-25 22:34:05',
+                'updated_at' => '2014-09-25 22:34:05',
             ),
             294 => 
             array (
@@ -3260,7 +3260,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 433,
                 'postal_code' => '61195',
                 'phone' => '976798660411',
-                'last_update' => '2014-09-25 22:33:58',
+                'updated_at' => '2014-09-25 22:33:58',
             ),
             295 => 
             array (
@@ -3271,7 +3271,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 470,
                 'postal_code' => '19065',
                 'phone' => '350970907017',
-                'last_update' => '2014-09-25 22:33:35',
+                'updated_at' => '2014-09-25 22:33:35',
             ),
             296 => 
             array (
@@ -3282,7 +3282,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 146,
                 'postal_code' => '61391',
                 'phone' => '96604821070',
-                'last_update' => '2014-09-25 22:33:08',
+                'updated_at' => '2014-09-25 22:33:08',
             ),
             297 => 
             array (
@@ -3293,7 +3293,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 140,
                 'postal_code' => '38834',
                 'phone' => '967274728547',
-                'last_update' => '2014-09-25 22:33:49',
+                'updated_at' => '2014-09-25 22:33:49',
             ),
             298 => 
             array (
@@ -3304,7 +3304,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 274,
                 'postal_code' => '8856',
                 'phone' => '816436065431',
-                'last_update' => '2014-09-25 22:32:51',
+                'updated_at' => '2014-09-25 22:32:51',
             ),
             299 => 
             array (
@@ -3315,7 +3315,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 400,
                 'postal_code' => '98573',
                 'phone' => '429925609431',
-                'last_update' => '2014-09-25 22:31:22',
+                'updated_at' => '2014-09-25 22:31:22',
             ),
             300 => 
             array (
@@ -3326,7 +3326,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 9,
                 'postal_code' => '4085',
                 'phone' => '510737228015',
-                'last_update' => '2014-09-25 22:31:10',
+                'updated_at' => '2014-09-25 22:31:10',
             ),
             301 => 
             array (
@@ -3337,7 +3337,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 387,
                 'postal_code' => '40070',
                 'phone' => '161643343536',
-                'last_update' => '2014-09-25 22:31:00',
+                'updated_at' => '2014-09-25 22:31:00',
             ),
             302 => 
             array (
@@ -3348,7 +3348,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 205,
                 'postal_code' => '52137',
                 'phone' => '710603868323',
-                'last_update' => '2014-09-25 22:31:46',
+                'updated_at' => '2014-09-25 22:31:46',
             ),
             303 => 
             array (
@@ -3359,7 +3359,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 398,
                 'postal_code' => '56883',
                 'phone' => '51917807050',
-                'last_update' => '2014-09-25 22:31:22',
+                'updated_at' => '2014-09-25 22:31:22',
             ),
             304 => 
             array (
@@ -3370,7 +3370,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 254,
                 'postal_code' => '68469',
                 'phone' => '96110042435',
-                'last_update' => '2014-09-25 22:32:50',
+                'updated_at' => '2014-09-25 22:32:50',
             ),
             305 => 
             array (
@@ -3381,7 +3381,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 536,
                 'postal_code' => '58979',
                 'phone' => '108053751300',
-                'last_update' => '2014-09-25 22:30:43',
+                'updated_at' => '2014-09-25 22:30:43',
             ),
             306 => 
             array (
@@ -3392,7 +3392,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 455,
                 'postal_code' => '57587',
                 'phone' => '407218522294',
-                'last_update' => '2014-09-25 22:34:10',
+                'updated_at' => '2014-09-25 22:34:10',
             ),
             307 => 
             array (
@@ -3403,7 +3403,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 99,
                 'postal_code' => '79047',
                 'phone' => '504434452842',
-                'last_update' => '2014-09-25 22:32:32',
+                'updated_at' => '2014-09-25 22:32:32',
             ),
             308 => 
             array (
@@ -3414,7 +3414,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 33,
                 'postal_code' => '42141',
                 'phone' => '262088367001',
-                'last_update' => '2014-09-25 22:33:43',
+                'updated_at' => '2014-09-25 22:33:43',
             ),
             309 => 
             array (
@@ -3425,7 +3425,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 507,
                 'postal_code' => '84804',
                 'phone' => '181179321332',
-                'last_update' => '2014-09-25 22:32:00',
+                'updated_at' => '2014-09-25 22:32:00',
             ),
             310 => 
             array (
@@ -3436,7 +3436,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 25,
                 'postal_code' => '80184',
                 'phone' => '573441801529',
-                'last_update' => '2014-09-25 22:30:15',
+                'updated_at' => '2014-09-25 22:30:15',
             ),
             311 => 
             array (
@@ -3447,7 +3447,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 262,
                 'postal_code' => '9668',
                 'phone' => '983259819766',
-                'last_update' => '2014-09-25 22:33:54',
+                'updated_at' => '2014-09-25 22:33:54',
             ),
             312 => 
             array (
@@ -3458,7 +3458,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 91,
                 'postal_code' => '70923',
                 'phone' => '806016930576',
-                'last_update' => '2014-09-25 22:31:43',
+                'updated_at' => '2014-09-25 22:31:43',
             ),
             313 => 
             array (
@@ -3469,7 +3469,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 215,
                 'postal_code' => '59686',
                 'phone' => '103602195112',
-                'last_update' => '2014-09-25 22:30:18',
+                'updated_at' => '2014-09-25 22:30:18',
             ),
             314 => 
             array (
@@ -3480,7 +3480,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 286,
                 'postal_code' => '94878',
                 'phone' => '688485191923',
-                'last_update' => '2014-09-25 22:32:52',
+                'updated_at' => '2014-09-25 22:32:52',
             ),
             315 => 
             array (
@@ -3491,7 +3491,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 515,
                 'postal_code' => '17032',
                 'phone' => '824396883951',
-                'last_update' => '2014-09-25 22:33:00',
+                'updated_at' => '2014-09-25 22:33:00',
             ),
             316 => 
             array (
@@ -3502,7 +3502,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 166,
                 'postal_code' => '91400',
                 'phone' => '613124286867',
-                'last_update' => '2014-09-25 22:30:33',
+                'updated_at' => '2014-09-25 22:30:33',
             ),
             317 => 
             array (
@@ -3513,7 +3513,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 490,
                 'postal_code' => '59255',
                 'phone' => '704948322302',
-                'last_update' => '2014-09-25 22:30:22',
+                'updated_at' => '2014-09-25 22:30:22',
             ),
             318 => 
             array (
@@ -3524,7 +3524,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 57,
                 'postal_code' => '62472',
                 'phone' => '508800331065',
-                'last_update' => '2014-09-25 22:31:41',
+                'updated_at' => '2014-09-25 22:31:41',
             ),
             319 => 
             array (
@@ -3535,7 +3535,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 336,
                 'postal_code' => '59811',
                 'phone' => '139378397418',
-                'last_update' => '2014-09-25 22:31:20',
+                'updated_at' => '2014-09-25 22:31:20',
             ),
             320 => 
             array (
@@ -3546,7 +3546,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 545,
                 'postal_code' => '29763',
                 'phone' => '46568045367',
-                'last_update' => '2014-09-25 22:30:59',
+                'updated_at' => '2014-09-25 22:30:59',
             ),
             321 => 
             array (
@@ -3557,7 +3557,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 97,
                 'postal_code' => '25787',
                 'phone' => '556100547674',
-                'last_update' => '2014-09-25 22:32:41',
+                'updated_at' => '2014-09-25 22:32:41',
             ),
             322 => 
             array (
@@ -3568,7 +3568,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 451,
                 'postal_code' => '73170',
                 'phone' => '674805712553',
-                'last_update' => '2014-09-25 22:32:12',
+                'updated_at' => '2014-09-25 22:32:12',
             ),
             323 => 
             array (
@@ -3579,7 +3579,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 516,
                 'postal_code' => '28396',
                 'phone' => '478229987054',
-                'last_update' => '2014-09-25 22:30:02',
+                'updated_at' => '2014-09-25 22:30:02',
             ),
             324 => 
             array (
@@ -3590,7 +3590,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 81,
                 'postal_code' => '97960',
                 'phone' => '908029859266',
-                'last_update' => '2014-09-25 22:32:19',
+                'updated_at' => '2014-09-25 22:32:19',
             ),
             325 => 
             array (
@@ -3601,7 +3601,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 45,
                 'postal_code' => '85799',
                 'phone' => '972574862516',
-                'last_update' => '2014-09-25 22:30:04',
+                'updated_at' => '2014-09-25 22:30:04',
             ),
             326 => 
             array (
@@ -3612,7 +3612,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 130,
                 'postal_code' => '54949',
                 'phone' => '869051782691',
-                'last_update' => '2014-09-25 22:32:04',
+                'updated_at' => '2014-09-25 22:32:04',
             ),
             327 => 
             array (
@@ -3623,7 +3623,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 591,
                 'postal_code' => '78543',
                 'phone' => '168884817145',
-                'last_update' => '2014-09-25 22:30:50',
+                'updated_at' => '2014-09-25 22:30:50',
             ),
             328 => 
             array (
@@ -3634,7 +3634,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 89,
                 'postal_code' => '87611',
                 'phone' => '829116184079',
-                'last_update' => '2014-09-25 22:30:17',
+                'updated_at' => '2014-09-25 22:30:17',
             ),
             329 => 
             array (
@@ -3645,7 +3645,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 269,
                 'postal_code' => '49833',
                 'phone' => '961370847344',
-                'last_update' => '2014-09-25 22:32:59',
+                'updated_at' => '2014-09-25 22:32:59',
             ),
             330 => 
             array (
@@ -3656,7 +3656,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 5,
                 'postal_code' => '33463',
                 'phone' => '834418779292',
-                'last_update' => '2014-09-25 22:33:22',
+                'updated_at' => '2014-09-25 22:33:22',
             ),
             331 => 
             array (
@@ -3667,7 +3667,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 119,
                 'postal_code' => '59550',
                 'phone' => '38158430589',
-                'last_update' => '2014-09-25 22:31:32',
+                'updated_at' => '2014-09-25 22:31:32',
             ),
             332 => 
             array (
@@ -3678,7 +3678,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 234,
                 'postal_code' => '64308',
                 'phone' => '965273813662',
-                'last_update' => '2014-09-25 22:30:12',
+                'updated_at' => '2014-09-25 22:30:12',
             ),
             333 => 
             array (
@@ -3689,7 +3689,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 42,
                 'postal_code' => '91590',
                 'phone' => '165450987037',
-                'last_update' => '2014-09-25 22:33:44',
+                'updated_at' => '2014-09-25 22:33:44',
             ),
             334 => 
             array (
@@ -3700,7 +3700,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 457,
                 'postal_code' => '28814',
                 'phone' => '105470691550',
-                'last_update' => '2014-09-25 22:30:07',
+                'updated_at' => '2014-09-25 22:30:07',
             ),
             335 => 
             array (
@@ -3711,7 +3711,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 143,
                 'postal_code' => '1195',
                 'phone' => '38988715447',
-                'last_update' => '2014-09-25 22:30:12',
+                'updated_at' => '2014-09-25 22:30:12',
             ),
             336 => 
             array (
@@ -3722,7 +3722,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 48,
                 'postal_code' => '57828',
                 'phone' => '119501405123',
-                'last_update' => '2014-09-25 22:30:11',
+                'updated_at' => '2014-09-25 22:30:11',
             ),
             337 => 
             array (
@@ -3733,7 +3733,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 505,
                 'postal_code' => '49812',
                 'phone' => '834626715837',
-                'last_update' => '2014-09-25 22:30:11',
+                'updated_at' => '2014-09-25 22:30:11',
             ),
             338 => 
             array (
@@ -3744,7 +3744,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 492,
                 'postal_code' => '22971',
                 'phone' => '80303246192',
-                'last_update' => '2014-09-25 22:33:21',
+                'updated_at' => '2014-09-25 22:33:21',
             ),
             339 => 
             array (
@@ -3755,7 +3755,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 427,
                 'postal_code' => '15643',
                 'phone' => '869507847714',
-                'last_update' => '2014-09-25 22:31:25',
+                'updated_at' => '2014-09-25 22:31:25',
             ),
             340 => 
             array (
@@ -3766,7 +3766,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 382,
                 'postal_code' => '52368',
                 'phone' => '647899404952',
-                'last_update' => '2014-09-25 22:31:52',
+                'updated_at' => '2014-09-25 22:31:52',
             ),
             341 => 
             array (
@@ -3777,7 +3777,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 392,
                 'postal_code' => '31483',
                 'phone' => '231383037471',
-                'last_update' => '2014-09-25 22:33:05',
+                'updated_at' => '2014-09-25 22:33:05',
             ),
             342 => 
             array (
@@ -3788,7 +3788,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 581,
                 'postal_code' => '19913',
                 'phone' => '624138001031',
-                'last_update' => '2014-09-25 22:30:47',
+                'updated_at' => '2014-09-25 22:30:47',
             ),
             343 => 
             array (
@@ -3799,7 +3799,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 201,
                 'postal_code' => '85926',
                 'phone' => '870635127812',
-                'last_update' => '2014-09-25 22:34:06',
+                'updated_at' => '2014-09-25 22:34:06',
             ),
             344 => 
             array (
@@ -3810,7 +3810,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 151,
                 'postal_code' => '504',
                 'phone' => '718917251754',
-                'last_update' => '2014-09-25 22:32:20',
+                'updated_at' => '2014-09-25 22:32:20',
             ),
             345 => 
             array (
@@ -3821,7 +3821,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 84,
                 'postal_code' => '71583',
                 'phone' => '697656479977',
-                'last_update' => '2014-09-25 22:30:17',
+                'updated_at' => '2014-09-25 22:30:17',
             ),
             346 => 
             array (
@@ -3832,7 +3832,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 335,
                 'postal_code' => '36170',
                 'phone' => '895616862749',
-                'last_update' => '2014-09-25 22:32:10',
+                'updated_at' => '2014-09-25 22:32:10',
             ),
             347 => 
             array (
@@ -3843,7 +3843,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 370,
                 'postal_code' => '46069',
                 'phone' => '64536069371',
-                'last_update' => '2014-09-25 22:33:20',
+                'updated_at' => '2014-09-25 22:33:20',
             ),
             348 => 
             array (
@@ -3854,7 +3854,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 453,
                 'postal_code' => '60079',
                 'phone' => '20064292617',
-                'last_update' => '2014-09-25 22:32:32',
+                'updated_at' => '2014-09-25 22:32:32',
             ),
             349 => 
             array (
@@ -3865,7 +3865,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 320,
                 'postal_code' => '56380',
                 'phone' => '262744791493',
-                'last_update' => '2014-09-25 22:32:55',
+                'updated_at' => '2014-09-25 22:32:55',
             ),
             350 => 
             array (
@@ -3876,7 +3876,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 137,
                 'postal_code' => '26857',
                 'phone' => '627924259271',
-                'last_update' => '2014-09-25 22:31:57',
+                'updated_at' => '2014-09-25 22:31:57',
             ),
             351 => 
             array (
@@ -3887,7 +3887,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 209,
                 'postal_code' => '87272',
                 'phone' => '55477302294',
-                'last_update' => '2014-09-25 22:33:15',
+                'updated_at' => '2014-09-25 22:33:15',
             ),
             352 => 
             array (
@@ -3898,7 +3898,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 221,
                 'postal_code' => '18841',
                 'phone' => '53912826864',
-                'last_update' => '2014-09-25 22:32:37',
+                'updated_at' => '2014-09-25 22:32:37',
             ),
             353 => 
             array (
@@ -3909,7 +3909,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 531,
                 'postal_code' => '58866',
                 'phone' => '689199636560',
-                'last_update' => '2014-09-25 22:32:58',
+                'updated_at' => '2014-09-25 22:32:58',
             ),
             354 => 
             array (
@@ -3920,7 +3920,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 597,
                 'postal_code' => '40792',
                 'phone' => '840957664136',
-                'last_update' => '2014-09-25 22:32:58',
+                'updated_at' => '2014-09-25 22:32:58',
             ),
             355 => 
             array (
@@ -3931,7 +3931,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 52,
                 'postal_code' => '37636',
                 'phone' => '256546485220',
-                'last_update' => '2014-09-25 22:30:25',
+                'updated_at' => '2014-09-25 22:30:25',
             ),
             356 => 
             array (
@@ -3942,7 +3942,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 393,
                 'postal_code' => '49009',
                 'phone' => '754358349853',
-                'last_update' => '2014-09-25 22:32:11',
+                'updated_at' => '2014-09-25 22:32:11',
             ),
             357 => 
             array (
@@ -3953,7 +3953,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 461,
                 'postal_code' => '37650',
                 'phone' => '764680915323',
-                'last_update' => '2014-09-25 22:30:21',
+                'updated_at' => '2014-09-25 22:30:21',
             ),
             358 => 
             array (
@@ -3964,7 +3964,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 331,
                 'postal_code' => '81508',
                 'phone' => '142596392389',
-                'last_update' => '2014-09-25 22:31:50',
+                'updated_at' => '2014-09-25 22:31:50',
             ),
             359 => 
             array (
@@ -3975,7 +3975,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 464,
                 'postal_code' => '7431',
                 'phone' => '650496654258',
-                'last_update' => '2014-09-25 22:31:26',
+                'updated_at' => '2014-09-25 22:31:26',
             ),
             360 => 
             array (
@@ -3986,7 +3986,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 90,
                 'postal_code' => '97056',
                 'phone' => '738968474939',
-                'last_update' => '2014-09-25 22:33:02',
+                'updated_at' => '2014-09-25 22:33:02',
             ),
             361 => 
             array (
@@ -3997,7 +3997,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 429,
                 'postal_code' => '5373',
                 'phone' => '620719383725',
-                'last_update' => '2014-09-25 22:31:25',
+                'updated_at' => '2014-09-25 22:31:25',
             ),
             362 => 
             array (
@@ -4008,7 +4008,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 20,
                 'postal_code' => '91299',
                 'phone' => '296394569728',
-                'last_update' => '2014-09-25 22:30:04',
+                'updated_at' => '2014-09-25 22:30:04',
             ),
             363 => 
             array (
@@ -4019,7 +4019,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 32,
                 'postal_code' => '64875',
                 'phone' => '102396298916',
-                'last_update' => '2014-09-25 22:32:45',
+                'updated_at' => '2014-09-25 22:32:45',
             ),
             364 => 
             array (
@@ -4030,7 +4030,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 585,
                 'postal_code' => '60440',
                 'phone' => '845378657301',
-                'last_update' => '2014-09-25 22:30:25',
+                'updated_at' => '2014-09-25 22:30:25',
             ),
             365 => 
             array (
@@ -4041,7 +4041,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 66,
                 'postal_code' => '6066',
                 'phone' => '675120358494',
-                'last_update' => '2014-09-25 22:30:16',
+                'updated_at' => '2014-09-25 22:30:16',
             ),
             366 => 
             array (
@@ -4052,7 +4052,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 372,
                 'postal_code' => '96584',
                 'phone' => '568367775448',
-                'last_update' => '2014-09-25 22:31:56',
+                'updated_at' => '2014-09-25 22:31:56',
             ),
             367 => 
             array (
@@ -4063,7 +4063,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 188,
                 'postal_code' => '77449',
                 'phone' => '151249681135',
-                'last_update' => '2014-09-25 22:32:06',
+                'updated_at' => '2014-09-25 22:32:06',
             ),
             368 => 
             array (
@@ -4074,7 +4074,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 377,
                 'postal_code' => '45750',
                 'phone' => '634445428822',
-                'last_update' => '2014-09-25 22:31:52',
+                'updated_at' => '2014-09-25 22:31:52',
             ),
             369 => 
             array (
@@ -4085,7 +4085,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 50,
                 'postal_code' => '33050',
                 'phone' => '99883471275',
-                'last_update' => '2014-09-25 22:33:22',
+                'updated_at' => '2014-09-25 22:33:22',
             ),
             370 => 
             array (
@@ -4096,7 +4096,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 8,
                 'postal_code' => '2738',
                 'phone' => '166898395731',
-                'last_update' => '2014-09-25 22:31:09',
+                'updated_at' => '2014-09-25 22:31:09',
             ),
             371 => 
             array (
@@ -4107,7 +4107,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 356,
                 'postal_code' => '13203',
                 'phone' => '320471479776',
-                'last_update' => '2014-09-25 22:31:37',
+                'updated_at' => '2014-09-25 22:31:37',
             ),
             372 => 
             array (
@@ -4118,7 +4118,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 250,
                 'postal_code' => '91330',
                 'phone' => '561729882725',
-                'last_update' => '2014-09-25 22:32:08',
+                'updated_at' => '2014-09-25 22:32:08',
             ),
             373 => 
             array (
@@ -4129,7 +4129,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 191,
                 'postal_code' => '69640',
                 'phone' => '960505250340',
-                'last_update' => '2014-09-25 22:31:16',
+                'updated_at' => '2014-09-25 22:31:16',
             ),
             374 => 
             array (
@@ -4140,7 +4140,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 98,
                 'postal_code' => '57810',
                 'phone' => '333390595558',
-                'last_update' => '2014-09-25 22:32:35',
+                'updated_at' => '2014-09-25 22:32:35',
             ),
             375 => 
             array (
@@ -4151,7 +4151,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 415,
                 'postal_code' => '72771',
                 'phone' => '440365973660',
-                'last_update' => '2014-09-25 22:31:34',
+                'updated_at' => '2014-09-25 22:31:34',
             ),
             376 => 
             array (
@@ -4162,7 +4162,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 523,
                 'postal_code' => '6362',
                 'phone' => '45554316010',
-                'last_update' => '2014-09-25 22:32:40',
+                'updated_at' => '2014-09-25 22:32:40',
             ),
             377 => 
             array (
@@ -4173,7 +4173,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 572,
                 'postal_code' => '2800',
                 'phone' => '600264533987',
-                'last_update' => '2014-09-25 22:30:23',
+                'updated_at' => '2014-09-25 22:30:23',
             ),
             378 => 
             array (
@@ -4184,7 +4184,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 348,
                 'postal_code' => '22025',
                 'phone' => '409315295763',
-                'last_update' => '2014-09-25 22:30:53',
+                'updated_at' => '2014-09-25 22:30:53',
             ),
             379 => 
             array (
@@ -4195,7 +4195,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 285,
                 'postal_code' => '26385',
                 'phone' => '96846695220',
-                'last_update' => '2014-09-25 22:32:51',
+                'updated_at' => '2014-09-25 22:32:51',
             ),
             380 => 
             array (
@@ -4206,7 +4206,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 265,
                 'postal_code' => '45298',
                 'phone' => '342720754566',
-                'last_update' => '2014-09-25 22:31:37',
+                'updated_at' => '2014-09-25 22:31:37',
             ),
             381 => 
             array (
@@ -4217,7 +4217,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 471,
                 'postal_code' => '97390',
                 'phone' => '71857599858',
-                'last_update' => '2014-09-25 22:30:42',
+                'updated_at' => '2014-09-25 22:30:42',
             ),
             382 => 
             array (
@@ -4228,7 +4228,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 73,
                 'postal_code' => '89294',
                 'phone' => '924815207181',
-                'last_update' => '2014-09-25 22:31:11',
+                'updated_at' => '2014-09-25 22:31:11',
             ),
             383 => 
             array (
@@ -4239,7 +4239,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 549,
                 'postal_code' => '75442',
                 'phone' => '821476736117',
-                'last_update' => '2014-09-25 22:32:44',
+                'updated_at' => '2014-09-25 22:32:44',
             ),
             384 => 
             array (
@@ -4250,7 +4250,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 493,
                 'postal_code' => '32716',
                 'phone' => '934352415130',
-                'last_update' => '2014-09-25 22:30:03',
+                'updated_at' => '2014-09-25 22:30:03',
             ),
             385 => 
             array (
@@ -4261,7 +4261,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 322,
                 'postal_code' => '25007',
                 'phone' => '486395999608',
-                'last_update' => '2014-09-25 22:33:56',
+                'updated_at' => '2014-09-25 22:33:56',
             ),
             386 => 
             array (
@@ -4272,7 +4272,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 360,
                 'postal_code' => '17165',
                 'phone' => '106439158941',
-                'last_update' => '2014-09-25 22:30:03',
+                'updated_at' => '2014-09-25 22:30:03',
             ),
             387 => 
             array (
@@ -4283,7 +4283,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 210,
                 'postal_code' => '95509',
                 'phone' => '550306965159',
-                'last_update' => '2014-09-25 22:30:35',
+                'updated_at' => '2014-09-25 22:30:35',
             ),
             388 => 
             array (
@@ -4294,7 +4294,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 521,
                 'postal_code' => '14073',
                 'phone' => '776031833752',
-                'last_update' => '2014-09-25 22:31:54',
+                'updated_at' => '2014-09-25 22:31:54',
             ),
             389 => 
             array (
@@ -4305,7 +4305,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 258,
                 'postal_code' => '33535',
                 'phone' => '619966287415',
-                'last_update' => '2014-09-25 22:33:31',
+                'updated_at' => '2014-09-25 22:33:31',
             ),
             390 => 
             array (
@@ -4316,7 +4316,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 315,
                 'postal_code' => '69973',
                 'phone' => '900235712074',
-                'last_update' => '2014-09-25 22:30:53',
+                'updated_at' => '2014-09-25 22:30:53',
             ),
             391 => 
             array (
@@ -4327,7 +4327,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 104,
                 'postal_code' => '21615',
                 'phone' => '426255288071',
-                'last_update' => '2014-09-25 22:32:36',
+                'updated_at' => '2014-09-25 22:32:36',
             ),
             392 => 
             array (
@@ -4338,7 +4338,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 157,
                 'postal_code' => '3656',
                 'phone' => '464511145118',
-                'last_update' => '2014-09-25 22:30:32',
+                'updated_at' => '2014-09-25 22:30:32',
             ),
             393 => 
             array (
@@ -4349,7 +4349,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 358,
                 'postal_code' => '29810',
                 'phone' => '175283210378',
-                'last_update' => '2014-09-25 22:33:19',
+                'updated_at' => '2014-09-25 22:33:19',
             ),
             394 => 
             array (
@@ -4360,7 +4360,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 229,
                 'postal_code' => '83536',
                 'phone' => '667736124769',
-                'last_update' => '2014-09-25 22:31:48',
+                'updated_at' => '2014-09-25 22:31:48',
             ),
             395 => 
             array (
@@ -4371,7 +4371,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 6,
                 'postal_code' => '27796',
                 'phone' => '47808359842',
-                'last_update' => '2014-09-25 22:30:59',
+                'updated_at' => '2014-09-25 22:30:59',
             ),
             396 => 
             array (
@@ -4382,7 +4382,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 278,
                 'postal_code' => '8816',
                 'phone' => '737229003916',
-                'last_update' => '2014-09-25 22:32:51',
+                'updated_at' => '2014-09-25 22:32:51',
             ),
             397 => 
             array (
@@ -4393,7 +4393,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 181,
                 'postal_code' => '966',
                 'phone' => '537374465982',
-                'last_update' => '2014-09-25 22:33:09',
+                'updated_at' => '2014-09-25 22:33:09',
             ),
             398 => 
             array (
@@ -4404,7 +4404,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 15,
                 'postal_code' => '5239',
                 'phone' => '765957414528',
-                'last_update' => '2014-09-25 22:33:11',
+                'updated_at' => '2014-09-25 22:33:11',
             ),
             399 => 
             array (
@@ -4415,7 +4415,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 228,
                 'postal_code' => '73824',
                 'phone' => '679095087143',
-                'last_update' => '2014-09-25 22:31:48',
+                'updated_at' => '2014-09-25 22:31:48',
             ),
             400 => 
             array (
@@ -4426,7 +4426,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 39,
                 'postal_code' => '46043',
                 'phone' => '604177838256',
-                'last_update' => '2014-09-25 22:32:47',
+                'updated_at' => '2014-09-25 22:32:47',
             ),
             401 => 
             array (
@@ -4437,7 +4437,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 44,
                 'postal_code' => '10417',
                 'phone' => '841876514789',
-                'last_update' => '2014-09-25 22:30:16',
+                'updated_at' => '2014-09-25 22:30:16',
             ),
             402 => 
             array (
@@ -4448,7 +4448,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 375,
                 'postal_code' => '30586',
                 'phone' => '280578750435',
-                'last_update' => '2014-09-25 22:32:31',
+                'updated_at' => '2014-09-25 22:32:31',
             ),
             403 => 
             array (
@@ -4459,7 +4459,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 135,
                 'postal_code' => '11067',
                 'phone' => '775235029633',
-                'last_update' => '2014-09-25 22:33:49',
+                'updated_at' => '2014-09-25 22:33:49',
             ),
             404 => 
             array (
@@ -4470,7 +4470,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 276,
                 'postal_code' => '13496',
                 'phone' => '794553031307',
-                'last_update' => '2014-09-25 22:31:49',
+                'updated_at' => '2014-09-25 22:31:49',
             ),
             405 => 
             array (
@@ -4481,7 +4481,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 92,
                 'postal_code' => '61507',
                 'phone' => '516647474029',
-                'last_update' => '2014-09-25 22:31:00',
+                'updated_at' => '2014-09-25 22:31:00',
             ),
             406 => 
             array (
@@ -4492,7 +4492,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 564,
                 'postal_code' => '79940',
                 'phone' => '206169448769',
-                'last_update' => '2014-09-25 22:31:29',
+                'updated_at' => '2014-09-25 22:31:29',
             ),
             407 => 
             array (
@@ -4503,7 +4503,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 380,
                 'postal_code' => '7664',
                 'phone' => '1483365694',
-                'last_update' => '2014-09-25 22:31:52',
+                'updated_at' => '2014-09-25 22:31:52',
             ),
             408 => 
             array (
@@ -4514,7 +4514,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 524,
                 'postal_code' => '86868',
                 'phone' => '779461480495',
-                'last_update' => '2014-09-25 22:30:07',
+                'updated_at' => '2014-09-25 22:30:07',
             ),
             409 => 
             array (
@@ -4525,7 +4525,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 111,
                 'postal_code' => '54749',
                 'phone' => '302526949177',
-                'last_update' => '2014-09-25 22:34:08',
+                'updated_at' => '2014-09-25 22:34:08',
             ),
             410 => 
             array (
@@ -4536,7 +4536,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 437,
                 'postal_code' => '9827',
                 'phone' => '328494873422',
-                'last_update' => '2014-09-25 22:33:05',
+                'updated_at' => '2014-09-25 22:33:05',
             ),
             411 => 
             array (
@@ -4547,7 +4547,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 230,
                 'postal_code' => '35575',
                 'phone' => '359478883004',
-                'last_update' => '2014-09-25 22:33:10',
+                'updated_at' => '2014-09-25 22:33:10',
             ),
             412 => 
             array (
@@ -4558,7 +4558,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 141,
                 'postal_code' => '7122',
                 'phone' => '653436985797',
-                'last_update' => '2014-09-25 22:32:23',
+                'updated_at' => '2014-09-25 22:32:23',
             ),
             413 => 
             array (
@@ -4569,7 +4569,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 430,
                 'postal_code' => '65630',
                 'phone' => '615964523510',
-                'last_update' => '2014-09-25 22:30:28',
+                'updated_at' => '2014-09-25 22:30:28',
             ),
             414 => 
             array (
@@ -4580,7 +4580,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 117,
                 'postal_code' => '70809',
                 'phone' => '598912394463',
-                'last_update' => '2014-09-25 22:31:30',
+                'updated_at' => '2014-09-25 22:31:30',
             ),
             415 => 
             array (
@@ -4591,7 +4591,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 208,
                 'postal_code' => '40509',
                 'phone' => '129953030512',
-                'last_update' => '2014-09-25 22:31:17',
+                'updated_at' => '2014-09-25 22:31:17',
             ),
             416 => 
             array (
@@ -4602,7 +4602,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 71,
                 'postal_code' => '58888',
                 'phone' => '480039662421',
-                'last_update' => '2014-09-25 22:31:11',
+                'updated_at' => '2014-09-25 22:31:11',
             ),
             417 => 
             array (
@@ -4613,7 +4613,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 19,
                 'postal_code' => '55566',
                 'phone' => '680851640676',
-                'last_update' => '2014-09-25 22:32:01',
+                'updated_at' => '2014-09-25 22:32:01',
             ),
             418 => 
             array (
@@ -4624,7 +4624,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 23,
                 'postal_code' => '33711',
                 'phone' => '855290087237',
-                'last_update' => '2014-09-25 22:32:19',
+                'updated_at' => '2014-09-25 22:32:19',
             ),
             419 => 
             array (
@@ -4635,7 +4635,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 134,
                 'postal_code' => '94018',
                 'phone' => '15273765306',
-                'last_update' => '2014-09-25 22:32:30',
+                'updated_at' => '2014-09-25 22:32:30',
             ),
             420 => 
             array (
@@ -4646,7 +4646,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 16,
                 'postal_code' => '72410',
                 'phone' => '214976066017',
-                'last_update' => '2014-09-25 22:32:59',
+                'updated_at' => '2014-09-25 22:32:59',
             ),
             421 => 
             array (
@@ -4657,7 +4657,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 450,
                 'postal_code' => '59489',
                 'phone' => '491271355190',
-                'last_update' => '2014-09-25 22:30:55',
+                'updated_at' => '2014-09-25 22:30:55',
             ),
             422 => 
             array (
@@ -4668,7 +4668,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 264,
                 'postal_code' => '60622',
                 'phone' => '987306329957',
-                'last_update' => '2014-09-25 22:31:19',
+                'updated_at' => '2014-09-25 22:31:19',
             ),
             423 => 
             array (
@@ -4679,7 +4679,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 155,
                 'postal_code' => '89420',
                 'phone' => '546793516940',
-                'last_update' => '2014-09-25 22:33:50',
+                'updated_at' => '2014-09-25 22:33:50',
             ),
             424 => 
             array (
@@ -4690,7 +4690,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 416,
                 'postal_code' => '14400',
                 'phone' => '270456873752',
-                'last_update' => '2014-09-25 22:31:23',
+                'updated_at' => '2014-09-25 22:31:23',
             ),
             425 => 
             array (
@@ -4701,7 +4701,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 293,
                 'postal_code' => '46875',
                 'phone' => '368284120423',
-                'last_update' => '2014-09-25 22:30:38',
+                'updated_at' => '2014-09-25 22:30:38',
             ),
             426 => 
             array (
@@ -4712,7 +4712,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 465,
                 'postal_code' => '78813',
                 'phone' => '129673677866',
-                'last_update' => '2014-09-25 22:30:57',
+                'updated_at' => '2014-09-25 22:30:57',
             ),
             427 => 
             array (
@@ -4723,7 +4723,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 468,
                 'postal_code' => '47394',
                 'phone' => '736517327853',
-                'last_update' => '2014-09-25 22:30:42',
+                'updated_at' => '2014-09-25 22:30:42',
             ),
             428 => 
             array (
@@ -4734,7 +4734,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 452,
                 'postal_code' => '81758',
                 'phone' => '548003849552',
-                'last_update' => '2014-09-25 22:32:13',
+                'updated_at' => '2014-09-25 22:32:13',
             ),
             429 => 
             array (
@@ -4745,7 +4745,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 418,
                 'postal_code' => '70425',
                 'phone' => '157133457169',
-                'last_update' => '2014-09-25 22:31:24',
+                'updated_at' => '2014-09-25 22:31:24',
             ),
             430 => 
             array (
@@ -4756,7 +4756,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 189,
                 'postal_code' => '64964',
                 'phone' => '419009857119',
-                'last_update' => '2014-09-25 22:30:18',
+                'updated_at' => '2014-09-25 22:30:18',
             ),
             431 => 
             array (
@@ -4767,7 +4767,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 510,
                 'postal_code' => '33191',
                 'phone' => '307133768620',
-                'last_update' => '2014-09-25 22:32:57',
+                'updated_at' => '2014-09-25 22:32:57',
             ),
             432 => 
             array (
@@ -4778,7 +4778,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 547,
                 'postal_code' => '87212',
                 'phone' => '572068624538',
-                'last_update' => '2014-09-25 22:31:54',
+                'updated_at' => '2014-09-25 22:31:54',
             ),
             433 => 
             array (
@@ -4789,7 +4789,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 150,
                 'postal_code' => '33505',
                 'phone' => '497288595103',
-                'last_update' => '2014-09-25 22:32:47',
+                'updated_at' => '2014-09-25 22:32:47',
             ),
             434 => 
             array (
@@ -4800,7 +4800,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 501,
                 'postal_code' => '72736',
                 'phone' => '82619513349',
-                'last_update' => '2014-09-25 22:30:14',
+                'updated_at' => '2014-09-25 22:30:14',
             ),
             435 => 
             array (
@@ -4811,7 +4811,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 364,
                 'postal_code' => '63104',
                 'phone' => '617567598243',
-                'last_update' => '2014-09-25 22:33:04',
+                'updated_at' => '2014-09-25 22:33:04',
             ),
             436 => 
             array (
@@ -4822,7 +4822,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 351,
                 'postal_code' => '65892',
                 'phone' => '342709348083',
-                'last_update' => '2014-09-25 22:32:17',
+                'updated_at' => '2014-09-25 22:32:17',
             ),
             437 => 
             array (
@@ -4833,7 +4833,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 391,
                 'postal_code' => '41775',
                 'phone' => '959834530529',
-                'last_update' => '2014-09-25 22:32:38',
+                'updated_at' => '2014-09-25 22:32:38',
             ),
             438 => 
             array (
@@ -4844,7 +4844,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 249,
                 'postal_code' => '90920',
                 'phone' => '746251338300',
-                'last_update' => '2014-09-25 22:30:37',
+                'updated_at' => '2014-09-25 22:30:37',
             ),
             439 => 
             array (
@@ -4855,7 +4855,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 565,
                 'postal_code' => '47472',
                 'phone' => '145720452260',
-                'last_update' => '2014-09-25 22:30:28',
+                'updated_at' => '2014-09-25 22:30:28',
             ),
             440 => 
             array (
@@ -4866,7 +4866,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 290,
                 'postal_code' => '40926',
                 'phone' => '331888642162',
-                'last_update' => '2014-09-25 22:30:54',
+                'updated_at' => '2014-09-25 22:30:54',
             ),
             441 => 
             array (
@@ -4877,7 +4877,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 272,
                 'postal_code' => '55405',
                 'phone' => '689681677428',
-                'last_update' => '2014-09-25 22:34:11',
+                'updated_at' => '2014-09-25 22:34:11',
             ),
             442 => 
             array (
@@ -4888,7 +4888,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 70,
                 'postal_code' => '57833',
                 'phone' => '575081026569',
-                'last_update' => '2014-09-25 22:31:42',
+                'updated_at' => '2014-09-25 22:31:42',
             ),
             443 => 
             array (
@@ -4899,7 +4899,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 144,
                 'postal_code' => '3',
                 'phone' => '82088937724',
-                'last_update' => '2014-09-25 22:31:15',
+                'updated_at' => '2014-09-25 22:31:15',
             ),
             444 => 
             array (
@@ -4910,7 +4910,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 59,
                 'postal_code' => '52625',
                 'phone' => '406784385440',
-                'last_update' => '2014-09-25 22:29:59',
+                'updated_at' => '2014-09-25 22:29:59',
             ),
             445 => 
             array (
@@ -4921,7 +4921,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 540,
                 'postal_code' => '48570',
                 'phone' => '240776414296',
-                'last_update' => '2014-09-25 22:30:44',
+                'updated_at' => '2014-09-25 22:30:44',
             ),
             446 => 
             array (
@@ -4932,7 +4932,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 486,
                 'postal_code' => '29444',
                 'phone' => '876491807547',
-                'last_update' => '2014-09-25 22:30:22',
+                'updated_at' => '2014-09-25 22:30:22',
             ),
             447 => 
             array (
@@ -4943,7 +4943,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 530,
                 'postal_code' => '88306',
                 'phone' => '237368926031',
-                'last_update' => '2014-09-25 22:30:58',
+                'updated_at' => '2014-09-25 22:30:58',
             ),
             448 => 
             array (
@@ -4954,7 +4954,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 161,
                 'postal_code' => '73942',
                 'phone' => '411549550611',
-                'last_update' => '2014-09-25 22:30:05',
+                'updated_at' => '2014-09-25 22:30:05',
             ),
             449 => 
             array (
@@ -4965,7 +4965,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 554,
                 'postal_code' => '2834',
                 'phone' => '39463554936',
-                'last_update' => '2014-09-25 22:31:28',
+                'updated_at' => '2014-09-25 22:31:28',
             ),
             450 => 
             array (
@@ -4976,7 +4976,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 352,
                 'postal_code' => '52671',
                 'phone' => '782900030287',
-                'last_update' => '2014-09-25 22:32:55',
+                'updated_at' => '2014-09-25 22:32:55',
             ),
             451 => 
             array (
@@ -4987,7 +4987,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 160,
                 'postal_code' => '99552',
                 'phone' => '72524459905',
-                'last_update' => '2014-09-25 22:31:05',
+                'updated_at' => '2014-09-25 22:31:05',
             ),
             452 => 
             array (
@@ -4998,7 +4998,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 481,
                 'postal_code' => '21872',
                 'phone' => '474047727727',
-                'last_update' => '2014-09-25 22:31:39',
+                'updated_at' => '2014-09-25 22:31:39',
             ),
             453 => 
             array (
@@ -5009,7 +5009,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 509,
                 'postal_code' => '23636',
                 'phone' => '834061016202',
-                'last_update' => '2014-09-25 22:31:35',
+                'updated_at' => '2014-09-25 22:31:35',
             ),
             454 => 
             array (
@@ -5020,7 +5020,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 154,
                 'postal_code' => '48745',
                 'phone' => '524567129902',
-                'last_update' => '2014-09-25 22:32:05',
+                'updated_at' => '2014-09-25 22:32:05',
             ),
             455 => 
             array (
@@ -5031,7 +5031,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 3,
                 'postal_code' => '41136',
                 'phone' => '985109775584',
-                'last_update' => '2014-09-25 22:33:34',
+                'updated_at' => '2014-09-25 22:33:34',
             ),
             456 => 
             array (
@@ -5042,7 +5042,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 326,
                 'postal_code' => '16790',
                 'phone' => '974433019532',
-                'last_update' => '2014-09-25 22:34:04',
+                'updated_at' => '2014-09-25 22:34:04',
             ),
             457 => 
             array (
@@ -5053,7 +5053,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 556,
                 'postal_code' => '16119',
                 'phone' => '118011831565',
-                'last_update' => '2014-09-25 22:32:13',
+                'updated_at' => '2014-09-25 22:32:13',
             ),
             458 => 
             array (
@@ -5064,7 +5064,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 153,
                 'postal_code' => '28587',
                 'phone' => '205524798287',
-                'last_update' => '2014-09-25 22:30:13',
+                'updated_at' => '2014-09-25 22:30:13',
             ),
             459 => 
             array (
@@ -5075,7 +5075,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 600,
                 'postal_code' => '75559',
                 'phone' => '670370974122',
-                'last_update' => '2014-09-25 22:33:01',
+                'updated_at' => '2014-09-25 22:33:01',
             ),
             460 => 
             array (
@@ -5086,7 +5086,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 435,
                 'postal_code' => '83183',
                 'phone' => '924663855568',
-                'last_update' => '2014-09-25 22:33:59',
+                'updated_at' => '2014-09-25 22:33:59',
             ),
             461 => 
             array (
@@ -5097,7 +5097,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 532,
                 'postal_code' => '64709',
                 'phone' => '335052544020',
-                'last_update' => '2014-09-25 22:31:35',
+                'updated_at' => '2014-09-25 22:31:35',
             ),
             462 => 
             array (
@@ -5108,7 +5108,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 423,
                 'postal_code' => '23343',
                 'phone' => '762361821578',
-                'last_update' => '2014-09-25 22:31:37',
+                'updated_at' => '2014-09-25 22:31:37',
             ),
             463 => 
             array (
@@ -5119,7 +5119,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 170,
                 'postal_code' => '70664',
                 'phone' => '366776723320',
-                'last_update' => '2014-09-25 22:30:52',
+                'updated_at' => '2014-09-25 22:30:52',
             ),
             464 => 
             array (
@@ -5130,7 +5130,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 182,
                 'postal_code' => '10447',
                 'phone' => '325526730021',
-                'last_update' => '2014-09-25 22:32:36',
+                'updated_at' => '2014-09-25 22:32:36',
             ),
             465 => 
             array (
@@ -5141,7 +5141,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 558,
                 'postal_code' => '22173',
                 'phone' => '209342540247',
-                'last_update' => '2014-09-25 22:32:58',
+                'updated_at' => '2014-09-25 22:32:58',
             ),
             466 => 
             array (
@@ -5152,7 +5152,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 196,
                 'postal_code' => '84461',
                 'phone' => '164414772677',
-                'last_update' => '2014-09-25 22:30:27',
+                'updated_at' => '2014-09-25 22:30:27',
             ),
             467 => 
             array (
@@ -5163,7 +5163,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 428,
                 'postal_code' => '7939',
                 'phone' => '928809465153',
-                'last_update' => '2014-09-25 22:30:30',
+                'updated_at' => '2014-09-25 22:30:30',
             ),
             468 => 
             array (
@@ -5174,7 +5174,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 595,
                 'postal_code' => '88502',
                 'phone' => '49084281333',
-                'last_update' => '2014-09-25 22:32:15',
+                'updated_at' => '2014-09-25 22:32:15',
             ),
             469 => 
             array (
@@ -5185,7 +5185,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 145,
                 'postal_code' => '95400',
                 'phone' => '268053970382',
-                'last_update' => '2014-09-25 22:30:32',
+                'updated_at' => '2014-09-25 22:30:32',
             ),
             470 => 
             array (
@@ -5196,7 +5196,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 129,
                 'postal_code' => '41545',
                 'phone' => '769370126331',
-                'last_update' => '2014-09-25 22:32:04',
+                'updated_at' => '2014-09-25 22:32:04',
             ),
             471 => 
             array (
@@ -5207,7 +5207,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 78,
                 'postal_code' => '33599',
                 'phone' => '195337700615',
-                'last_update' => '2014-09-25 22:31:14',
+                'updated_at' => '2014-09-25 22:31:14',
             ),
             472 => 
             array (
@@ -5218,7 +5218,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 388,
                 'postal_code' => '95835',
                 'phone' => '622884741180',
-                'last_update' => '2014-09-25 22:33:09',
+                'updated_at' => '2014-09-25 22:33:09',
             ),
             473 => 
             array (
@@ -5229,7 +5229,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 206,
                 'postal_code' => '14122',
                 'phone' => '562370137426',
-                'last_update' => '2014-09-25 22:34:10',
+                'updated_at' => '2014-09-25 22:34:10',
             ),
             474 => 
             array (
@@ -5240,7 +5240,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 244,
                 'postal_code' => '9668',
                 'phone' => '248446668735',
-                'last_update' => '2014-09-25 22:33:03',
+                'updated_at' => '2014-09-25 22:33:03',
             ),
             475 => 
             array (
@@ -5251,7 +5251,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 359,
                 'postal_code' => '66546',
                 'phone' => '206060652238',
-                'last_update' => '2014-09-25 22:34:07',
+                'updated_at' => '2014-09-25 22:34:07',
             ),
             476 => 
             array (
@@ -5262,7 +5262,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 301,
                 'postal_code' => '69221',
                 'phone' => '932992626595',
-                'last_update' => '2014-09-25 22:31:33',
+                'updated_at' => '2014-09-25 22:31:33',
             ),
             477 => 
             array (
@@ -5273,7 +5273,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 158,
                 'postal_code' => '42123',
                 'phone' => '131912793873',
-                'last_update' => '2014-09-25 22:32:21',
+                'updated_at' => '2014-09-25 22:32:21',
             ),
             478 => 
             array (
@@ -5284,7 +5284,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 385,
                 'postal_code' => '11363',
                 'phone' => '726875628268',
-                'last_update' => '2014-09-25 22:33:33',
+                'updated_at' => '2014-09-25 22:33:33',
             ),
             479 => 
             array (
@@ -5295,7 +5295,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 179,
                 'postal_code' => '20336',
                 'phone' => '856872225376',
-                'last_update' => '2014-09-25 22:30:26',
+                'updated_at' => '2014-09-25 22:30:26',
             ),
             480 => 
             array (
@@ -5306,7 +5306,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 500,
                 'postal_code' => '41060',
                 'phone' => '553452430707',
-                'last_update' => '2014-09-25 22:33:41',
+                'updated_at' => '2014-09-25 22:33:41',
             ),
             481 => 
             array (
@@ -5317,7 +5317,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 36,
                 'postal_code' => '73085',
                 'phone' => '667648979883',
-                'last_update' => '2014-09-25 22:31:41',
+                'updated_at' => '2014-09-25 22:31:41',
             ),
             482 => 
             array (
@@ -5328,7 +5328,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 11,
                 'postal_code' => '88749',
                 'phone' => '191958435142',
-                'last_update' => '2014-09-25 22:33:42',
+                'updated_at' => '2014-09-25 22:33:42',
             ),
             483 => 
             array (
@@ -5339,7 +5339,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 180,
                 'postal_code' => '28165',
                 'phone' => '435118527255',
-                'last_update' => '2014-09-25 22:33:25',
+                'updated_at' => '2014-09-25 22:33:25',
             ),
             484 => 
             array (
@@ -5350,7 +5350,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 347,
                 'postal_code' => '25145',
                 'phone' => '510383179153',
-                'last_update' => '2014-09-25 22:33:17',
+                'updated_at' => '2014-09-25 22:33:17',
             ),
             485 => 
             array (
@@ -5361,7 +5361,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 125,
                 'postal_code' => '71182',
                 'phone' => '684529463244',
-                'last_update' => '2014-09-25 22:32:04',
+                'updated_at' => '2014-09-25 22:32:04',
             ),
             486 => 
             array (
@@ -5372,7 +5372,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 142,
                 'postal_code' => '2596',
                 'phone' => '975185523021',
-                'last_update' => '2014-09-25 22:33:24',
+                'updated_at' => '2014-09-25 22:33:24',
             ),
             487 => 
             array (
@@ -5383,7 +5383,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 587,
                 'postal_code' => '11839',
                 'phone' => '508348602835',
-                'last_update' => '2014-09-25 22:30:49',
+                'updated_at' => '2014-09-25 22:30:49',
             ),
             488 => 
             array (
@@ -5394,7 +5394,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 469,
                 'postal_code' => '88513',
                 'phone' => '702955450528',
-                'last_update' => '2014-09-25 22:30:42',
+                'updated_at' => '2014-09-25 22:30:42',
             ),
             489 => 
             array (
@@ -5405,7 +5405,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 4,
                 'postal_code' => '8268',
                 'phone' => '936806643983',
-                'last_update' => '2014-09-25 22:32:01',
+                'updated_at' => '2014-09-25 22:32:01',
             ),
             490 => 
             array (
@@ -5416,7 +5416,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 408,
                 'postal_code' => '23661',
                 'phone' => '589377568313',
-                'last_update' => '2014-09-25 22:32:56',
+                'updated_at' => '2014-09-25 22:32:56',
             ),
             491 => 
             array (
@@ -5427,7 +5427,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 288,
                 'postal_code' => '94239',
                 'phone' => '488425406814',
-                'last_update' => '2014-09-25 22:32:09',
+                'updated_at' => '2014-09-25 22:32:09',
             ),
             492 => 
             array (
@@ -5438,7 +5438,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 376,
                 'postal_code' => '46400',
                 'phone' => '37247325001',
-                'last_update' => '2014-09-25 22:31:51',
+                'updated_at' => '2014-09-25 22:31:51',
             ),
             493 => 
             array (
@@ -5449,7 +5449,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 487,
                 'postal_code' => '19489',
                 'phone' => '17305839123',
-                'last_update' => '2014-09-25 22:30:53',
+                'updated_at' => '2014-09-25 22:30:53',
             ),
             494 => 
             array (
@@ -5460,7 +5460,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 337,
                 'postal_code' => '22358',
                 'phone' => '171973024401',
-                'last_update' => '2014-09-25 22:30:57',
+                'updated_at' => '2014-09-25 22:30:57',
             ),
             495 => 
             array (
@@ -5471,7 +5471,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 261,
                 'postal_code' => '96203',
                 'phone' => '158399646978',
-                'last_update' => '2014-09-25 22:31:19',
+                'updated_at' => '2014-09-25 22:31:19',
             ),
             496 => 
             array (
@@ -5482,7 +5482,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 504,
                 'postal_code' => '26101',
                 'phone' => '854259976812',
-                'last_update' => '2014-09-25 22:33:28',
+                'updated_at' => '2014-09-25 22:33:28',
             ),
             497 => 
             array (
@@ -5493,7 +5493,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 434,
                 'postal_code' => '63667',
                 'phone' => '898559280434',
-                'last_update' => '2014-09-25 22:30:56',
+                'updated_at' => '2014-09-25 22:30:56',
             ),
             498 => 
             array (
@@ -5504,7 +5504,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 47,
                 'postal_code' => '98030',
                 'phone' => '962020153680',
-                'last_update' => '2014-09-25 22:30:31',
+                'updated_at' => '2014-09-25 22:30:31',
             ),
             499 => 
             array (
@@ -5515,7 +5515,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 432,
                 'postal_code' => '72349',
                 'phone' => '211256301880',
-                'last_update' => '2014-09-25 22:30:41',
+                'updated_at' => '2014-09-25 22:30:41',
             ),
         ));
         \DB::table('address')->insert(array (
@@ -5528,7 +5528,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 589,
                 'postal_code' => '57197',
                 'phone' => '959467760895',
-                'last_update' => '2014-09-25 22:33:42',
+                'updated_at' => '2014-09-25 22:33:42',
             ),
             1 => 
             array (
@@ -5539,7 +5539,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 444,
                 'postal_code' => '50592',
                 'phone' => '144206758053',
-                'last_update' => '2014-09-25 22:32:29',
+                'updated_at' => '2014-09-25 22:32:29',
             ),
             2 => 
             array (
@@ -5550,7 +5550,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 93,
                 'postal_code' => '86208',
                 'phone' => '465897838272',
-                'last_update' => '2014-09-25 22:31:43',
+                'updated_at' => '2014-09-25 22:31:43',
             ),
             3 => 
             array (
@@ -5561,7 +5561,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 318,
                 'postal_code' => '69504',
                 'phone' => '793996678771',
-                'last_update' => '2014-09-25 22:31:33',
+                'updated_at' => '2014-09-25 22:31:33',
             ),
             4 => 
             array (
@@ -5572,7 +5572,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 314,
                 'postal_code' => '16370',
                 'phone' => '52709222667',
-                'last_update' => '2014-09-25 22:32:43',
+                'updated_at' => '2014-09-25 22:32:43',
             ),
             5 => 
             array (
@@ -5583,7 +5583,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 478,
                 'postal_code' => '87687',
                 'phone' => '868602816371',
-                'last_update' => '2014-09-25 22:31:27',
+                'updated_at' => '2014-09-25 22:31:27',
             ),
             6 => 
             array (
@@ -5594,7 +5594,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 552,
                 'postal_code' => '90797',
                 'phone' => '759586584889',
-                'last_update' => '2014-09-25 22:31:54',
+                'updated_at' => '2014-09-25 22:31:54',
             ),
             7 => 
             array (
@@ -5605,7 +5605,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 245,
                 'postal_code' => '37469',
                 'phone' => '111177206479',
-                'last_update' => '2014-09-25 22:33:54',
+                'updated_at' => '2014-09-25 22:33:54',
             ),
             8 => 
             array (
@@ -5616,7 +5616,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 519,
                 'postal_code' => '1570',
                 'phone' => '82671830126',
-                'last_update' => '2014-09-25 22:32:39',
+                'updated_at' => '2014-09-25 22:32:39',
             ),
             9 => 
             array (
@@ -5627,7 +5627,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 412,
                 'postal_code' => '44816',
                 'phone' => '131370665218',
-                'last_update' => '2014-09-25 22:31:34',
+                'updated_at' => '2014-09-25 22:31:34',
             ),
             10 => 
             array (
@@ -5638,7 +5638,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 163,
                 'postal_code' => '54674',
                 'phone' => '402630109080',
-                'last_update' => '2014-09-25 22:33:24',
+                'updated_at' => '2014-09-25 22:33:24',
             ),
             11 => 
             array (
@@ -5649,7 +5649,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 568,
                 'postal_code' => '75474',
                 'phone' => '441628280920',
-                'last_update' => '2014-09-25 22:31:29',
+                'updated_at' => '2014-09-25 22:31:29',
             ),
             12 => 
             array (
@@ -5660,7 +5660,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 110,
                 'postal_code' => '51369',
                 'phone' => '442673923363',
-                'last_update' => '2014-09-25 22:31:14',
+                'updated_at' => '2014-09-25 22:31:14',
             ),
             13 => 
             array (
@@ -5671,7 +5671,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 259,
                 'postal_code' => '19450',
                 'phone' => '711928348157',
-                'last_update' => '2014-09-25 22:32:50',
+                'updated_at' => '2014-09-25 22:32:50',
             ),
             14 => 
             array (
@@ -5682,7 +5682,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 502,
                 'postal_code' => '39529',
                 'phone' => '59634255214',
-                'last_update' => '2014-09-25 22:30:43',
+                'updated_at' => '2014-09-25 22:30:43',
             ),
             15 => 
             array (
@@ -5693,7 +5693,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 312,
                 'postal_code' => '35653',
                 'phone' => '879347453467',
-                'last_update' => '2014-09-25 22:33:38',
+                'updated_at' => '2014-09-25 22:33:38',
             ),
             16 => 
             array (
@@ -5704,7 +5704,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 583,
                 'postal_code' => '65952',
                 'phone' => '282667506728',
-                'last_update' => '2014-09-25 22:32:19',
+                'updated_at' => '2014-09-25 22:32:19',
             ),
             17 => 
             array (
@@ -5715,7 +5715,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 594,
                 'postal_code' => '35156',
                 'phone' => '288910576761',
-                'last_update' => '2014-09-25 22:30:50',
+                'updated_at' => '2014-09-25 22:30:50',
             ),
             18 => 
             array (
@@ -5726,7 +5726,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 127,
                 'postal_code' => '92568',
                 'phone' => '602101369463',
-                'last_update' => '2014-09-25 22:30:30',
+                'updated_at' => '2014-09-25 22:30:30',
             ),
             19 => 
             array (
@@ -5737,7 +5737,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 60,
                 'postal_code' => '32347',
                 'phone' => '448876499197',
-                'last_update' => '2014-09-25 22:30:24',
+                'updated_at' => '2014-09-25 22:30:24',
             ),
             20 => 
             array (
@@ -5748,7 +5748,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 116,
                 'postal_code' => '400',
                 'phone' => '627425618482',
-                'last_update' => '2014-09-25 22:33:14',
+                'updated_at' => '2014-09-25 22:33:14',
             ),
             21 => 
             array (
@@ -5759,7 +5759,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 482,
                 'postal_code' => '49806',
                 'phone' => '158326114853',
-                'last_update' => '2014-09-25 22:33:28',
+                'updated_at' => '2014-09-25 22:33:28',
             ),
             22 => 
             array (
@@ -5770,7 +5770,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 224,
                 'postal_code' => '61244',
                 'phone' => '132100972047',
-                'last_update' => '2014-09-25 22:31:47',
+                'updated_at' => '2014-09-25 22:31:47',
             ),
             23 => 
             array (
@@ -5781,7 +5781,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 366,
                 'postal_code' => '94707',
                 'phone' => '574973479129',
-                'last_update' => '2014-09-25 22:34:07',
+                'updated_at' => '2014-09-25 22:34:07',
             ),
             24 => 
             array (
@@ -5792,7 +5792,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 588,
                 'postal_code' => '41214',
                 'phone' => '25865528181',
-                'last_update' => '2014-09-25 22:30:49',
+                'updated_at' => '2014-09-25 22:30:49',
             ),
             25 => 
             array (
@@ -5803,7 +5803,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 458,
                 'postal_code' => '81651',
                 'phone' => '236679267178',
-                'last_update' => '2014-09-25 22:32:39',
+                'updated_at' => '2014-09-25 22:32:39',
             ),
             26 => 
             array (
@@ -5814,7 +5814,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 571,
                 'postal_code' => '18043',
                 'phone' => '638409958875',
-                'last_update' => '2014-09-25 22:34:07',
+                'updated_at' => '2014-09-25 22:34:07',
             ),
             27 => 
             array (
@@ -5825,7 +5825,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 419,
                 'postal_code' => '25972',
                 'phone' => '35533115997',
-                'last_update' => '2014-09-25 22:31:35',
+                'updated_at' => '2014-09-25 22:31:35',
             ),
             28 => 
             array (
@@ -5836,7 +5836,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 551,
                 'postal_code' => '95775',
                 'phone' => '182059202712',
-                'last_update' => '2014-09-25 22:31:44',
+                'updated_at' => '2014-09-25 22:31:44',
             ),
             29 => 
             array (
@@ -5847,7 +5847,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 101,
                 'postal_code' => '31342',
                 'phone' => '214756839122',
-                'last_update' => '2014-09-25 22:33:47',
+                'updated_at' => '2014-09-25 22:33:47',
             ),
             30 => 
             array (
@@ -5858,7 +5858,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 339,
                 'postal_code' => '35364',
                 'phone' => '338244023543',
-                'last_update' => '2014-09-25 22:30:13',
+                'updated_at' => '2014-09-25 22:30:13',
             ),
             31 => 
             array (
@@ -5869,7 +5869,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 67,
                 'postal_code' => '35202',
                 'phone' => '105882218332',
-                'last_update' => '2014-09-25 22:30:02',
+                'updated_at' => '2014-09-25 22:30:02',
             ),
             32 => 
             array (
@@ -5880,7 +5880,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 75,
                 'postal_code' => '40899',
                 'phone' => '80593242951',
-                'last_update' => '2014-09-25 22:31:13',
+                'updated_at' => '2014-09-25 22:31:13',
             ),
             33 => 
             array (
@@ -5891,7 +5891,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 165,
                 'postal_code' => '86760',
                 'phone' => '717566026669',
-                'last_update' => '2014-09-25 22:30:05',
+                'updated_at' => '2014-09-25 22:30:05',
             ),
             34 => 
             array (
@@ -5902,7 +5902,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 287,
                 'postal_code' => '88408',
                 'phone' => '427274926505',
-                'last_update' => '2014-09-25 22:31:50',
+                'updated_at' => '2014-09-25 22:31:50',
             ),
             35 => 
             array (
@@ -5913,7 +5913,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 100,
                 'postal_code' => '79401',
                 'phone' => '478380208348',
-                'last_update' => '2014-09-25 22:34:05',
+                'updated_at' => '2014-09-25 22:34:05',
             ),
             36 => 
             array (
@@ -5924,7 +5924,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 80,
                 'postal_code' => '22813',
                 'phone' => '383353187467',
-                'last_update' => '2014-09-25 22:30:31',
+                'updated_at' => '2014-09-25 22:30:31',
             ),
             37 => 
             array (
@@ -5935,7 +5935,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 24,
                 'postal_code' => '67521',
                 'phone' => '122981120653',
-                'last_update' => '2014-09-25 22:31:11',
+                'updated_at' => '2014-09-25 22:31:11',
             ),
             38 => 
             array (
@@ -5946,7 +5946,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 363,
                 'postal_code' => '49250',
                 'phone' => '8912935608',
-                'last_update' => '2014-09-25 22:30:29',
+                'updated_at' => '2014-09-25 22:30:29',
             ),
             39 => 
             array (
@@ -5957,7 +5957,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 539,
                 'postal_code' => '9750',
                 'phone' => '745267607502',
-                'last_update' => '2014-09-25 22:33:07',
+                'updated_at' => '2014-09-25 22:33:07',
             ),
             40 => 
             array (
@@ -5968,7 +5968,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 42,
                 'postal_code' => '79814',
                 'phone' => '484500282381',
-                'last_update' => '2014-09-25 22:33:44',
+                'updated_at' => '2014-09-25 22:33:44',
             ),
             41 => 
             array (
@@ -5979,7 +5979,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 46,
                 'postal_code' => '69953',
                 'phone' => '488600270038',
-                'last_update' => '2014-09-25 22:30:30',
+                'updated_at' => '2014-09-25 22:30:30',
             ),
             42 => 
             array (
@@ -5990,7 +5990,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 561,
                 'postal_code' => '33030',
                 'phone' => '754579047924',
-                'last_update' => '2014-09-25 22:34:05',
+                'updated_at' => '2014-09-25 22:34:05',
             ),
             43 => 
             array (
@@ -6001,7 +6001,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 436,
                 'postal_code' => '13629',
                 'phone' => '932156667696',
-                'last_update' => '2014-09-25 22:30:23',
+                'updated_at' => '2014-09-25 22:30:23',
             ),
             44 => 
             array (
@@ -6012,7 +6012,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 309,
                 'postal_code' => '74568',
                 'phone' => '921960450089',
-                'last_update' => '2014-09-25 22:31:44',
+                'updated_at' => '2014-09-25 22:31:44',
             ),
             45 => 
             array (
@@ -6023,7 +6023,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 396,
                 'postal_code' => '51309',
                 'phone' => '784907335610',
-                'last_update' => '2014-09-25 22:31:34',
+                'updated_at' => '2014-09-25 22:31:34',
             ),
             46 => 
             array (
@@ -6034,7 +6034,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 68,
                 'postal_code' => '25866',
                 'phone' => '786270036240',
-                'last_update' => '2014-09-25 22:32:16',
+                'updated_at' => '2014-09-25 22:32:16',
             ),
             47 => 
             array (
@@ -6045,7 +6045,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 485,
                 'postal_code' => '55676',
                 'phone' => '169352919175',
-                'last_update' => '2014-09-25 22:30:22',
+                'updated_at' => '2014-09-25 22:30:22',
             ),
             48 => 
             array (
@@ -6056,7 +6056,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 275,
                 'postal_code' => '15414',
                 'phone' => '426346224043',
-                'last_update' => '2014-09-25 22:33:32',
+                'updated_at' => '2014-09-25 22:33:32',
             ),
             49 => 
             array (
@@ -6067,7 +6067,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 462,
                 'postal_code' => '5753',
                 'phone' => '357593328658',
-                'last_update' => '2014-09-25 22:30:41',
+                'updated_at' => '2014-09-25 22:30:41',
             ),
             50 => 
             array (
@@ -6078,7 +6078,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 260,
                 'postal_code' => '19151',
                 'phone' => '135407755975',
-                'last_update' => '2014-09-25 22:31:49',
+                'updated_at' => '2014-09-25 22:31:49',
             ),
             51 => 
             array (
@@ -6089,7 +6089,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 528,
                 'postal_code' => '841',
                 'phone' => '50898428626',
-                'last_update' => '2014-09-25 22:32:40',
+                'updated_at' => '2014-09-25 22:32:40',
             ),
             52 => 
             array (
@@ -6100,7 +6100,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 459,
                 'postal_code' => '77642',
                 'phone' => '84794532510',
-                'last_update' => '2014-09-25 22:33:10',
+                'updated_at' => '2014-09-25 22:33:10',
             ),
             53 => 
             array (
@@ -6111,7 +6111,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 599,
                 'postal_code' => '39976',
                 'phone' => '978430786151',
-                'last_update' => '2014-09-25 22:30:51',
+                'updated_at' => '2014-09-25 22:30:51',
             ),
             54 => 
             array (
@@ -6122,7 +6122,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 21,
                 'postal_code' => '26284',
                 'phone' => '380077794770',
-                'last_update' => '2014-09-25 22:30:14',
+                'updated_at' => '2014-09-25 22:30:14',
             ),
             55 => 
             array (
@@ -6133,7 +6133,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 193,
                 'postal_code' => '52234',
                 'phone' => '955349440539',
-                'last_update' => '2014-09-25 22:30:34',
+                'updated_at' => '2014-09-25 22:30:34',
             ),
             56 => 
             array (
@@ -6144,7 +6144,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 368,
                 'postal_code' => '11892',
                 'phone' => '698182547686',
-                'last_update' => '2014-09-25 22:34:11',
+                'updated_at' => '2014-09-25 22:34:11',
             ),
             57 => 
             array (
@@ -6155,7 +6155,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 426,
                 'postal_code' => '12905',
                 'phone' => '62127829280',
-                'last_update' => '2014-09-25 22:31:25',
+                'updated_at' => '2014-09-25 22:31:25',
             ),
             58 => 
             array (
@@ -6166,7 +6166,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 112,
                 'postal_code' => '63022',
                 'phone' => '368738360376',
-                'last_update' => '2014-09-25 22:33:03',
+                'updated_at' => '2014-09-25 22:33:03',
             ),
             59 => 
             array (
@@ -6177,7 +6177,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 496,
                 'postal_code' => '57380',
                 'phone' => '590764256785',
-                'last_update' => '2014-09-25 22:33:40',
+                'updated_at' => '2014-09-25 22:33:40',
             ),
             60 => 
             array (
@@ -6188,7 +6188,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 570,
                 'postal_code' => '47498',
                 'phone' => '107092893983',
-                'last_update' => '2014-09-25 22:31:58',
+                'updated_at' => '2014-09-25 22:31:58',
             ),
             61 => 
             array (
@@ -6199,7 +6199,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 577,
                 'postal_code' => '97271',
                 'phone' => '970638808606',
-                'last_update' => '2014-09-25 22:32:44',
+                'updated_at' => '2014-09-25 22:32:44',
             ),
             62 => 
             array (
@@ -6210,7 +6210,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 79,
                 'postal_code' => '22372',
                 'phone' => '855066328617',
-                'last_update' => '2014-09-25 22:30:56',
+                'updated_at' => '2014-09-25 22:30:56',
             ),
             63 => 
             array (
@@ -6221,7 +6221,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 43,
                 'postal_code' => '40195',
                 'phone' => '817740355461',
-                'last_update' => '2014-09-25 22:30:04',
+                'updated_at' => '2014-09-25 22:30:04',
             ),
             64 => 
             array (
@@ -6232,7 +6232,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 178,
                 'postal_code' => '77464',
                 'phone' => '239357986667',
-                'last_update' => '2014-09-25 22:33:51',
+                'updated_at' => '2014-09-25 22:33:51',
             ),
             65 => 
             array (
@@ -6243,7 +6243,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 488,
                 'postal_code' => '93655',
                 'phone' => '946114054231',
-                'last_update' => '2014-09-25 22:32:27',
+                'updated_at' => '2014-09-25 22:32:27',
             ),
             66 => 
             array (
@@ -6254,7 +6254,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 95,
                 'postal_code' => '10714',
                 'phone' => '997453607116',
-                'last_update' => '2014-09-25 22:32:46',
+                'updated_at' => '2014-09-25 22:32:46',
             ),
             67 => 
             array (
@@ -6265,7 +6265,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 580,
                 'postal_code' => '44274',
                 'phone' => '203202500108',
-                'last_update' => '2014-09-25 22:30:47',
+                'updated_at' => '2014-09-25 22:30:47',
             ),
             68 => 
             array (
@@ -6276,7 +6276,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 214,
                 'postal_code' => '32515',
                 'phone' => '863080561151',
-                'last_update' => '2014-09-25 22:32:33',
+                'updated_at' => '2014-09-25 22:32:33',
             ),
             69 => 
             array (
@@ -6287,7 +6287,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 538,
                 'postal_code' => '52196',
                 'phone' => '525518075499',
-                'last_update' => '2014-09-25 22:33:29',
+                'updated_at' => '2014-09-25 22:33:29',
             ),
             70 => 
             array (
@@ -6298,7 +6298,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 466,
                 'postal_code' => '33224',
                 'phone' => '324346485054',
-                'last_update' => '2014-09-25 22:32:56',
+                'updated_at' => '2014-09-25 22:32:56',
             ),
             71 => 
             array (
@@ -6309,7 +6309,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 55,
                 'postal_code' => '15992',
                 'phone' => '618156722572',
-                'last_update' => '2014-09-25 22:34:03',
+                'updated_at' => '2014-09-25 22:34:03',
             ),
             72 => 
             array (
@@ -6320,7 +6320,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 299,
                 'postal_code' => '77397',
                 'phone' => '128499386727',
-                'last_update' => '2014-09-25 22:30:39',
+                'updated_at' => '2014-09-25 22:30:39',
             ),
             73 => 
             array (
@@ -6331,7 +6331,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 341,
                 'postal_code' => '37815',
                 'phone' => '203804046132',
-                'last_update' => '2014-09-25 22:32:10',
+                'updated_at' => '2014-09-25 22:32:10',
             ),
             74 => 
             array (
@@ -6342,7 +6342,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 409,
                 'postal_code' => '943',
                 'phone' => '770864062795',
-                'last_update' => '2014-09-25 22:32:43',
+                'updated_at' => '2014-09-25 22:32:43',
             ),
             75 => 
             array (
@@ -6353,7 +6353,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 133,
                 'postal_code' => '86587',
                 'phone' => '867287719310',
-                'last_update' => '2014-09-25 22:32:42',
+                'updated_at' => '2014-09-25 22:32:42',
             ),
             76 => 
             array (
@@ -6364,7 +6364,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 598,
                 'postal_code' => '95093',
                 'phone' => '844018348565',
-                'last_update' => '2014-09-25 22:31:56',
+                'updated_at' => '2014-09-25 22:31:56',
             ),
             77 => 
             array (
@@ -6375,7 +6375,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 10,
                 'postal_code' => '33384',
                 'phone' => '315528269898',
-                'last_update' => '2014-09-25 22:31:45',
+                'updated_at' => '2014-09-25 22:31:45',
             ),
             78 => 
             array (
@@ -6386,7 +6386,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 131,
                 'postal_code' => '89422',
                 'phone' => '14465669789',
-                'last_update' => '2014-09-25 22:32:05',
+                'updated_at' => '2014-09-25 22:32:05',
             ),
             79 => 
             array (
@@ -6397,7 +6397,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 168,
                 'postal_code' => '34750',
                 'phone' => '278669994384',
-                'last_update' => '2014-09-25 22:33:15',
+                'updated_at' => '2014-09-25 22:33:15',
             ),
             80 => 
             array (
@@ -6408,7 +6408,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 526,
                 'postal_code' => '98883',
                 'phone' => '29341849811',
-                'last_update' => '2014-09-25 22:33:16',
+                'updated_at' => '2014-09-25 22:33:16',
             ),
             81 => 
             array (
@@ -6419,7 +6419,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 103,
                 'postal_code' => '53829',
                 'phone' => '377633994405',
-                'last_update' => '2014-09-25 22:32:02',
+                'updated_at' => '2014-09-25 22:32:02',
             ),
             82 => 
             array (
@@ -6430,7 +6430,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 344,
                 'postal_code' => '73605',
                 'phone' => '954786054144',
-                'last_update' => '2014-09-25 22:31:40',
+                'updated_at' => '2014-09-25 22:31:40',
             ),
             83 => 
             array (
@@ -6441,7 +6441,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 219,
                 'postal_code' => '96115',
                 'phone' => '165164761435',
-                'last_update' => '2014-09-25 22:32:37',
+                'updated_at' => '2014-09-25 22:32:37',
             ),
             84 => 
             array (
@@ -6452,7 +6452,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 246,
                 'postal_code' => '64682',
                 'phone' => '294449058179',
-                'last_update' => '2014-09-25 22:32:08',
+                'updated_at' => '2014-09-25 22:32:08',
             ),
             85 => 
             array (
@@ -6463,7 +6463,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 212,
                 'postal_code' => '62703',
                 'phone' => '995527378381',
-                'last_update' => '2014-09-25 22:32:07',
+                'updated_at' => '2014-09-25 22:32:07',
             ),
             86 => 
             array (
@@ -6474,7 +6474,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 494,
                 'postal_code' => '22954',
                 'phone' => '285710089439',
-                'last_update' => '2014-09-25 22:33:38',
+                'updated_at' => '2014-09-25 22:33:38',
             ),
             87 => 
             array (
@@ -6485,7 +6485,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 54,
                 'postal_code' => '53446',
                 'phone' => '170115379190',
-                'last_update' => '2014-09-25 22:31:04',
+                'updated_at' => '2014-09-25 22:31:04',
             ),
             88 => 
             array (
@@ -6496,7 +6496,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 424,
                 'postal_code' => '12664',
                 'phone' => '914466027044',
-                'last_update' => '2014-09-25 22:30:06',
+                'updated_at' => '2014-09-25 22:30:06',
             ),
             89 => 
             array (
@@ -6507,7 +6507,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 546,
                 'postal_code' => '95179',
                 'phone' => '182178609211',
-                'last_update' => '2014-09-25 22:33:17',
+                'updated_at' => '2014-09-25 22:33:17',
             ),
             90 => 
             array (
@@ -6518,7 +6518,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 106,
                 'postal_code' => '71102',
                 'phone' => '387448063440',
-                'last_update' => '2014-09-25 22:32:03',
+                'updated_at' => '2014-09-25 22:32:03',
             ),
             91 => 
             array (
@@ -6529,7 +6529,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 574,
                 'postal_code' => '17381',
                 'phone' => '338758048786',
-                'last_update' => '2014-09-25 22:30:44',
+                'updated_at' => '2014-09-25 22:30:44',
             ),
             92 => 
             array (
@@ -6540,7 +6540,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 311,
                 'postal_code' => '22474',
                 'phone' => '154124128457',
-                'last_update' => '2014-09-25 22:30:55',
+                'updated_at' => '2014-09-25 22:30:55',
             ),
             93 => 
             array (
@@ -6551,7 +6551,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 14,
                 'postal_code' => '39414',
                 'phone' => '864392582257',
-                'last_update' => '2014-09-25 22:30:11',
+                'updated_at' => '2014-09-25 22:30:11',
             ),
             94 => 
             array (
@@ -6562,7 +6562,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 248,
                 'postal_code' => '1944',
                 'phone' => '410877354933',
-                'last_update' => '2014-09-25 22:30:19',
+                'updated_at' => '2014-09-25 22:30:19',
             ),
             95 => 
             array (
@@ -6573,7 +6573,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 512,
                 'postal_code' => '14684',
                 'phone' => '437829801725',
-                'last_update' => '2014-09-25 22:31:09',
+                'updated_at' => '2014-09-25 22:31:09',
             ),
             96 => 
             array (
@@ -6584,7 +6584,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 177,
                 'postal_code' => '36693',
                 'phone' => '137809746111',
-                'last_update' => '2014-09-25 22:33:51',
+                'updated_at' => '2014-09-25 22:33:51',
             ),
             97 => 
             array (
@@ -6595,7 +6595,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 241,
                 'postal_code' => '82580',
                 'phone' => '640843562301',
-                'last_update' => '2014-09-25 22:30:37',
+                'updated_at' => '2014-09-25 22:30:37',
             ),
             98 => 
             array (
@@ -6606,7 +6606,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 242,
                 'postal_code' => '36603',
                 'phone' => '935952366111',
-                'last_update' => '2014-09-25 22:30:37',
+                'updated_at' => '2014-09-25 22:30:37',
             ),
             99 => 
             array (
@@ -6617,7 +6617,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 401,
                 'postal_code' => '97661',
                 'phone' => '199514580428',
-                'last_update' => '2014-09-25 22:31:07',
+                'updated_at' => '2014-09-25 22:31:07',
             ),
             100 => 
             array (
@@ -6628,7 +6628,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 503,
                 'postal_code' => '52137',
                 'phone' => '644021380889',
-                'last_update' => '2014-09-25 22:32:34',
+                'updated_at' => '2014-09-25 22:32:34',
             ),
             101 => 
             array (
@@ -6639,7 +6639,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 296,
                 'postal_code' => '61960',
                 'phone' => '145308717464',
-                'last_update' => '2014-09-25 22:33:14',
+                'updated_at' => '2014-09-25 22:33:14',
             ),
             102 => 
             array (
@@ -6650,7 +6650,7 @@ class AddressTableSeeder extends Seeder
                 'city_id' => 537,
                 'postal_code' => '27107',
                 'phone' => '288241215394',
-                'last_update' => '2014-09-25 22:30:44',
+                'updated_at' => '2014-09-25 22:30:44',
             ),
         ));
         

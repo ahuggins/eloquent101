@@ -26,8 +26,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MARY.SMITH@sakilacustomer.org',
                 'address_id' => 5,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             1 => 
             array (
@@ -38,8 +38,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'PATRICIA.JOHNSON@sakilacustomer.org',
                 'address_id' => 6,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             2 => 
             array (
@@ -50,8 +50,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'LINDA.WILLIAMS@sakilacustomer.org',
                 'address_id' => 7,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             3 => 
             array (
@@ -62,8 +62,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'BARBARA.JONES@sakilacustomer.org',
                 'address_id' => 8,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             4 => 
             array (
@@ -74,8 +74,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ELIZABETH.BROWN@sakilacustomer.org',
                 'address_id' => 9,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             5 => 
             array (
@@ -86,8 +86,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JENNIFER.DAVIS@sakilacustomer.org',
                 'address_id' => 10,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             6 => 
             array (
@@ -98,8 +98,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MARIA.MILLER@sakilacustomer.org',
                 'address_id' => 11,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             7 => 
             array (
@@ -110,8 +110,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'SUSAN.WILSON@sakilacustomer.org',
                 'address_id' => 12,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             8 => 
             array (
@@ -122,8 +122,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MARGARET.MOORE@sakilacustomer.org',
                 'address_id' => 13,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             9 => 
             array (
@@ -134,8 +134,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'DOROTHY.TAYLOR@sakilacustomer.org',
                 'address_id' => 14,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             10 => 
             array (
@@ -146,8 +146,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'LISA.ANDERSON@sakilacustomer.org',
                 'address_id' => 15,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             11 => 
             array (
@@ -158,8 +158,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'NANCY.THOMAS@sakilacustomer.org',
                 'address_id' => 16,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             12 => 
             array (
@@ -170,8 +170,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'KAREN.JACKSON@sakilacustomer.org',
                 'address_id' => 17,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             13 => 
             array (
@@ -182,8 +182,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'BETTY.WHITE@sakilacustomer.org',
                 'address_id' => 18,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             14 => 
             array (
@@ -194,8 +194,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'HELEN.HARRIS@sakilacustomer.org',
                 'address_id' => 19,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             15 => 
             array (
@@ -206,8 +206,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'SANDRA.MARTIN@sakilacustomer.org',
                 'address_id' => 20,
                 'active' => 0,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             16 => 
             array (
@@ -218,8 +218,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'DONNA.THOMPSON@sakilacustomer.org',
                 'address_id' => 21,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             17 => 
             array (
@@ -230,8 +230,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CAROL.GARCIA@sakilacustomer.org',
                 'address_id' => 22,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             18 => 
             array (
@@ -242,8 +242,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'RUTH.MARTINEZ@sakilacustomer.org',
                 'address_id' => 23,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             19 => 
             array (
@@ -254,8 +254,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'SHARON.ROBINSON@sakilacustomer.org',
                 'address_id' => 24,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             20 => 
             array (
@@ -266,8 +266,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MICHELLE.CLARK@sakilacustomer.org',
                 'address_id' => 25,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             21 => 
             array (
@@ -278,8 +278,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'LAURA.RODRIGUEZ@sakilacustomer.org',
                 'address_id' => 26,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             22 => 
             array (
@@ -290,8 +290,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'SARAH.LEWIS@sakilacustomer.org',
                 'address_id' => 27,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             23 => 
             array (
@@ -302,8 +302,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'KIMBERLY.LEE@sakilacustomer.org',
                 'address_id' => 28,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             24 => 
             array (
@@ -314,8 +314,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'DEBORAH.WALKER@sakilacustomer.org',
                 'address_id' => 29,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             25 => 
             array (
@@ -326,8 +326,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JESSICA.HALL@sakilacustomer.org',
                 'address_id' => 30,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             26 => 
             array (
@@ -338,8 +338,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'SHIRLEY.ALLEN@sakilacustomer.org',
                 'address_id' => 31,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             27 => 
             array (
@@ -350,8 +350,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CYNTHIA.YOUNG@sakilacustomer.org',
                 'address_id' => 32,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             28 => 
             array (
@@ -362,8 +362,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ANGELA.HERNANDEZ@sakilacustomer.org',
                 'address_id' => 33,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             29 => 
             array (
@@ -374,8 +374,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MELISSA.KING@sakilacustomer.org',
                 'address_id' => 34,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             30 => 
             array (
@@ -386,8 +386,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'BRENDA.WRIGHT@sakilacustomer.org',
                 'address_id' => 35,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             31 => 
             array (
@@ -398,8 +398,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'AMY.LOPEZ@sakilacustomer.org',
                 'address_id' => 36,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             32 => 
             array (
@@ -410,8 +410,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ANNA.HILL@sakilacustomer.org',
                 'address_id' => 37,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             33 => 
             array (
@@ -422,8 +422,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'REBECCA.SCOTT@sakilacustomer.org',
                 'address_id' => 38,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             34 => 
             array (
@@ -434,8 +434,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'VIRGINIA.GREEN@sakilacustomer.org',
                 'address_id' => 39,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             35 => 
             array (
@@ -446,8 +446,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'KATHLEEN.ADAMS@sakilacustomer.org',
                 'address_id' => 40,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             36 => 
             array (
@@ -458,8 +458,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'PAMELA.BAKER@sakilacustomer.org',
                 'address_id' => 41,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             37 => 
             array (
@@ -470,8 +470,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MARTHA.GONZALEZ@sakilacustomer.org',
                 'address_id' => 42,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             38 => 
             array (
@@ -482,8 +482,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'DEBRA.NELSON@sakilacustomer.org',
                 'address_id' => 43,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             39 => 
             array (
@@ -494,8 +494,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'AMANDA.CARTER@sakilacustomer.org',
                 'address_id' => 44,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             40 => 
             array (
@@ -506,8 +506,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'STEPHANIE.MITCHELL@sakilacustomer.org',
                 'address_id' => 45,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             41 => 
             array (
@@ -518,8 +518,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CAROLYN.PEREZ@sakilacustomer.org',
                 'address_id' => 46,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             42 => 
             array (
@@ -530,8 +530,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CHRISTINE.ROBERTS@sakilacustomer.org',
                 'address_id' => 47,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             43 => 
             array (
@@ -542,8 +542,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MARIE.TURNER@sakilacustomer.org',
                 'address_id' => 48,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             44 => 
             array (
@@ -554,8 +554,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JANET.PHILLIPS@sakilacustomer.org',
                 'address_id' => 49,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             45 => 
             array (
@@ -566,8 +566,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CATHERINE.CAMPBELL@sakilacustomer.org',
                 'address_id' => 50,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             46 => 
             array (
@@ -578,8 +578,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'FRANCES.PARKER@sakilacustomer.org',
                 'address_id' => 51,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             47 => 
             array (
@@ -590,8 +590,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ANN.EVANS@sakilacustomer.org',
                 'address_id' => 52,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             48 => 
             array (
@@ -602,8 +602,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JOYCE.EDWARDS@sakilacustomer.org',
                 'address_id' => 53,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             49 => 
             array (
@@ -614,8 +614,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'DIANE.COLLINS@sakilacustomer.org',
                 'address_id' => 54,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             50 => 
             array (
@@ -626,8 +626,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ALICE.STEWART@sakilacustomer.org',
                 'address_id' => 55,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             51 => 
             array (
@@ -638,8 +638,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JULIE.SANCHEZ@sakilacustomer.org',
                 'address_id' => 56,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             52 => 
             array (
@@ -650,8 +650,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'HEATHER.MORRIS@sakilacustomer.org',
                 'address_id' => 57,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             53 => 
             array (
@@ -662,8 +662,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'TERESA.ROGERS@sakilacustomer.org',
                 'address_id' => 58,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             54 => 
             array (
@@ -674,8 +674,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'DORIS.REED@sakilacustomer.org',
                 'address_id' => 59,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             55 => 
             array (
@@ -686,8 +686,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'GLORIA.COOK@sakilacustomer.org',
                 'address_id' => 60,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             56 => 
             array (
@@ -698,8 +698,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'EVELYN.MORGAN@sakilacustomer.org',
                 'address_id' => 61,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             57 => 
             array (
@@ -710,8 +710,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JEAN.BELL@sakilacustomer.org',
                 'address_id' => 62,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             58 => 
             array (
@@ -722,8 +722,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CHERYL.MURPHY@sakilacustomer.org',
                 'address_id' => 63,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             59 => 
             array (
@@ -734,8 +734,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MILDRED.BAILEY@sakilacustomer.org',
                 'address_id' => 64,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             60 => 
             array (
@@ -746,8 +746,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'KATHERINE.RIVERA@sakilacustomer.org',
                 'address_id' => 65,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             61 => 
             array (
@@ -758,8 +758,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JOAN.COOPER@sakilacustomer.org',
                 'address_id' => 66,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             62 => 
             array (
@@ -770,8 +770,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ASHLEY.RICHARDSON@sakilacustomer.org',
                 'address_id' => 67,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             63 => 
             array (
@@ -782,8 +782,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JUDITH.COX@sakilacustomer.org',
                 'address_id' => 68,
                 'active' => 0,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             64 => 
             array (
@@ -794,8 +794,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ROSE.HOWARD@sakilacustomer.org',
                 'address_id' => 69,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             65 => 
             array (
@@ -806,8 +806,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JANICE.WARD@sakilacustomer.org',
                 'address_id' => 70,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             66 => 
             array (
@@ -818,8 +818,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'KELLY.TORRES@sakilacustomer.org',
                 'address_id' => 71,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             67 => 
             array (
@@ -830,8 +830,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'NICOLE.PETERSON@sakilacustomer.org',
                 'address_id' => 72,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             68 => 
             array (
@@ -842,8 +842,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JUDY.GRAY@sakilacustomer.org',
                 'address_id' => 73,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             69 => 
             array (
@@ -854,8 +854,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CHRISTINA.RAMIREZ@sakilacustomer.org',
                 'address_id' => 74,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             70 => 
             array (
@@ -866,8 +866,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'KATHY.JAMES@sakilacustomer.org',
                 'address_id' => 75,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             71 => 
             array (
@@ -878,8 +878,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'THERESA.WATSON@sakilacustomer.org',
                 'address_id' => 76,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             72 => 
             array (
@@ -890,8 +890,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'BEVERLY.BROOKS@sakilacustomer.org',
                 'address_id' => 77,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             73 => 
             array (
@@ -902,8 +902,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'DENISE.KELLY@sakilacustomer.org',
                 'address_id' => 78,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             74 => 
             array (
@@ -914,8 +914,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'TAMMY.SANDERS@sakilacustomer.org',
                 'address_id' => 79,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             75 => 
             array (
@@ -926,8 +926,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'IRENE.PRICE@sakilacustomer.org',
                 'address_id' => 80,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             76 => 
             array (
@@ -938,8 +938,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JANE.BENNETT@sakilacustomer.org',
                 'address_id' => 81,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             77 => 
             array (
@@ -950,8 +950,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'LORI.WOOD@sakilacustomer.org',
                 'address_id' => 82,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             78 => 
             array (
@@ -962,8 +962,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'RACHEL.BARNES@sakilacustomer.org',
                 'address_id' => 83,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             79 => 
             array (
@@ -974,8 +974,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MARILYN.ROSS@sakilacustomer.org',
                 'address_id' => 84,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             80 => 
             array (
@@ -986,8 +986,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ANDREA.HENDERSON@sakilacustomer.org',
                 'address_id' => 85,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             81 => 
             array (
@@ -998,8 +998,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'KATHRYN.COLEMAN@sakilacustomer.org',
                 'address_id' => 86,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             82 => 
             array (
@@ -1010,8 +1010,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'LOUISE.JENKINS@sakilacustomer.org',
                 'address_id' => 87,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             83 => 
             array (
@@ -1022,8 +1022,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'SARA.PERRY@sakilacustomer.org',
                 'address_id' => 88,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             84 => 
             array (
@@ -1034,8 +1034,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ANNE.POWELL@sakilacustomer.org',
                 'address_id' => 89,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             85 => 
             array (
@@ -1046,8 +1046,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JACQUELINE.LONG@sakilacustomer.org',
                 'address_id' => 90,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             86 => 
             array (
@@ -1058,8 +1058,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'WANDA.PATTERSON@sakilacustomer.org',
                 'address_id' => 91,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             87 => 
             array (
@@ -1070,8 +1070,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'BONNIE.HUGHES@sakilacustomer.org',
                 'address_id' => 92,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             88 => 
             array (
@@ -1082,8 +1082,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JULIA.FLORES@sakilacustomer.org',
                 'address_id' => 93,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             89 => 
             array (
@@ -1094,8 +1094,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'RUBY.WASHINGTON@sakilacustomer.org',
                 'address_id' => 94,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             90 => 
             array (
@@ -1106,8 +1106,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'LOIS.BUTLER@sakilacustomer.org',
                 'address_id' => 95,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             91 => 
             array (
@@ -1118,8 +1118,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'TINA.SIMMONS@sakilacustomer.org',
                 'address_id' => 96,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             92 => 
             array (
@@ -1130,8 +1130,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'PHYLLIS.FOSTER@sakilacustomer.org',
                 'address_id' => 97,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             93 => 
             array (
@@ -1142,8 +1142,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'NORMA.GONZALES@sakilacustomer.org',
                 'address_id' => 98,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             94 => 
             array (
@@ -1154,8 +1154,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'PAULA.BRYANT@sakilacustomer.org',
                 'address_id' => 99,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             95 => 
             array (
@@ -1166,8 +1166,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'DIANA.ALEXANDER@sakilacustomer.org',
                 'address_id' => 100,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             96 => 
             array (
@@ -1178,8 +1178,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ANNIE.RUSSELL@sakilacustomer.org',
                 'address_id' => 101,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             97 => 
             array (
@@ -1190,8 +1190,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'LILLIAN.GRIFFIN@sakilacustomer.org',
                 'address_id' => 102,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             98 => 
             array (
@@ -1202,8 +1202,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'EMILY.DIAZ@sakilacustomer.org',
                 'address_id' => 103,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             99 => 
             array (
@@ -1214,8 +1214,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ROBIN.HAYES@sakilacustomer.org',
                 'address_id' => 104,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             100 => 
             array (
@@ -1226,8 +1226,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'PEGGY.MYERS@sakilacustomer.org',
                 'address_id' => 105,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             101 => 
             array (
@@ -1238,8 +1238,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CRYSTAL.FORD@sakilacustomer.org',
                 'address_id' => 106,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             102 => 
             array (
@@ -1250,8 +1250,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'GLADYS.HAMILTON@sakilacustomer.org',
                 'address_id' => 107,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             103 => 
             array (
@@ -1262,8 +1262,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'RITA.GRAHAM@sakilacustomer.org',
                 'address_id' => 108,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             104 => 
             array (
@@ -1274,8 +1274,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'DAWN.SULLIVAN@sakilacustomer.org',
                 'address_id' => 109,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             105 => 
             array (
@@ -1286,8 +1286,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CONNIE.WALLACE@sakilacustomer.org',
                 'address_id' => 110,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             106 => 
             array (
@@ -1298,8 +1298,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'FLORENCE.WOODS@sakilacustomer.org',
                 'address_id' => 111,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             107 => 
             array (
@@ -1310,8 +1310,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'TRACY.COLE@sakilacustomer.org',
                 'address_id' => 112,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             108 => 
             array (
@@ -1322,8 +1322,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'EDNA.WEST@sakilacustomer.org',
                 'address_id' => 113,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             109 => 
             array (
@@ -1334,8 +1334,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'TIFFANY.JORDAN@sakilacustomer.org',
                 'address_id' => 114,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             110 => 
             array (
@@ -1346,8 +1346,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CARMEN.OWENS@sakilacustomer.org',
                 'address_id' => 115,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             111 => 
             array (
@@ -1358,8 +1358,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ROSA.REYNOLDS@sakilacustomer.org',
                 'address_id' => 116,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             112 => 
             array (
@@ -1370,8 +1370,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CINDY.FISHER@sakilacustomer.org',
                 'address_id' => 117,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             113 => 
             array (
@@ -1382,8 +1382,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'GRACE.ELLIS@sakilacustomer.org',
                 'address_id' => 118,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             114 => 
             array (
@@ -1394,8 +1394,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'WENDY.HARRISON@sakilacustomer.org',
                 'address_id' => 119,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             115 => 
             array (
@@ -1406,8 +1406,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'VICTORIA.GIBSON@sakilacustomer.org',
                 'address_id' => 120,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             116 => 
             array (
@@ -1418,8 +1418,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'EDITH.MCDONALD@sakilacustomer.org',
                 'address_id' => 121,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             117 => 
             array (
@@ -1430,8 +1430,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'KIM.CRUZ@sakilacustomer.org',
                 'address_id' => 122,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             118 => 
             array (
@@ -1442,8 +1442,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'SHERRY.MARSHALL@sakilacustomer.org',
                 'address_id' => 123,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             119 => 
             array (
@@ -1454,8 +1454,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'SYLVIA.ORTIZ@sakilacustomer.org',
                 'address_id' => 124,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             120 => 
             array (
@@ -1466,8 +1466,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JOSEPHINE.GOMEZ@sakilacustomer.org',
                 'address_id' => 125,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             121 => 
             array (
@@ -1478,8 +1478,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'THELMA.MURRAY@sakilacustomer.org',
                 'address_id' => 126,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             122 => 
             array (
@@ -1490,8 +1490,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'SHANNON.FREEMAN@sakilacustomer.org',
                 'address_id' => 127,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             123 => 
             array (
@@ -1502,8 +1502,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'SHEILA.WELLS@sakilacustomer.org',
                 'address_id' => 128,
                 'active' => 0,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             124 => 
             array (
@@ -1514,8 +1514,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ETHEL.WEBB@sakilacustomer.org',
                 'address_id' => 129,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             125 => 
             array (
@@ -1526,8 +1526,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ELLEN.SIMPSON@sakilacustomer.org',
                 'address_id' => 130,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             126 => 
             array (
@@ -1538,8 +1538,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ELAINE.STEVENS@sakilacustomer.org',
                 'address_id' => 131,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             127 => 
             array (
@@ -1550,8 +1550,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MARJORIE.TUCKER@sakilacustomer.org',
                 'address_id' => 132,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             128 => 
             array (
@@ -1562,8 +1562,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CARRIE.PORTER@sakilacustomer.org',
                 'address_id' => 133,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             129 => 
             array (
@@ -1574,8 +1574,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CHARLOTTE.HUNTER@sakilacustomer.org',
                 'address_id' => 134,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             130 => 
             array (
@@ -1586,8 +1586,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MONICA.HICKS@sakilacustomer.org',
                 'address_id' => 135,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             131 => 
             array (
@@ -1598,8 +1598,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ESTHER.CRAWFORD@sakilacustomer.org',
                 'address_id' => 136,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             132 => 
             array (
@@ -1610,8 +1610,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'PAULINE.HENRY@sakilacustomer.org',
                 'address_id' => 137,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             133 => 
             array (
@@ -1622,8 +1622,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'EMMA.BOYD@sakilacustomer.org',
                 'address_id' => 138,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             134 => 
             array (
@@ -1634,8 +1634,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JUANITA.MASON@sakilacustomer.org',
                 'address_id' => 139,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             135 => 
             array (
@@ -1646,8 +1646,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ANITA.MORALES@sakilacustomer.org',
                 'address_id' => 140,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             136 => 
             array (
@@ -1658,8 +1658,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'RHONDA.KENNEDY@sakilacustomer.org',
                 'address_id' => 141,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             137 => 
             array (
@@ -1670,8 +1670,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'HAZEL.WARREN@sakilacustomer.org',
                 'address_id' => 142,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             138 => 
             array (
@@ -1682,8 +1682,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'AMBER.DIXON@sakilacustomer.org',
                 'address_id' => 143,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             139 => 
             array (
@@ -1694,8 +1694,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'EVA.RAMOS@sakilacustomer.org',
                 'address_id' => 144,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             140 => 
             array (
@@ -1706,8 +1706,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'DEBBIE.REYES@sakilacustomer.org',
                 'address_id' => 145,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             141 => 
             array (
@@ -1718,8 +1718,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'APRIL.BURNS@sakilacustomer.org',
                 'address_id' => 146,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             142 => 
             array (
@@ -1730,8 +1730,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'LESLIE.GORDON@sakilacustomer.org',
                 'address_id' => 147,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             143 => 
             array (
@@ -1742,8 +1742,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CLARA.SHAW@sakilacustomer.org',
                 'address_id' => 148,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             144 => 
             array (
@@ -1754,8 +1754,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'LUCILLE.HOLMES@sakilacustomer.org',
                 'address_id' => 149,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             145 => 
             array (
@@ -1766,8 +1766,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JAMIE.RICE@sakilacustomer.org',
                 'address_id' => 150,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             146 => 
             array (
@@ -1778,8 +1778,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JOANNE.ROBERTSON@sakilacustomer.org',
                 'address_id' => 151,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             147 => 
             array (
@@ -1790,8 +1790,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ELEANOR.HUNT@sakilacustomer.org',
                 'address_id' => 152,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             148 => 
             array (
@@ -1802,8 +1802,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'VALERIE.BLACK@sakilacustomer.org',
                 'address_id' => 153,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             149 => 
             array (
@@ -1814,8 +1814,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'DANIELLE.DANIELS@sakilacustomer.org',
                 'address_id' => 154,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             150 => 
             array (
@@ -1826,8 +1826,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MEGAN.PALMER@sakilacustomer.org',
                 'address_id' => 155,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             151 => 
             array (
@@ -1838,8 +1838,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ALICIA.MILLS@sakilacustomer.org',
                 'address_id' => 156,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             152 => 
             array (
@@ -1850,8 +1850,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'SUZANNE.NICHOLS@sakilacustomer.org',
                 'address_id' => 157,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             153 => 
             array (
@@ -1862,8 +1862,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MICHELE.GRANT@sakilacustomer.org',
                 'address_id' => 158,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             154 => 
             array (
@@ -1874,8 +1874,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'GAIL.KNIGHT@sakilacustomer.org',
                 'address_id' => 159,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             155 => 
             array (
@@ -1886,8 +1886,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'BERTHA.FERGUSON@sakilacustomer.org',
                 'address_id' => 160,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             156 => 
             array (
@@ -1898,8 +1898,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'DARLENE.ROSE@sakilacustomer.org',
                 'address_id' => 161,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             157 => 
             array (
@@ -1910,8 +1910,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'VERONICA.STONE@sakilacustomer.org',
                 'address_id' => 162,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             158 => 
             array (
@@ -1922,8 +1922,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JILL.HAWKINS@sakilacustomer.org',
                 'address_id' => 163,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             159 => 
             array (
@@ -1934,8 +1934,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ERIN.DUNN@sakilacustomer.org',
                 'address_id' => 164,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             160 => 
             array (
@@ -1946,8 +1946,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'GERALDINE.PERKINS@sakilacustomer.org',
                 'address_id' => 165,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             161 => 
             array (
@@ -1958,8 +1958,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'LAUREN.HUDSON@sakilacustomer.org',
                 'address_id' => 166,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             162 => 
             array (
@@ -1970,8 +1970,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CATHY.SPENCER@sakilacustomer.org',
                 'address_id' => 167,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             163 => 
             array (
@@ -1982,8 +1982,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JOANN.GARDNER@sakilacustomer.org',
                 'address_id' => 168,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             164 => 
             array (
@@ -1994,8 +1994,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'LORRAINE.STEPHENS@sakilacustomer.org',
                 'address_id' => 169,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             165 => 
             array (
@@ -2006,8 +2006,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'LYNN.PAYNE@sakilacustomer.org',
                 'address_id' => 170,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             166 => 
             array (
@@ -2018,8 +2018,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'SALLY.PIERCE@sakilacustomer.org',
                 'address_id' => 171,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             167 => 
             array (
@@ -2030,8 +2030,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'REGINA.BERRY@sakilacustomer.org',
                 'address_id' => 172,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             168 => 
             array (
@@ -2042,8 +2042,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ERICA.MATTHEWS@sakilacustomer.org',
                 'address_id' => 173,
                 'active' => 0,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             169 => 
             array (
@@ -2054,8 +2054,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'BEATRICE.ARNOLD@sakilacustomer.org',
                 'address_id' => 174,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             170 => 
             array (
@@ -2066,8 +2066,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'DOLORES.WAGNER@sakilacustomer.org',
                 'address_id' => 175,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             171 => 
             array (
@@ -2078,8 +2078,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'BERNICE.WILLIS@sakilacustomer.org',
                 'address_id' => 176,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             172 => 
             array (
@@ -2090,8 +2090,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'AUDREY.RAY@sakilacustomer.org',
                 'address_id' => 177,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             173 => 
             array (
@@ -2102,8 +2102,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'YVONNE.WATKINS@sakilacustomer.org',
                 'address_id' => 178,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             174 => 
             array (
@@ -2114,8 +2114,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ANNETTE.OLSON@sakilacustomer.org',
                 'address_id' => 179,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             175 => 
             array (
@@ -2126,8 +2126,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JUNE.CARROLL@sakilacustomer.org',
                 'address_id' => 180,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             176 => 
             array (
@@ -2138,8 +2138,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'SAMANTHA.DUNCAN@sakilacustomer.org',
                 'address_id' => 181,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             177 => 
             array (
@@ -2150,8 +2150,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MARION.SNYDER@sakilacustomer.org',
                 'address_id' => 182,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             178 => 
             array (
@@ -2162,8 +2162,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'DANA.HART@sakilacustomer.org',
                 'address_id' => 183,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             179 => 
             array (
@@ -2174,8 +2174,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'STACY.CUNNINGHAM@sakilacustomer.org',
                 'address_id' => 184,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             180 => 
             array (
@@ -2186,8 +2186,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ANA.BRADLEY@sakilacustomer.org',
                 'address_id' => 185,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             181 => 
             array (
@@ -2198,8 +2198,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'RENEE.LANE@sakilacustomer.org',
                 'address_id' => 186,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             182 => 
             array (
@@ -2210,8 +2210,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'IDA.ANDREWS@sakilacustomer.org',
                 'address_id' => 187,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             183 => 
             array (
@@ -2222,8 +2222,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'VIVIAN.RUIZ@sakilacustomer.org',
                 'address_id' => 188,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             184 => 
             array (
@@ -2234,8 +2234,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ROBERTA.HARPER@sakilacustomer.org',
                 'address_id' => 189,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             185 => 
             array (
@@ -2246,8 +2246,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'HOLLY.FOX@sakilacustomer.org',
                 'address_id' => 190,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             186 => 
             array (
@@ -2258,8 +2258,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'BRITTANY.RILEY@sakilacustomer.org',
                 'address_id' => 191,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             187 => 
             array (
@@ -2270,8 +2270,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MELANIE.ARMSTRONG@sakilacustomer.org',
                 'address_id' => 192,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             188 => 
             array (
@@ -2282,8 +2282,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'LORETTA.CARPENTER@sakilacustomer.org',
                 'address_id' => 193,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             189 => 
             array (
@@ -2294,8 +2294,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'YOLANDA.WEAVER@sakilacustomer.org',
                 'address_id' => 194,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             190 => 
             array (
@@ -2306,8 +2306,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JEANETTE.GREENE@sakilacustomer.org',
                 'address_id' => 195,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             191 => 
             array (
@@ -2318,8 +2318,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'LAURIE.LAWRENCE@sakilacustomer.org',
                 'address_id' => 196,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             192 => 
             array (
@@ -2330,8 +2330,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'KATIE.ELLIOTT@sakilacustomer.org',
                 'address_id' => 197,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             193 => 
             array (
@@ -2342,8 +2342,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'KRISTEN.CHAVEZ@sakilacustomer.org',
                 'address_id' => 198,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             194 => 
             array (
@@ -2354,8 +2354,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'VANESSA.SIMS@sakilacustomer.org',
                 'address_id' => 199,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             195 => 
             array (
@@ -2366,8 +2366,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ALMA.AUSTIN@sakilacustomer.org',
                 'address_id' => 200,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             196 => 
             array (
@@ -2378,8 +2378,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'SUE.PETERS@sakilacustomer.org',
                 'address_id' => 201,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             197 => 
             array (
@@ -2390,8 +2390,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ELSIE.KELLEY@sakilacustomer.org',
                 'address_id' => 202,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             198 => 
             array (
@@ -2402,8 +2402,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'BETH.FRANKLIN@sakilacustomer.org',
                 'address_id' => 203,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             199 => 
             array (
@@ -2414,8 +2414,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JEANNE.LAWSON@sakilacustomer.org',
                 'address_id' => 204,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             200 => 
             array (
@@ -2426,8 +2426,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'VICKI.FIELDS@sakilacustomer.org',
                 'address_id' => 205,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             201 => 
             array (
@@ -2438,8 +2438,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CARLA.GUTIERREZ@sakilacustomer.org',
                 'address_id' => 206,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             202 => 
             array (
@@ -2450,8 +2450,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'TARA.RYAN@sakilacustomer.org',
                 'address_id' => 207,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             203 => 
             array (
@@ -2462,8 +2462,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ROSEMARY.SCHMIDT@sakilacustomer.org',
                 'address_id' => 208,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             204 => 
             array (
@@ -2474,8 +2474,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'EILEEN.CARR@sakilacustomer.org',
                 'address_id' => 209,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             205 => 
             array (
@@ -2486,8 +2486,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'TERRI.VASQUEZ@sakilacustomer.org',
                 'address_id' => 210,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             206 => 
             array (
@@ -2498,8 +2498,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'GERTRUDE.CASTILLO@sakilacustomer.org',
                 'address_id' => 211,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             207 => 
             array (
@@ -2510,8 +2510,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'LUCY.WHEELER@sakilacustomer.org',
                 'address_id' => 212,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             208 => 
             array (
@@ -2522,8 +2522,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'TONYA.CHAPMAN@sakilacustomer.org',
                 'address_id' => 213,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             209 => 
             array (
@@ -2534,8 +2534,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ELLA.OLIVER@sakilacustomer.org',
                 'address_id' => 214,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             210 => 
             array (
@@ -2546,8 +2546,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'STACEY.MONTGOMERY@sakilacustomer.org',
                 'address_id' => 215,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             211 => 
             array (
@@ -2558,8 +2558,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'WILMA.RICHARDS@sakilacustomer.org',
                 'address_id' => 216,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             212 => 
             array (
@@ -2570,8 +2570,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'GINA.WILLIAMSON@sakilacustomer.org',
                 'address_id' => 217,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             213 => 
             array (
@@ -2582,8 +2582,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'KRISTIN.JOHNSTON@sakilacustomer.org',
                 'address_id' => 218,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             214 => 
             array (
@@ -2594,8 +2594,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JESSIE.BANKS@sakilacustomer.org',
                 'address_id' => 219,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             215 => 
             array (
@@ -2606,8 +2606,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'NATALIE.MEYER@sakilacustomer.org',
                 'address_id' => 220,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             216 => 
             array (
@@ -2618,8 +2618,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'AGNES.BISHOP@sakilacustomer.org',
                 'address_id' => 221,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             217 => 
             array (
@@ -2630,8 +2630,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'VERA.MCCOY@sakilacustomer.org',
                 'address_id' => 222,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             218 => 
             array (
@@ -2642,8 +2642,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'WILLIE.HOWELL@sakilacustomer.org',
                 'address_id' => 223,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             219 => 
             array (
@@ -2654,8 +2654,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CHARLENE.ALVAREZ@sakilacustomer.org',
                 'address_id' => 224,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             220 => 
             array (
@@ -2666,8 +2666,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'BESSIE.MORRISON@sakilacustomer.org',
                 'address_id' => 225,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             221 => 
             array (
@@ -2678,8 +2678,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'DELORES.HANSEN@sakilacustomer.org',
                 'address_id' => 226,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             222 => 
             array (
@@ -2690,8 +2690,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MELINDA.FERNANDEZ@sakilacustomer.org',
                 'address_id' => 227,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             223 => 
             array (
@@ -2702,8 +2702,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'PEARL.GARZA@sakilacustomer.org',
                 'address_id' => 228,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             224 => 
             array (
@@ -2714,8 +2714,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ARLENE.HARVEY@sakilacustomer.org',
                 'address_id' => 229,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             225 => 
             array (
@@ -2726,8 +2726,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MAUREEN.LITTLE@sakilacustomer.org',
                 'address_id' => 230,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             226 => 
             array (
@@ -2738,8 +2738,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'COLLEEN.BURTON@sakilacustomer.org',
                 'address_id' => 231,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             227 => 
             array (
@@ -2750,8 +2750,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ALLISON.STANLEY@sakilacustomer.org',
                 'address_id' => 232,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             228 => 
             array (
@@ -2762,8 +2762,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'TAMARA.NGUYEN@sakilacustomer.org',
                 'address_id' => 233,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             229 => 
             array (
@@ -2774,8 +2774,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JOY.GEORGE@sakilacustomer.org',
                 'address_id' => 234,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             230 => 
             array (
@@ -2786,8 +2786,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'GEORGIA.JACOBS@sakilacustomer.org',
                 'address_id' => 235,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             231 => 
             array (
@@ -2798,8 +2798,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CONSTANCE.REID@sakilacustomer.org',
                 'address_id' => 236,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             232 => 
             array (
@@ -2810,8 +2810,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'LILLIE.KIM@sakilacustomer.org',
                 'address_id' => 237,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             233 => 
             array (
@@ -2822,8 +2822,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CLAUDIA.FULLER@sakilacustomer.org',
                 'address_id' => 238,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             234 => 
             array (
@@ -2834,8 +2834,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JACKIE.LYNCH@sakilacustomer.org',
                 'address_id' => 239,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             235 => 
             array (
@@ -2846,8 +2846,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MARCIA.DEAN@sakilacustomer.org',
                 'address_id' => 240,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             236 => 
             array (
@@ -2858,8 +2858,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'TANYA.GILBERT@sakilacustomer.org',
                 'address_id' => 241,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             237 => 
             array (
@@ -2870,8 +2870,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'NELLIE.GARRETT@sakilacustomer.org',
                 'address_id' => 242,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             238 => 
             array (
@@ -2882,8 +2882,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MINNIE.ROMERO@sakilacustomer.org',
                 'address_id' => 243,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             239 => 
             array (
@@ -2894,8 +2894,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MARLENE.WELCH@sakilacustomer.org',
                 'address_id' => 244,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             240 => 
             array (
@@ -2906,8 +2906,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'HEIDI.LARSON@sakilacustomer.org',
                 'address_id' => 245,
                 'active' => 0,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             241 => 
             array (
@@ -2918,8 +2918,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'GLENDA.FRAZIER@sakilacustomer.org',
                 'address_id' => 246,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             242 => 
             array (
@@ -2930,8 +2930,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'LYDIA.BURKE@sakilacustomer.org',
                 'address_id' => 247,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             243 => 
             array (
@@ -2942,8 +2942,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'VIOLA.HANSON@sakilacustomer.org',
                 'address_id' => 248,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             244 => 
             array (
@@ -2954,8 +2954,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'COURTNEY.DAY@sakilacustomer.org',
                 'address_id' => 249,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             245 => 
             array (
@@ -2966,8 +2966,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MARIAN.MENDOZA@sakilacustomer.org',
                 'address_id' => 250,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             246 => 
             array (
@@ -2978,8 +2978,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'STELLA.MORENO@sakilacustomer.org',
                 'address_id' => 251,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             247 => 
             array (
@@ -2990,8 +2990,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CAROLINE.BOWMAN@sakilacustomer.org',
                 'address_id' => 252,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             248 => 
             array (
@@ -3002,8 +3002,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'DORA.MEDINA@sakilacustomer.org',
                 'address_id' => 253,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             249 => 
             array (
@@ -3014,8 +3014,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JO.FOWLER@sakilacustomer.org',
                 'address_id' => 254,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             250 => 
             array (
@@ -3026,8 +3026,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'VICKIE.BREWER@sakilacustomer.org',
                 'address_id' => 255,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             251 => 
             array (
@@ -3038,8 +3038,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MATTIE.HOFFMAN@sakilacustomer.org',
                 'address_id' => 256,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             252 => 
             array (
@@ -3050,8 +3050,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'TERRY.CARLSON@sakilacustomer.org',
                 'address_id' => 258,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             253 => 
             array (
@@ -3062,8 +3062,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MAXINE.SILVA@sakilacustomer.org',
                 'address_id' => 259,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             254 => 
             array (
@@ -3074,8 +3074,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'IRMA.PEARSON@sakilacustomer.org',
                 'address_id' => 260,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             255 => 
             array (
@@ -3086,8 +3086,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MABEL.HOLLAND@sakilacustomer.org',
                 'address_id' => 261,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             256 => 
             array (
@@ -3098,8 +3098,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MARSHA.DOUGLAS@sakilacustomer.org',
                 'address_id' => 262,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             257 => 
             array (
@@ -3110,8 +3110,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MYRTLE.FLEMING@sakilacustomer.org',
                 'address_id' => 263,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             258 => 
             array (
@@ -3122,8 +3122,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'LENA.JENSEN@sakilacustomer.org',
                 'address_id' => 264,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             259 => 
             array (
@@ -3134,8 +3134,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CHRISTY.VARGAS@sakilacustomer.org',
                 'address_id' => 265,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             260 => 
             array (
@@ -3146,8 +3146,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'DEANNA.BYRD@sakilacustomer.org',
                 'address_id' => 266,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             261 => 
             array (
@@ -3158,8 +3158,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'PATSY.DAVIDSON@sakilacustomer.org',
                 'address_id' => 267,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             262 => 
             array (
@@ -3170,8 +3170,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'HILDA.HOPKINS@sakilacustomer.org',
                 'address_id' => 268,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             263 => 
             array (
@@ -3182,8 +3182,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'GWENDOLYN.MAY@sakilacustomer.org',
                 'address_id' => 269,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             264 => 
             array (
@@ -3194,8 +3194,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JENNIE.TERRY@sakilacustomer.org',
                 'address_id' => 270,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             265 => 
             array (
@@ -3206,8 +3206,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'NORA.HERRERA@sakilacustomer.org',
                 'address_id' => 271,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             266 => 
             array (
@@ -3218,8 +3218,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MARGIE.WADE@sakilacustomer.org',
                 'address_id' => 272,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             267 => 
             array (
@@ -3230,8 +3230,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'NINA.SOTO@sakilacustomer.org',
                 'address_id' => 273,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             268 => 
             array (
@@ -3242,8 +3242,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CASSANDRA.WALTERS@sakilacustomer.org',
                 'address_id' => 274,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             269 => 
             array (
@@ -3254,8 +3254,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'LEAH.CURTIS@sakilacustomer.org',
                 'address_id' => 275,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             270 => 
             array (
@@ -3266,8 +3266,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'PENNY.NEAL@sakilacustomer.org',
                 'address_id' => 276,
                 'active' => 0,
-                'create_date' => '2006-02-14 22:04:36',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:36',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             271 => 
             array (
@@ -3278,8 +3278,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'KAY.CALDWELL@sakilacustomer.org',
                 'address_id' => 277,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             272 => 
             array (
@@ -3290,8 +3290,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'PRISCILLA.LOWE@sakilacustomer.org',
                 'address_id' => 278,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             273 => 
             array (
@@ -3302,8 +3302,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'NAOMI.JENNINGS@sakilacustomer.org',
                 'address_id' => 279,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             274 => 
             array (
@@ -3314,8 +3314,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CAROLE.BARNETT@sakilacustomer.org',
                 'address_id' => 280,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             275 => 
             array (
@@ -3326,8 +3326,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'BRANDY.GRAVES@sakilacustomer.org',
                 'address_id' => 281,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             276 => 
             array (
@@ -3338,8 +3338,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'OLGA.JIMENEZ@sakilacustomer.org',
                 'address_id' => 282,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             277 => 
             array (
@@ -3350,8 +3350,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'BILLIE.HORTON@sakilacustomer.org',
                 'address_id' => 283,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             278 => 
             array (
@@ -3362,8 +3362,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'DIANNE.SHELTON@sakilacustomer.org',
                 'address_id' => 284,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             279 => 
             array (
@@ -3374,8 +3374,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'TRACEY.BARRETT@sakilacustomer.org',
                 'address_id' => 285,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             280 => 
             array (
@@ -3386,8 +3386,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'LEONA.OBRIEN@sakilacustomer.org',
                 'address_id' => 286,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             281 => 
             array (
@@ -3398,8 +3398,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JENNY.CASTRO@sakilacustomer.org',
                 'address_id' => 287,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             282 => 
             array (
@@ -3410,8 +3410,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'FELICIA.SUTTON@sakilacustomer.org',
                 'address_id' => 288,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             283 => 
             array (
@@ -3422,8 +3422,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'SONIA.GREGORY@sakilacustomer.org',
                 'address_id' => 289,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             284 => 
             array (
@@ -3434,8 +3434,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MIRIAM.MCKINNEY@sakilacustomer.org',
                 'address_id' => 290,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             285 => 
             array (
@@ -3446,8 +3446,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'VELMA.LUCAS@sakilacustomer.org',
                 'address_id' => 291,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             286 => 
             array (
@@ -3458,8 +3458,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'BECKY.MILES@sakilacustomer.org',
                 'address_id' => 292,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             287 => 
             array (
@@ -3470,8 +3470,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'BOBBIE.CRAIG@sakilacustomer.org',
                 'address_id' => 293,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             288 => 
             array (
@@ -3482,8 +3482,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'VIOLET.RODRIQUEZ@sakilacustomer.org',
                 'address_id' => 294,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             289 => 
             array (
@@ -3494,8 +3494,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'KRISTINA.CHAMBERS@sakilacustomer.org',
                 'address_id' => 295,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             290 => 
             array (
@@ -3506,8 +3506,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'TONI.HOLT@sakilacustomer.org',
                 'address_id' => 296,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             291 => 
             array (
@@ -3518,8 +3518,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MISTY.LAMBERT@sakilacustomer.org',
                 'address_id' => 297,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             292 => 
             array (
@@ -3530,8 +3530,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MAE.FLETCHER@sakilacustomer.org',
                 'address_id' => 298,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             293 => 
             array (
@@ -3542,8 +3542,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'SHELLY.WATTS@sakilacustomer.org',
                 'address_id' => 299,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             294 => 
             array (
@@ -3554,8 +3554,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'DAISY.BATES@sakilacustomer.org',
                 'address_id' => 300,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             295 => 
             array (
@@ -3566,8 +3566,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'RAMONA.HALE@sakilacustomer.org',
                 'address_id' => 301,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             296 => 
             array (
@@ -3578,8 +3578,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'SHERRI.RHODES@sakilacustomer.org',
                 'address_id' => 302,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             297 => 
             array (
@@ -3590,8 +3590,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ERIKA.PENA@sakilacustomer.org',
                 'address_id' => 303,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             298 => 
             array (
@@ -3602,8 +3602,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JAMES.GANNON@sakilacustomer.org',
                 'address_id' => 304,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             299 => 
             array (
@@ -3614,8 +3614,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JOHN.FARNSWORTH@sakilacustomer.org',
                 'address_id' => 305,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             300 => 
             array (
@@ -3626,8 +3626,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ROBERT.BAUGHMAN@sakilacustomer.org',
                 'address_id' => 306,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             301 => 
             array (
@@ -3638,8 +3638,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MICHAEL.SILVERMAN@sakilacustomer.org',
                 'address_id' => 307,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             302 => 
             array (
@@ -3650,8 +3650,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'WILLIAM.SATTERFIELD@sakilacustomer.org',
                 'address_id' => 308,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             303 => 
             array (
@@ -3662,8 +3662,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'DAVID.ROYAL@sakilacustomer.org',
                 'address_id' => 309,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             304 => 
             array (
@@ -3674,8 +3674,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'RICHARD.MCCRARY@sakilacustomer.org',
                 'address_id' => 310,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             305 => 
             array (
@@ -3686,8 +3686,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CHARLES.KOWALSKI@sakilacustomer.org',
                 'address_id' => 311,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             306 => 
             array (
@@ -3698,8 +3698,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JOSEPH.JOY@sakilacustomer.org',
                 'address_id' => 312,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             307 => 
             array (
@@ -3710,8 +3710,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'THOMAS.GRIGSBY@sakilacustomer.org',
                 'address_id' => 313,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             308 => 
             array (
@@ -3722,8 +3722,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CHRISTOPHER.GRECO@sakilacustomer.org',
                 'address_id' => 314,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             309 => 
             array (
@@ -3734,8 +3734,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'DANIEL.CABRAL@sakilacustomer.org',
                 'address_id' => 315,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             310 => 
             array (
@@ -3746,8 +3746,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'PAUL.TROUT@sakilacustomer.org',
                 'address_id' => 316,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             311 => 
             array (
@@ -3758,8 +3758,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MARK.RINEHART@sakilacustomer.org',
                 'address_id' => 317,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             312 => 
             array (
@@ -3770,8 +3770,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'DONALD.MAHON@sakilacustomer.org',
                 'address_id' => 318,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             313 => 
             array (
@@ -3782,8 +3782,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'GEORGE.LINTON@sakilacustomer.org',
                 'address_id' => 319,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             314 => 
             array (
@@ -3794,8 +3794,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'KENNETH.GOODEN@sakilacustomer.org',
                 'address_id' => 320,
                 'active' => 0,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             315 => 
             array (
@@ -3806,8 +3806,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'STEVEN.CURLEY@sakilacustomer.org',
                 'address_id' => 321,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             316 => 
             array (
@@ -3818,8 +3818,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'EDWARD.BAUGH@sakilacustomer.org',
                 'address_id' => 322,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             317 => 
             array (
@@ -3830,8 +3830,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'BRIAN.WYMAN@sakilacustomer.org',
                 'address_id' => 323,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             318 => 
             array (
@@ -3842,8 +3842,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'RONALD.WEINER@sakilacustomer.org',
                 'address_id' => 324,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             319 => 
             array (
@@ -3854,8 +3854,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ANTHONY.SCHWAB@sakilacustomer.org',
                 'address_id' => 325,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             320 => 
             array (
@@ -3866,8 +3866,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'KEVIN.SCHULER@sakilacustomer.org',
                 'address_id' => 326,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             321 => 
             array (
@@ -3878,8 +3878,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JASON.MORRISSEY@sakilacustomer.org',
                 'address_id' => 327,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             322 => 
             array (
@@ -3890,8 +3890,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MATTHEW.MAHAN@sakilacustomer.org',
                 'address_id' => 328,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             323 => 
             array (
@@ -3902,8 +3902,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'GARY.COY@sakilacustomer.org',
                 'address_id' => 329,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             324 => 
             array (
@@ -3914,8 +3914,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'TIMOTHY.BUNN@sakilacustomer.org',
                 'address_id' => 330,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             325 => 
             array (
@@ -3926,8 +3926,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JOSE.ANDREW@sakilacustomer.org',
                 'address_id' => 331,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             326 => 
             array (
@@ -3938,8 +3938,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'LARRY.THRASHER@sakilacustomer.org',
                 'address_id' => 332,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             327 => 
             array (
@@ -3950,8 +3950,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JEFFREY.SPEAR@sakilacustomer.org',
                 'address_id' => 333,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             328 => 
             array (
@@ -3962,8 +3962,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'FRANK.WAGGONER@sakilacustomer.org',
                 'address_id' => 334,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             329 => 
             array (
@@ -3974,8 +3974,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'SCOTT.SHELLEY@sakilacustomer.org',
                 'address_id' => 335,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             330 => 
             array (
@@ -3986,8 +3986,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ERIC.ROBERT@sakilacustomer.org',
                 'address_id' => 336,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             331 => 
             array (
@@ -3998,8 +3998,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'STEPHEN.QUALLS@sakilacustomer.org',
                 'address_id' => 337,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             332 => 
             array (
@@ -4010,8 +4010,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ANDREW.PURDY@sakilacustomer.org',
                 'address_id' => 338,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             333 => 
             array (
@@ -4022,8 +4022,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'RAYMOND.MCWHORTER@sakilacustomer.org',
                 'address_id' => 339,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             334 => 
             array (
@@ -4034,8 +4034,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'GREGORY.MAULDIN@sakilacustomer.org',
                 'address_id' => 340,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             335 => 
             array (
@@ -4046,8 +4046,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JOSHUA.MARK@sakilacustomer.org',
                 'address_id' => 341,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             336 => 
             array (
@@ -4058,8 +4058,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JERRY.JORDON@sakilacustomer.org',
                 'address_id' => 342,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             337 => 
             array (
@@ -4070,8 +4070,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'DENNIS.GILMAN@sakilacustomer.org',
                 'address_id' => 343,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             338 => 
             array (
@@ -4082,8 +4082,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'WALTER.PERRYMAN@sakilacustomer.org',
                 'address_id' => 344,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             339 => 
             array (
@@ -4094,8 +4094,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'PATRICK.NEWSOM@sakilacustomer.org',
                 'address_id' => 345,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             340 => 
             array (
@@ -4106,8 +4106,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'PETER.MENARD@sakilacustomer.org',
                 'address_id' => 346,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             341 => 
             array (
@@ -4118,8 +4118,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'HAROLD.MARTINO@sakilacustomer.org',
                 'address_id' => 347,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             342 => 
             array (
@@ -4130,8 +4130,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'DOUGLAS.GRAF@sakilacustomer.org',
                 'address_id' => 348,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             343 => 
             array (
@@ -4142,8 +4142,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'HENRY.BILLINGSLEY@sakilacustomer.org',
                 'address_id' => 349,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             344 => 
             array (
@@ -4154,8 +4154,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CARL.ARTIS@sakilacustomer.org',
                 'address_id' => 350,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             345 => 
             array (
@@ -4166,8 +4166,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ARTHUR.SIMPKINS@sakilacustomer.org',
                 'address_id' => 351,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             346 => 
             array (
@@ -4178,8 +4178,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'RYAN.SALISBURY@sakilacustomer.org',
                 'address_id' => 352,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             347 => 
             array (
@@ -4190,8 +4190,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ROGER.QUINTANILLA@sakilacustomer.org',
                 'address_id' => 353,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             348 => 
             array (
@@ -4202,8 +4202,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JOE.GILLILAND@sakilacustomer.org',
                 'address_id' => 354,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             349 => 
             array (
@@ -4214,8 +4214,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JUAN.FRALEY@sakilacustomer.org',
                 'address_id' => 355,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             350 => 
             array (
@@ -4226,8 +4226,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JACK.FOUST@sakilacustomer.org',
                 'address_id' => 356,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             351 => 
             array (
@@ -4238,8 +4238,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ALBERT.CROUSE@sakilacustomer.org',
                 'address_id' => 357,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             352 => 
             array (
@@ -4250,8 +4250,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JONATHAN.SCARBOROUGH@sakilacustomer.org',
                 'address_id' => 358,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             353 => 
             array (
@@ -4262,8 +4262,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JUSTIN.NGO@sakilacustomer.org',
                 'address_id' => 359,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             354 => 
             array (
@@ -4274,8 +4274,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'TERRY.GRISSOM@sakilacustomer.org',
                 'address_id' => 360,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             355 => 
             array (
@@ -4286,8 +4286,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'GERALD.FULTZ@sakilacustomer.org',
                 'address_id' => 361,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             356 => 
             array (
@@ -4298,8 +4298,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'KEITH.RICO@sakilacustomer.org',
                 'address_id' => 362,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             357 => 
             array (
@@ -4310,8 +4310,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'SAMUEL.MARLOW@sakilacustomer.org',
                 'address_id' => 363,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             358 => 
             array (
@@ -4322,8 +4322,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'WILLIE.MARKHAM@sakilacustomer.org',
                 'address_id' => 364,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             359 => 
             array (
@@ -4334,8 +4334,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'RALPH.MADRIGAL@sakilacustomer.org',
                 'address_id' => 365,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             360 => 
             array (
@@ -4346,8 +4346,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'LAWRENCE.LAWTON@sakilacustomer.org',
                 'address_id' => 366,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             361 => 
             array (
@@ -4358,8 +4358,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'NICHOLAS.BARFIELD@sakilacustomer.org',
                 'address_id' => 367,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             362 => 
             array (
@@ -4370,8 +4370,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ROY.WHITING@sakilacustomer.org',
                 'address_id' => 368,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             363 => 
             array (
@@ -4382,8 +4382,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'BENJAMIN.VARNEY@sakilacustomer.org',
                 'address_id' => 369,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             364 => 
             array (
@@ -4394,8 +4394,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'BRUCE.SCHWARZ@sakilacustomer.org',
                 'address_id' => 370,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             365 => 
             array (
@@ -4406,8 +4406,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'BRANDON.HUEY@sakilacustomer.org',
                 'address_id' => 371,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             366 => 
             array (
@@ -4418,8 +4418,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ADAM.GOOCH@sakilacustomer.org',
                 'address_id' => 372,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             367 => 
             array (
@@ -4430,8 +4430,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'HARRY.ARCE@sakilacustomer.org',
                 'address_id' => 373,
                 'active' => 0,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             368 => 
             array (
@@ -4442,8 +4442,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'FRED.WHEAT@sakilacustomer.org',
                 'address_id' => 374,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             369 => 
             array (
@@ -4454,8 +4454,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'WAYNE.TRUONG@sakilacustomer.org',
                 'address_id' => 375,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             370 => 
             array (
@@ -4466,8 +4466,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'BILLY.POULIN@sakilacustomer.org',
                 'address_id' => 376,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             371 => 
             array (
@@ -4478,8 +4478,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'STEVE.MACKENZIE@sakilacustomer.org',
                 'address_id' => 377,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             372 => 
             array (
@@ -4490,8 +4490,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'LOUIS.LEONE@sakilacustomer.org',
                 'address_id' => 378,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             373 => 
             array (
@@ -4502,8 +4502,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JEREMY.HURTADO@sakilacustomer.org',
                 'address_id' => 379,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             374 => 
             array (
@@ -4514,8 +4514,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'AARON.SELBY@sakilacustomer.org',
                 'address_id' => 380,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             375 => 
             array (
@@ -4526,8 +4526,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'RANDY.GAITHER@sakilacustomer.org',
                 'address_id' => 381,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             376 => 
             array (
@@ -4538,8 +4538,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'HOWARD.FORTNER@sakilacustomer.org',
                 'address_id' => 382,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             377 => 
             array (
@@ -4550,8 +4550,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'EUGENE.CULPEPPER@sakilacustomer.org',
                 'address_id' => 383,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             378 => 
             array (
@@ -4562,8 +4562,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CARLOS.COUGHLIN@sakilacustomer.org',
                 'address_id' => 384,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             379 => 
             array (
@@ -4574,8 +4574,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'RUSSELL.BRINSON@sakilacustomer.org',
                 'address_id' => 385,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             380 => 
             array (
@@ -4586,8 +4586,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'BOBBY.BOUDREAU@sakilacustomer.org',
                 'address_id' => 386,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             381 => 
             array (
@@ -4598,8 +4598,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'VICTOR.BARKLEY@sakilacustomer.org',
                 'address_id' => 387,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             382 => 
             array (
@@ -4610,8 +4610,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MARTIN.BALES@sakilacustomer.org',
                 'address_id' => 388,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             383 => 
             array (
@@ -4622,8 +4622,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ERNEST.STEPP@sakilacustomer.org',
                 'address_id' => 389,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             384 => 
             array (
@@ -4634,8 +4634,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'PHILLIP.HOLM@sakilacustomer.org',
                 'address_id' => 390,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             385 => 
             array (
@@ -4646,8 +4646,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'TODD.TAN@sakilacustomer.org',
                 'address_id' => 391,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             386 => 
             array (
@@ -4658,8 +4658,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JESSE.SCHILLING@sakilacustomer.org',
                 'address_id' => 392,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             387 => 
             array (
@@ -4670,8 +4670,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CRAIG.MORRELL@sakilacustomer.org',
                 'address_id' => 393,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             388 => 
             array (
@@ -4682,8 +4682,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ALAN.KAHN@sakilacustomer.org',
                 'address_id' => 394,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             389 => 
             array (
@@ -4694,8 +4694,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'SHAWN.HEATON@sakilacustomer.org',
                 'address_id' => 395,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             390 => 
             array (
@@ -4706,8 +4706,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CLARENCE.GAMEZ@sakilacustomer.org',
                 'address_id' => 396,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             391 => 
             array (
@@ -4718,8 +4718,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'SEAN.DOUGLASS@sakilacustomer.org',
                 'address_id' => 397,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             392 => 
             array (
@@ -4730,8 +4730,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'PHILIP.CAUSEY@sakilacustomer.org',
                 'address_id' => 398,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             393 => 
             array (
@@ -4742,8 +4742,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CHRIS.BROTHERS@sakilacustomer.org',
                 'address_id' => 399,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             394 => 
             array (
@@ -4754,8 +4754,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JOHNNY.TURPIN@sakilacustomer.org',
                 'address_id' => 400,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             395 => 
             array (
@@ -4766,8 +4766,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'EARL.SHANKS@sakilacustomer.org',
                 'address_id' => 401,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             396 => 
             array (
@@ -4778,8 +4778,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JIMMY.SCHRADER@sakilacustomer.org',
                 'address_id' => 402,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             397 => 
             array (
@@ -4790,8 +4790,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ANTONIO.MEEK@sakilacustomer.org',
                 'address_id' => 403,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             398 => 
             array (
@@ -4802,8 +4802,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'DANNY.ISOM@sakilacustomer.org',
                 'address_id' => 404,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             399 => 
             array (
@@ -4814,8 +4814,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'BRYAN.HARDISON@sakilacustomer.org',
                 'address_id' => 405,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             400 => 
             array (
@@ -4826,8 +4826,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'TONY.CARRANZA@sakilacustomer.org',
                 'address_id' => 406,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             401 => 
             array (
@@ -4838,8 +4838,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'LUIS.YANEZ@sakilacustomer.org',
                 'address_id' => 407,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             402 => 
             array (
@@ -4850,8 +4850,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MIKE.WAY@sakilacustomer.org',
                 'address_id' => 408,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             403 => 
             array (
@@ -4862,8 +4862,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'STANLEY.SCROGGINS@sakilacustomer.org',
                 'address_id' => 409,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             404 => 
             array (
@@ -4874,8 +4874,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'LEONARD.SCHOFIELD@sakilacustomer.org',
                 'address_id' => 410,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             405 => 
             array (
@@ -4886,8 +4886,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'NATHAN.RUNYON@sakilacustomer.org',
                 'address_id' => 411,
                 'active' => 0,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             406 => 
             array (
@@ -4898,8 +4898,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'DALE.RATCLIFF@sakilacustomer.org',
                 'address_id' => 412,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             407 => 
             array (
@@ -4910,8 +4910,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MANUEL.MURRELL@sakilacustomer.org',
                 'address_id' => 413,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             408 => 
             array (
@@ -4922,8 +4922,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'RODNEY.MOELLER@sakilacustomer.org',
                 'address_id' => 414,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             409 => 
             array (
@@ -4934,8 +4934,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CURTIS.IRBY@sakilacustomer.org',
                 'address_id' => 415,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             410 => 
             array (
@@ -4946,8 +4946,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'NORMAN.CURRIER@sakilacustomer.org',
                 'address_id' => 416,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             411 => 
             array (
@@ -4958,8 +4958,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ALLEN.BUTTERFIELD@sakilacustomer.org',
                 'address_id' => 417,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             412 => 
             array (
@@ -4970,8 +4970,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MARVIN.YEE@sakilacustomer.org',
                 'address_id' => 418,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             413 => 
             array (
@@ -4982,8 +4982,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'VINCENT.RALSTON@sakilacustomer.org',
                 'address_id' => 419,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             414 => 
             array (
@@ -4994,8 +4994,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'GLENN.PULLEN@sakilacustomer.org',
                 'address_id' => 420,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             415 => 
             array (
@@ -5006,8 +5006,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JEFFERY.PINSON@sakilacustomer.org',
                 'address_id' => 421,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             416 => 
             array (
@@ -5018,8 +5018,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'TRAVIS.ESTEP@sakilacustomer.org',
                 'address_id' => 422,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             417 => 
             array (
@@ -5030,8 +5030,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JEFF.EAST@sakilacustomer.org',
                 'address_id' => 423,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             418 => 
             array (
@@ -5042,8 +5042,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CHAD.CARBONE@sakilacustomer.org',
                 'address_id' => 424,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             419 => 
             array (
@@ -5054,8 +5054,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JACOB.LANCE@sakilacustomer.org',
                 'address_id' => 425,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             420 => 
             array (
@@ -5066,8 +5066,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'LEE.HAWKS@sakilacustomer.org',
                 'address_id' => 426,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             421 => 
             array (
@@ -5078,8 +5078,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MELVIN.ELLINGTON@sakilacustomer.org',
                 'address_id' => 427,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             422 => 
             array (
@@ -5090,8 +5090,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ALFRED.CASILLAS@sakilacustomer.org',
                 'address_id' => 428,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             423 => 
             array (
@@ -5102,8 +5102,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'KYLE.SPURLOCK@sakilacustomer.org',
                 'address_id' => 429,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             424 => 
             array (
@@ -5114,8 +5114,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'FRANCIS.SIKES@sakilacustomer.org',
                 'address_id' => 430,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             425 => 
             array (
@@ -5126,8 +5126,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'BRADLEY.MOTLEY@sakilacustomer.org',
                 'address_id' => 431,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             426 => 
             array (
@@ -5138,8 +5138,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JESUS.MCCARTNEY@sakilacustomer.org',
                 'address_id' => 432,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             427 => 
             array (
@@ -5150,8 +5150,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'HERBERT.KRUGER@sakilacustomer.org',
                 'address_id' => 433,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             428 => 
             array (
@@ -5162,8 +5162,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'FREDERICK.ISBELL@sakilacustomer.org',
                 'address_id' => 434,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             429 => 
             array (
@@ -5174,8 +5174,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'RAY.HOULE@sakilacustomer.org',
                 'address_id' => 435,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             430 => 
             array (
@@ -5186,8 +5186,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JOEL.FRANCISCO@sakilacustomer.org',
                 'address_id' => 436,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             431 => 
             array (
@@ -5198,8 +5198,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'EDWIN.BURK@sakilacustomer.org',
                 'address_id' => 437,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             432 => 
             array (
@@ -5210,8 +5210,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'DON.BONE@sakilacustomer.org',
                 'address_id' => 438,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             433 => 
             array (
@@ -5222,8 +5222,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'EDDIE.TOMLIN@sakilacustomer.org',
                 'address_id' => 439,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             434 => 
             array (
@@ -5234,8 +5234,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'RICKY.SHELBY@sakilacustomer.org',
                 'address_id' => 440,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             435 => 
             array (
@@ -5246,8 +5246,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'TROY.QUIGLEY@sakilacustomer.org',
                 'address_id' => 441,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             436 => 
             array (
@@ -5258,8 +5258,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'RANDALL.NEUMANN@sakilacustomer.org',
                 'address_id' => 442,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             437 => 
             array (
@@ -5270,8 +5270,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'BARRY.LOVELACE@sakilacustomer.org',
                 'address_id' => 443,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             438 => 
             array (
@@ -5282,8 +5282,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ALEXANDER.FENNELL@sakilacustomer.org',
                 'address_id' => 444,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             439 => 
             array (
@@ -5294,8 +5294,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'BERNARD.COLBY@sakilacustomer.org',
                 'address_id' => 445,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             440 => 
             array (
@@ -5306,8 +5306,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MARIO.CHEATHAM@sakilacustomer.org',
                 'address_id' => 446,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             441 => 
             array (
@@ -5318,8 +5318,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'LEROY.BUSTAMANTE@sakilacustomer.org',
                 'address_id' => 447,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             442 => 
             array (
@@ -5330,8 +5330,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'FRANCISCO.SKIDMORE@sakilacustomer.org',
                 'address_id' => 448,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             443 => 
             array (
@@ -5342,8 +5342,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MARCUS.HIDALGO@sakilacustomer.org',
                 'address_id' => 449,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             444 => 
             array (
@@ -5354,8 +5354,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MICHEAL.FORMAN@sakilacustomer.org',
                 'address_id' => 450,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             445 => 
             array (
@@ -5366,8 +5366,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'THEODORE.CULP@sakilacustomer.org',
                 'address_id' => 451,
                 'active' => 0,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             446 => 
             array (
@@ -5378,8 +5378,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CLIFFORD.BOWENS@sakilacustomer.org',
                 'address_id' => 452,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             447 => 
             array (
@@ -5390,8 +5390,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MIGUEL.BETANCOURT@sakilacustomer.org',
                 'address_id' => 453,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             448 => 
             array (
@@ -5402,8 +5402,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'OSCAR.AQUINO@sakilacustomer.org',
                 'address_id' => 454,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             449 => 
             array (
@@ -5414,8 +5414,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JAY.ROBB@sakilacustomer.org',
                 'address_id' => 455,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             450 => 
             array (
@@ -5426,8 +5426,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JIM.REA@sakilacustomer.org',
                 'address_id' => 456,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             451 => 
             array (
@@ -5438,8 +5438,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'TOM.MILNER@sakilacustomer.org',
                 'address_id' => 457,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             452 => 
             array (
@@ -5450,8 +5450,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CALVIN.MARTEL@sakilacustomer.org',
                 'address_id' => 458,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             453 => 
             array (
@@ -5462,8 +5462,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ALEX.GRESHAM@sakilacustomer.org',
                 'address_id' => 459,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             454 => 
             array (
@@ -5474,8 +5474,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JON.WILES@sakilacustomer.org',
                 'address_id' => 460,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             455 => 
             array (
@@ -5486,8 +5486,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'RONNIE.RICKETTS@sakilacustomer.org',
                 'address_id' => 461,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             456 => 
             array (
@@ -5498,8 +5498,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'BILL.GAVIN@sakilacustomer.org',
                 'address_id' => 462,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             457 => 
             array (
@@ -5510,8 +5510,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'LLOYD.DOWD@sakilacustomer.org',
                 'address_id' => 463,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             458 => 
             array (
@@ -5522,8 +5522,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'TOMMY.COLLAZO@sakilacustomer.org',
                 'address_id' => 464,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             459 => 
             array (
@@ -5534,8 +5534,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'LEON.BOSTIC@sakilacustomer.org',
                 'address_id' => 465,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             460 => 
             array (
@@ -5546,8 +5546,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'DEREK.BLAKELY@sakilacustomer.org',
                 'address_id' => 466,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             461 => 
             array (
@@ -5558,8 +5558,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'WARREN.SHERROD@sakilacustomer.org',
                 'address_id' => 467,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             462 => 
             array (
@@ -5570,8 +5570,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'DARRELL.POWER@sakilacustomer.org',
                 'address_id' => 468,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             463 => 
             array (
@@ -5582,8 +5582,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JEROME.KENYON@sakilacustomer.org',
                 'address_id' => 469,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             464 => 
             array (
@@ -5594,8 +5594,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'FLOYD.GANDY@sakilacustomer.org',
                 'address_id' => 470,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             465 => 
             array (
@@ -5606,8 +5606,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'LEO.EBERT@sakilacustomer.org',
                 'address_id' => 471,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             466 => 
             array (
@@ -5618,8 +5618,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ALVIN.DELOACH@sakilacustomer.org',
                 'address_id' => 472,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             467 => 
             array (
@@ -5630,8 +5630,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'TIM.CARY@sakilacustomer.org',
                 'address_id' => 473,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             468 => 
             array (
@@ -5642,8 +5642,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'WESLEY.BULL@sakilacustomer.org',
                 'address_id' => 474,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             469 => 
             array (
@@ -5654,8 +5654,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'GORDON.ALLARD@sakilacustomer.org',
                 'address_id' => 475,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             470 => 
             array (
@@ -5666,8 +5666,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'DEAN.SAUER@sakilacustomer.org',
                 'address_id' => 476,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             471 => 
             array (
@@ -5678,8 +5678,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'GREG.ROBINS@sakilacustomer.org',
                 'address_id' => 477,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             472 => 
             array (
@@ -5690,8 +5690,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JORGE.OLIVARES@sakilacustomer.org',
                 'address_id' => 478,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             473 => 
             array (
@@ -5702,8 +5702,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'DUSTIN.GILLETTE@sakilacustomer.org',
                 'address_id' => 479,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             474 => 
             array (
@@ -5714,8 +5714,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'PEDRO.CHESTNUT@sakilacustomer.org',
                 'address_id' => 480,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             475 => 
             array (
@@ -5726,8 +5726,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'DERRICK.BOURQUE@sakilacustomer.org',
                 'address_id' => 481,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             476 => 
             array (
@@ -5738,8 +5738,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'DAN.PAINE@sakilacustomer.org',
                 'address_id' => 482,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             477 => 
             array (
@@ -5750,8 +5750,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'LEWIS.LYMAN@sakilacustomer.org',
                 'address_id' => 483,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             478 => 
             array (
@@ -5762,8 +5762,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ZACHARY.HITE@sakilacustomer.org',
                 'address_id' => 484,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             479 => 
             array (
@@ -5774,8 +5774,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'COREY.HAUSER@sakilacustomer.org',
                 'address_id' => 485,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             480 => 
             array (
@@ -5786,8 +5786,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'HERMAN.DEVORE@sakilacustomer.org',
                 'address_id' => 486,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             481 => 
             array (
@@ -5798,8 +5798,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MAURICE.CRAWLEY@sakilacustomer.org',
                 'address_id' => 487,
                 'active' => 0,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             482 => 
             array (
@@ -5810,8 +5810,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'VERNON.CHAPA@sakilacustomer.org',
                 'address_id' => 488,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             483 => 
             array (
@@ -5822,8 +5822,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ROBERTO.VU@sakilacustomer.org',
                 'address_id' => 489,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             484 => 
             array (
@@ -5834,8 +5834,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CLYDE.TOBIAS@sakilacustomer.org',
                 'address_id' => 490,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             485 => 
             array (
@@ -5846,8 +5846,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'GLEN.TALBERT@sakilacustomer.org',
                 'address_id' => 491,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             486 => 
             array (
@@ -5858,8 +5858,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'HECTOR.POINDEXTER@sakilacustomer.org',
                 'address_id' => 492,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             487 => 
             array (
@@ -5870,8 +5870,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'SHANE.MILLARD@sakilacustomer.org',
                 'address_id' => 493,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             488 => 
             array (
@@ -5882,8 +5882,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'RICARDO.MEADOR@sakilacustomer.org',
                 'address_id' => 494,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             489 => 
             array (
@@ -5894,8 +5894,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'SAM.MCDUFFIE@sakilacustomer.org',
                 'address_id' => 495,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             490 => 
             array (
@@ -5906,8 +5906,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'RICK.MATTOX@sakilacustomer.org',
                 'address_id' => 496,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             491 => 
             array (
@@ -5918,8 +5918,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'LESTER.KRAUS@sakilacustomer.org',
                 'address_id' => 497,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             492 => 
             array (
@@ -5930,8 +5930,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'BRENT.HARKINS@sakilacustomer.org',
                 'address_id' => 498,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             493 => 
             array (
@@ -5942,8 +5942,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'RAMON.CHOATE@sakilacustomer.org',
                 'address_id' => 499,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             494 => 
             array (
@@ -5954,8 +5954,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CHARLIE.BESS@sakilacustomer.org',
                 'address_id' => 500,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             495 => 
             array (
@@ -5966,8 +5966,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'TYLER.WREN@sakilacustomer.org',
                 'address_id' => 501,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             496 => 
             array (
@@ -5978,8 +5978,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'GILBERT.SLEDGE@sakilacustomer.org',
                 'address_id' => 502,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             497 => 
             array (
@@ -5990,8 +5990,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'GENE.SANBORN@sakilacustomer.org',
                 'address_id' => 503,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             498 => 
             array (
@@ -6002,8 +6002,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MARC.OUTLAW@sakilacustomer.org',
                 'address_id' => 504,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             499 => 
             array (
@@ -6014,8 +6014,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'REGINALD.KINDER@sakilacustomer.org',
                 'address_id' => 505,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
         ));
         \DB::table('customer')->insert(array (
@@ -6028,8 +6028,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'RUBEN.GEARY@sakilacustomer.org',
                 'address_id' => 506,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             1 => 
             array (
@@ -6040,8 +6040,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'BRETT.CORNWELL@sakilacustomer.org',
                 'address_id' => 507,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             2 => 
             array (
@@ -6052,8 +6052,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ANGEL.BARCLAY@sakilacustomer.org',
                 'address_id' => 508,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             3 => 
             array (
@@ -6064,8 +6064,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'NATHANIEL.ADAM@sakilacustomer.org',
                 'address_id' => 509,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             4 => 
             array (
@@ -6076,8 +6076,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'RAFAEL.ABNEY@sakilacustomer.org',
                 'address_id' => 510,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             5 => 
             array (
@@ -6088,8 +6088,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'LESLIE.SEWARD@sakilacustomer.org',
                 'address_id' => 511,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             6 => 
             array (
@@ -6100,8 +6100,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'EDGAR.RHOADS@sakilacustomer.org',
                 'address_id' => 512,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             7 => 
             array (
@@ -6112,8 +6112,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MILTON.HOWLAND@sakilacustomer.org',
                 'address_id' => 513,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             8 => 
             array (
@@ -6124,8 +6124,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'RAUL.FORTIER@sakilacustomer.org',
                 'address_id' => 514,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             9 => 
             array (
@@ -6136,8 +6136,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'BEN.EASTER@sakilacustomer.org',
                 'address_id' => 515,
                 'active' => 0,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             10 => 
             array (
@@ -6148,8 +6148,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CHESTER.BENNER@sakilacustomer.org',
                 'address_id' => 516,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             11 => 
             array (
@@ -6160,8 +6160,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CECIL.VINES@sakilacustomer.org',
                 'address_id' => 517,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             12 => 
             array (
@@ -6172,8 +6172,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'DUANE.TUBBS@sakilacustomer.org',
                 'address_id' => 519,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             13 => 
             array (
@@ -6184,8 +6184,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'FRANKLIN.TROUTMAN@sakilacustomer.org',
                 'address_id' => 520,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             14 => 
             array (
@@ -6196,8 +6196,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ANDRE.RAPP@sakilacustomer.org',
                 'address_id' => 521,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             15 => 
             array (
@@ -6208,8 +6208,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ELMER.NOE@sakilacustomer.org',
                 'address_id' => 522,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             16 => 
             array (
@@ -6220,8 +6220,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'BRAD.MCCURDY@sakilacustomer.org',
                 'address_id' => 523,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             17 => 
             array (
@@ -6232,8 +6232,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'GABRIEL.HARDER@sakilacustomer.org',
                 'address_id' => 524,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             18 => 
             array (
@@ -6244,8 +6244,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'RON.DELUCA@sakilacustomer.org',
                 'address_id' => 525,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             19 => 
             array (
@@ -6256,8 +6256,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MITCHELL.WESTMORELAND@sakilacustomer.org',
                 'address_id' => 526,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             20 => 
             array (
@@ -6268,8 +6268,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ROLAND.SOUTH@sakilacustomer.org',
                 'address_id' => 527,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             21 => 
             array (
@@ -6280,8 +6280,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ARNOLD.HAVENS@sakilacustomer.org',
                 'address_id' => 528,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             22 => 
             array (
@@ -6292,8 +6292,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'HARVEY.GUAJARDO@sakilacustomer.org',
                 'address_id' => 529,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             23 => 
             array (
@@ -6304,8 +6304,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JARED.ELY@sakilacustomer.org',
                 'address_id' => 530,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             24 => 
             array (
@@ -6316,8 +6316,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ADRIAN.CLARY@sakilacustomer.org',
                 'address_id' => 531,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             25 => 
             array (
@@ -6328,8 +6328,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'KARL.SEAL@sakilacustomer.org',
                 'address_id' => 532,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             26 => 
             array (
@@ -6340,8 +6340,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CORY.MEEHAN@sakilacustomer.org',
                 'address_id' => 533,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             27 => 
             array (
@@ -6352,8 +6352,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CLAUDE.HERZOG@sakilacustomer.org',
                 'address_id' => 534,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             28 => 
             array (
@@ -6364,8 +6364,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ERIK.GUILLEN@sakilacustomer.org',
                 'address_id' => 535,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             29 => 
             array (
@@ -6376,8 +6376,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'DARRYL.ASHCRAFT@sakilacustomer.org',
                 'address_id' => 536,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             30 => 
             array (
@@ -6388,8 +6388,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JAMIE.WAUGH@sakilacustomer.org',
                 'address_id' => 537,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             31 => 
             array (
@@ -6400,8 +6400,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'NEIL.RENNER@sakilacustomer.org',
                 'address_id' => 538,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             32 => 
             array (
@@ -6412,8 +6412,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JESSIE.MILAM@sakilacustomer.org',
                 'address_id' => 539,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             33 => 
             array (
@@ -6424,8 +6424,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CHRISTIAN.JUNG@sakilacustomer.org',
                 'address_id' => 540,
                 'active' => 0,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             34 => 
             array (
@@ -6436,8 +6436,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JAVIER.ELROD@sakilacustomer.org',
                 'address_id' => 541,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             35 => 
             array (
@@ -6448,8 +6448,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'FERNANDO.CHURCHILL@sakilacustomer.org',
                 'address_id' => 542,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             36 => 
             array (
@@ -6460,8 +6460,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CLINTON.BUFORD@sakilacustomer.org',
                 'address_id' => 543,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             37 => 
             array (
@@ -6472,8 +6472,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'TED.BREAUX@sakilacustomer.org',
                 'address_id' => 544,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             38 => 
             array (
@@ -6484,8 +6484,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MATHEW.BOLIN@sakilacustomer.org',
                 'address_id' => 545,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             39 => 
             array (
@@ -6496,8 +6496,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'TYRONE.ASHER@sakilacustomer.org',
                 'address_id' => 546,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             40 => 
             array (
@@ -6508,8 +6508,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'DARREN.WINDHAM@sakilacustomer.org',
                 'address_id' => 547,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             41 => 
             array (
@@ -6520,8 +6520,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'LONNIE.TIRADO@sakilacustomer.org',
                 'address_id' => 548,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             42 => 
             array (
@@ -6532,8 +6532,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'LANCE.PEMBERTON@sakilacustomer.org',
                 'address_id' => 549,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             43 => 
             array (
@@ -6544,8 +6544,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CODY.NOLEN@sakilacustomer.org',
                 'address_id' => 550,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             44 => 
             array (
@@ -6556,8 +6556,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JULIO.NOLAND@sakilacustomer.org',
                 'address_id' => 551,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             45 => 
             array (
@@ -6568,8 +6568,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'KELLY.KNOTT@sakilacustomer.org',
                 'address_id' => 552,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             46 => 
             array (
@@ -6580,8 +6580,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'KURT.EMMONS@sakilacustomer.org',
                 'address_id' => 553,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             47 => 
             array (
@@ -6592,8 +6592,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ALLAN.CORNISH@sakilacustomer.org',
                 'address_id' => 554,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             48 => 
             array (
@@ -6604,8 +6604,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'NELSON.CHRISTENSON@sakilacustomer.org',
                 'address_id' => 555,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             49 => 
             array (
@@ -6616,8 +6616,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'GUY.BROWNLEE@sakilacustomer.org',
                 'address_id' => 556,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             50 => 
             array (
@@ -6628,8 +6628,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CLAYTON.BARBEE@sakilacustomer.org',
                 'address_id' => 557,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             51 => 
             array (
@@ -6640,8 +6640,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'HUGH.WALDROP@sakilacustomer.org',
                 'address_id' => 558,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             52 => 
             array (
@@ -6652,8 +6652,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MAX.PITT@sakilacustomer.org',
                 'address_id' => 559,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             53 => 
             array (
@@ -6664,8 +6664,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'DWAYNE.OLVERA@sakilacustomer.org',
                 'address_id' => 560,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             54 => 
             array (
@@ -6676,8 +6676,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'DWIGHT.LOMBARDI@sakilacustomer.org',
                 'address_id' => 561,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             55 => 
             array (
@@ -6688,8 +6688,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ARMANDO.GRUBER@sakilacustomer.org',
                 'address_id' => 562,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             56 => 
             array (
@@ -6700,8 +6700,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'FELIX.GAFFNEY@sakilacustomer.org',
                 'address_id' => 563,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             57 => 
             array (
@@ -6712,8 +6712,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JIMMIE.EGGLESTON@sakilacustomer.org',
                 'address_id' => 564,
                 'active' => 0,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             58 => 
             array (
@@ -6724,8 +6724,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'EVERETT.BANDA@sakilacustomer.org',
                 'address_id' => 565,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             59 => 
             array (
@@ -6736,8 +6736,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JORDAN.ARCHULETA@sakilacustomer.org',
                 'address_id' => 566,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             60 => 
             array (
@@ -6748,8 +6748,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'IAN.STILL@sakilacustomer.org',
                 'address_id' => 567,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             61 => 
             array (
@@ -6760,8 +6760,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'WALLACE.SLONE@sakilacustomer.org',
                 'address_id' => 568,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             62 => 
             array (
@@ -6772,8 +6772,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'KEN.PREWITT@sakilacustomer.org',
                 'address_id' => 569,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             63 => 
             array (
@@ -6784,8 +6784,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'BOB.PFEIFFER@sakilacustomer.org',
                 'address_id' => 570,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             64 => 
             array (
@@ -6796,8 +6796,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JAIME.NETTLES@sakilacustomer.org',
                 'address_id' => 571,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             65 => 
             array (
@@ -6808,8 +6808,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CASEY.MENA@sakilacustomer.org',
                 'address_id' => 572,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             66 => 
             array (
@@ -6820,8 +6820,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ALFREDO.MCADAMS@sakilacustomer.org',
                 'address_id' => 573,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             67 => 
             array (
@@ -6832,8 +6832,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ALBERTO.HENNING@sakilacustomer.org',
                 'address_id' => 574,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             68 => 
             array (
@@ -6844,8 +6844,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'DAVE.GARDINER@sakilacustomer.org',
                 'address_id' => 575,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             69 => 
             array (
@@ -6856,8 +6856,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'IVAN.CROMWELL@sakilacustomer.org',
                 'address_id' => 576,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             70 => 
             array (
@@ -6868,8 +6868,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JOHNNIE.CHISHOLM@sakilacustomer.org',
                 'address_id' => 577,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             71 => 
             array (
@@ -6880,8 +6880,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'SIDNEY.BURLESON@sakilacustomer.org',
                 'address_id' => 578,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             72 => 
             array (
@@ -6892,8 +6892,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'BYRON.BOX@sakilacustomer.org',
                 'address_id' => 579,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             73 => 
             array (
@@ -6904,8 +6904,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'JULIAN.VEST@sakilacustomer.org',
                 'address_id' => 580,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             74 => 
             array (
@@ -6916,8 +6916,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ISAAC.OGLESBY@sakilacustomer.org',
                 'address_id' => 581,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             75 => 
             array (
@@ -6928,8 +6928,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MORRIS.MCCARTER@sakilacustomer.org',
                 'address_id' => 582,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             76 => 
             array (
@@ -6940,8 +6940,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'CLIFTON.MALCOLM@sakilacustomer.org',
                 'address_id' => 583,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             77 => 
             array (
@@ -6952,8 +6952,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'WILLARD.LUMPKIN@sakilacustomer.org',
                 'address_id' => 584,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             78 => 
             array (
@@ -6964,8 +6964,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'DARYL.LARUE@sakilacustomer.org',
                 'address_id' => 585,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             79 => 
             array (
@@ -6976,8 +6976,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ROSS.GREY@sakilacustomer.org',
                 'address_id' => 586,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             80 => 
             array (
@@ -6988,8 +6988,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'VIRGIL.WOFFORD@sakilacustomer.org',
                 'address_id' => 587,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             81 => 
             array (
@@ -7000,8 +7000,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ANDY.VANHORN@sakilacustomer.org',
                 'address_id' => 588,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             82 => 
             array (
@@ -7012,8 +7012,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MARSHALL.THORN@sakilacustomer.org',
                 'address_id' => 589,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             83 => 
             array (
@@ -7024,8 +7024,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'SALVADOR.TEEL@sakilacustomer.org',
                 'address_id' => 590,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             84 => 
             array (
@@ -7036,8 +7036,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'PERRY.SWAFFORD@sakilacustomer.org',
                 'address_id' => 591,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             85 => 
             array (
@@ -7048,8 +7048,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'KIRK.STCLAIR@sakilacustomer.org',
                 'address_id' => 592,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             86 => 
             array (
@@ -7060,8 +7060,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'SERGIO.STANFIELD@sakilacustomer.org',
                 'address_id' => 593,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             87 => 
             array (
@@ -7072,8 +7072,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'MARION.OCAMPO@sakilacustomer.org',
                 'address_id' => 594,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             88 => 
             array (
@@ -7084,8 +7084,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'TRACY.HERRMANN@sakilacustomer.org',
                 'address_id' => 595,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             89 => 
             array (
@@ -7096,8 +7096,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'SETH.HANNON@sakilacustomer.org',
                 'address_id' => 596,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             90 => 
             array (
@@ -7108,8 +7108,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'KENT.ARSENAULT@sakilacustomer.org',
                 'address_id' => 597,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             91 => 
             array (
@@ -7120,8 +7120,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'TERRANCE.ROUSH@sakilacustomer.org',
                 'address_id' => 598,
                 'active' => 0,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             92 => 
             array (
@@ -7132,8 +7132,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'RENE.MCALISTER@sakilacustomer.org',
                 'address_id' => 599,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             93 => 
             array (
@@ -7144,8 +7144,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'EDUARDO.HIATT@sakilacustomer.org',
                 'address_id' => 600,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             94 => 
             array (
@@ -7156,8 +7156,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'TERRENCE.GUNDERSON@sakilacustomer.org',
                 'address_id' => 601,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             95 => 
             array (
@@ -7168,8 +7168,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'ENRIQUE.FORSYTHE@sakilacustomer.org',
                 'address_id' => 602,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             96 => 
             array (
@@ -7180,8 +7180,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'FREDDIE.DUGGAN@sakilacustomer.org',
                 'address_id' => 603,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             97 => 
             array (
@@ -7192,8 +7192,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'WADE.DELVALLE@sakilacustomer.org',
                 'address_id' => 604,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
             98 => 
             array (
@@ -7204,8 +7204,8 @@ class CustomerTableSeeder extends Seeder
                 'email' => 'AUSTIN.CINTRON@sakilacustomer.org',
                 'address_id' => 605,
                 'active' => 1,
-                'create_date' => '2006-02-14 22:04:37',
-                'last_update' => '2006-02-15 04:57:20',
+                'created_at' => '2006-02-14 22:04:37',
+                'updated_at' => '2006-02-15 04:57:20',
             ),
         ));
         

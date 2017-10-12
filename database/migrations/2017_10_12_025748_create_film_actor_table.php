@@ -5,31 +5,32 @@ use Illuminate\Database\Schema\Blueprint;
 
 class CreateFilmActorTable extends Migration {
 
-	/**
-	 * Run the migrations.
-	 *
-	 * @return void
-	 */
-	public function up()
-	{
-		Schema::create('film_actor', function(Blueprint $table)
-		{
-			$table->smallInteger('actor_id')->unsigned();
-			$table->smallInteger('film_id')->unsigned()->index('idx_fk_film_id');
-			$table->timestamp('last_update')->default(DB::raw('CURRENT_TIMESTAMP'));
-			$table->primary(['actor_id','film_id']);
-		});
-	}
+    /**
+     * Run the migrations.
+     *
+     * @return void
+     */
+    public function up()
+    {
+        Schema::create('film_actor', function(Blueprint $table)
+        {
+            $table->smallInteger('actor_id')->unsigned();
+            $table->smallInteger('film_id')->unsigned()->index('idx_fk_film_id');
+            $table->timestamp('updated_at')->default(DB::raw('CURRENT_TIMESTAMP'));
+            $table->primary(['actor_id','film_id']);
+            $table->timestamp('created_at')->default(DB::raw('CURRENT_TIMESTAMP'));
+        });
+    }
 
 
-	/**
-	 * Reverse the migrations.
-	 *
-	 * @return void
-	 */
-	public function down()
-	{
-		Schema::drop('film_actor');
-	}
+    /**
+     * Reverse the migrations.
+     *
+     * @return void
+     */
+    public function down()
+    {
+        Schema::drop('film_actor');
+    }
 
 }

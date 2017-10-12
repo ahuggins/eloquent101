@@ -31,7 +31,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'PG',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             1 => 
             array (
@@ -47,7 +47,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             2 => 
             array (
@@ -63,7 +63,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             3 => 
             array (
@@ -79,7 +79,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             4 => 
             array (
@@ -95,7 +95,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'G',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             5 => 
             array (
@@ -111,7 +111,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'PG',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             6 => 
             array (
@@ -127,7 +127,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             7 => 
             array (
@@ -143,7 +143,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '15.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             8 => 
             array (
@@ -159,7 +159,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             9 => 
             array (
@@ -175,7 +175,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '24.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             10 => 
             array (
@@ -191,7 +191,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '16.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             11 => 
             array (
@@ -207,7 +207,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             12 => 
             array (
@@ -223,7 +223,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'PG',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             13 => 
             array (
@@ -239,7 +239,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             14 => 
             array (
@@ -255,7 +255,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             15 => 
             array (
@@ -271,7 +271,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             16 => 
             array (
@@ -287,7 +287,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             17 => 
             array (
@@ -303,7 +303,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             18 => 
             array (
@@ -319,7 +319,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             19 => 
             array (
@@ -335,7 +335,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             20 => 
             array (
@@ -351,7 +351,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             21 => 
             array (
@@ -367,7 +367,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             22 => 
             array (
@@ -383,7 +383,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             23 => 
             array (
@@ -399,7 +399,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             24 => 
             array (
@@ -415,7 +415,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '15.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             25 => 
             array (
@@ -431,7 +431,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '15.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             26 => 
             array (
@@ -447,7 +447,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             27 => 
             array (
@@ -463,7 +463,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '16.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             28 => 
             array (
@@ -479,7 +479,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             29 => 
             array (
@@ -495,7 +495,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             30 => 
             array (
@@ -511,7 +511,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '16.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             31 => 
             array (
@@ -527,7 +527,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             32 => 
             array (
@@ -543,7 +543,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '15.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             33 => 
             array (
@@ -559,7 +559,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             34 => 
             array (
@@ -575,7 +575,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '24.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             35 => 
             array (
@@ -591,7 +591,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             36 => 
             array (
@@ -607,7 +607,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             37 => 
             array (
@@ -623,7 +623,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             38 => 
             array (
@@ -639,7 +639,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             39 => 
             array (
@@ -655,7 +655,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             40 => 
             array (
@@ -671,7 +671,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             41 => 
             array (
@@ -687,7 +687,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             42 => 
             array (
@@ -703,7 +703,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '15.99',
                 'rating' => 'G',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             43 => 
             array (
@@ -719,7 +719,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             44 => 
             array (
@@ -735,7 +735,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             45 => 
             array (
@@ -751,7 +751,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             46 => 
             array (
@@ -767,7 +767,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             47 => 
             array (
@@ -783,7 +783,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '24.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             48 => 
             array (
@@ -799,7 +799,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             49 => 
             array (
@@ -815,7 +815,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             50 => 
             array (
@@ -831,7 +831,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             51 => 
             array (
@@ -847,7 +847,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             52 => 
             array (
@@ -863,7 +863,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             53 => 
             array (
@@ -879,7 +879,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '15.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             54 => 
             array (
@@ -895,7 +895,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'G',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             55 => 
             array (
@@ -911,7 +911,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '15.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             56 => 
             array (
@@ -927,7 +927,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             57 => 
             array (
@@ -943,7 +943,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '16.99',
                 'rating' => 'G',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             58 => 
             array (
@@ -959,7 +959,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'R',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             59 => 
             array (
@@ -975,7 +975,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'R',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             60 => 
             array (
@@ -991,7 +991,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             61 => 
             array (
@@ -1007,7 +1007,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             62 => 
             array (
@@ -1023,7 +1023,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             63 => 
             array (
@@ -1039,7 +1039,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             64 => 
             array (
@@ -1055,7 +1055,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             65 => 
             array (
@@ -1071,7 +1071,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             66 => 
             array (
@@ -1087,7 +1087,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '24.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             67 => 
             array (
@@ -1103,7 +1103,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             68 => 
             array (
@@ -1119,7 +1119,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             69 => 
             array (
@@ -1135,7 +1135,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             70 => 
             array (
@@ -1151,7 +1151,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             71 => 
             array (
@@ -1167,7 +1167,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             72 => 
             array (
@@ -1183,7 +1183,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             73 => 
             array (
@@ -1199,7 +1199,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             74 => 
             array (
@@ -1215,7 +1215,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             75 => 
             array (
@@ -1231,7 +1231,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             76 => 
             array (
@@ -1247,7 +1247,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '15.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             77 => 
             array (
@@ -1263,7 +1263,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             78 => 
             array (
@@ -1279,7 +1279,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             79 => 
             array (
@@ -1295,7 +1295,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             80 => 
             array (
@@ -1311,7 +1311,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             81 => 
             array (
@@ -1327,7 +1327,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             82 => 
             array (
@@ -1343,7 +1343,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             83 => 
             array (
@@ -1359,7 +1359,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             84 => 
             array (
@@ -1375,7 +1375,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'G',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             85 => 
             array (
@@ -1391,7 +1391,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             86 => 
             array (
@@ -1407,7 +1407,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             87 => 
             array (
@@ -1423,7 +1423,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             88 => 
             array (
@@ -1439,7 +1439,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             89 => 
             array (
@@ -1455,7 +1455,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             90 => 
             array (
@@ -1471,7 +1471,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'PG',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             91 => 
             array (
@@ -1487,7 +1487,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             92 => 
             array (
@@ -1503,7 +1503,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             93 => 
             array (
@@ -1519,7 +1519,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             94 => 
             array (
@@ -1535,7 +1535,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             95 => 
             array (
@@ -1551,7 +1551,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             96 => 
             array (
@@ -1567,7 +1567,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '24.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             97 => 
             array (
@@ -1583,7 +1583,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             98 => 
             array (
@@ -1599,7 +1599,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             99 => 
             array (
@@ -1615,7 +1615,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             100 => 
             array (
@@ -1631,7 +1631,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'R',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             101 => 
             array (
@@ -1647,7 +1647,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             102 => 
             array (
@@ -1663,7 +1663,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             103 => 
             array (
@@ -1679,7 +1679,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             104 => 
             array (
@@ -1695,7 +1695,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             105 => 
             array (
@@ -1711,7 +1711,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             106 => 
             array (
@@ -1727,7 +1727,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'G',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             107 => 
             array (
@@ -1743,7 +1743,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             108 => 
             array (
@@ -1759,7 +1759,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'G',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             109 => 
             array (
@@ -1775,7 +1775,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             110 => 
             array (
@@ -1791,7 +1791,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             111 => 
             array (
@@ -1807,7 +1807,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             112 => 
             array (
@@ -1823,7 +1823,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             113 => 
             array (
@@ -1839,7 +1839,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             114 => 
             array (
@@ -1855,7 +1855,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'R',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             115 => 
             array (
@@ -1871,7 +1871,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'R',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             116 => 
             array (
@@ -1887,7 +1887,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '15.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             117 => 
             array (
@@ -1903,7 +1903,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             118 => 
             array (
@@ -1919,7 +1919,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             119 => 
             array (
@@ -1935,7 +1935,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '16.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             120 => 
             array (
@@ -1951,7 +1951,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '15.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             121 => 
             array (
@@ -1967,7 +1967,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             122 => 
             array (
@@ -1983,7 +1983,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             123 => 
             array (
@@ -1999,7 +1999,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '16.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             124 => 
             array (
@@ -2015,7 +2015,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             125 => 
             array (
@@ -2031,7 +2031,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '16.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             126 => 
             array (
@@ -2047,7 +2047,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             127 => 
             array (
@@ -2063,7 +2063,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             128 => 
             array (
@@ -2079,7 +2079,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '16.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             129 => 
             array (
@@ -2095,7 +2095,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '24.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             130 => 
             array (
@@ -2111,7 +2111,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'PG',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             131 => 
             array (
@@ -2127,7 +2127,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'PG',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             132 => 
             array (
@@ -2143,7 +2143,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             133 => 
             array (
@@ -2159,7 +2159,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             134 => 
             array (
@@ -2175,7 +2175,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             135 => 
             array (
@@ -2191,7 +2191,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             136 => 
             array (
@@ -2207,7 +2207,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             137 => 
             array (
@@ -2223,7 +2223,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'R',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             138 => 
             array (
@@ -2239,7 +2239,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             139 => 
             array (
@@ -2255,7 +2255,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             140 => 
             array (
@@ -2271,7 +2271,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             141 => 
             array (
@@ -2287,7 +2287,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '24.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             142 => 
             array (
@@ -2303,7 +2303,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             143 => 
             array (
@@ -2319,7 +2319,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '24.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             144 => 
             array (
@@ -2335,7 +2335,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             145 => 
             array (
@@ -2351,7 +2351,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '24.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             146 => 
             array (
@@ -2367,7 +2367,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '16.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             147 => 
             array (
@@ -2383,7 +2383,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             148 => 
             array (
@@ -2399,7 +2399,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             149 => 
             array (
@@ -2415,7 +2415,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'PG',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             150 => 
             array (
@@ -2431,7 +2431,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             151 => 
             array (
@@ -2447,7 +2447,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             152 => 
             array (
@@ -2463,7 +2463,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             153 => 
             array (
@@ -2479,7 +2479,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             154 => 
             array (
@@ -2495,7 +2495,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             155 => 
             array (
@@ -2511,7 +2511,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '15.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             156 => 
             array (
@@ -2527,7 +2527,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             157 => 
             array (
@@ -2543,7 +2543,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '16.99',
                 'rating' => 'R',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             158 => 
             array (
@@ -2559,7 +2559,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             159 => 
             array (
@@ -2575,7 +2575,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             160 => 
             array (
@@ -2591,7 +2591,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             161 => 
             array (
@@ -2607,7 +2607,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             162 => 
             array (
@@ -2623,7 +2623,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             163 => 
             array (
@@ -2639,7 +2639,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             164 => 
             array (
@@ -2655,7 +2655,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             165 => 
             array (
@@ -2671,7 +2671,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             166 => 
             array (
@@ -2687,7 +2687,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             167 => 
             array (
@@ -2703,7 +2703,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             168 => 
             array (
@@ -2719,7 +2719,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             169 => 
             array (
@@ -2735,7 +2735,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             170 => 
             array (
@@ -2751,7 +2751,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             171 => 
             array (
@@ -2767,7 +2767,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             172 => 
             array (
@@ -2783,7 +2783,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             173 => 
             array (
@@ -2799,7 +2799,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             174 => 
             array (
@@ -2815,7 +2815,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             175 => 
             array (
@@ -2831,7 +2831,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             176 => 
             array (
@@ -2847,7 +2847,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             177 => 
             array (
@@ -2863,7 +2863,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'G',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             178 => 
             array (
@@ -2879,7 +2879,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             179 => 
             array (
@@ -2895,7 +2895,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             180 => 
             array (
@@ -2911,7 +2911,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             181 => 
             array (
@@ -2927,7 +2927,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             182 => 
             array (
@@ -2943,7 +2943,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             183 => 
             array (
@@ -2959,7 +2959,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '24.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             184 => 
             array (
@@ -2975,7 +2975,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             185 => 
             array (
@@ -2991,7 +2991,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             186 => 
             array (
@@ -3007,7 +3007,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             187 => 
             array (
@@ -3023,7 +3023,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '24.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             188 => 
             array (
@@ -3039,7 +3039,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             189 => 
             array (
@@ -3055,7 +3055,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             190 => 
             array (
@@ -3071,7 +3071,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             191 => 
             array (
@@ -3087,7 +3087,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             192 => 
             array (
@@ -3103,7 +3103,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             193 => 
             array (
@@ -3119,7 +3119,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             194 => 
             array (
@@ -3135,7 +3135,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '16.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             195 => 
             array (
@@ -3151,7 +3151,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'G',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             196 => 
             array (
@@ -3167,7 +3167,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             197 => 
             array (
@@ -3183,7 +3183,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             198 => 
             array (
@@ -3199,7 +3199,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'R',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             199 => 
             array (
@@ -3215,7 +3215,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             200 => 
             array (
@@ -3231,7 +3231,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             201 => 
             array (
@@ -3247,7 +3247,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'G',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             202 => 
             array (
@@ -3263,7 +3263,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             203 => 
             array (
@@ -3279,7 +3279,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             204 => 
             array (
@@ -3295,7 +3295,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             205 => 
             array (
@@ -3311,7 +3311,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             206 => 
             array (
@@ -3327,7 +3327,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             207 => 
             array (
@@ -3343,7 +3343,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '16.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             208 => 
             array (
@@ -3359,7 +3359,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '24.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             209 => 
             array (
@@ -3375,7 +3375,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             210 => 
             array (
@@ -3391,7 +3391,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             211 => 
             array (
@@ -3407,7 +3407,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'G',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             212 => 
             array (
@@ -3423,7 +3423,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             213 => 
             array (
@@ -3439,7 +3439,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             214 => 
             array (
@@ -3455,7 +3455,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             215 => 
             array (
@@ -3471,7 +3471,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '16.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             216 => 
             array (
@@ -3487,7 +3487,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             217 => 
             array (
@@ -3503,7 +3503,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             218 => 
             array (
@@ -3519,7 +3519,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             219 => 
             array (
@@ -3535,7 +3535,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             220 => 
             array (
@@ -3551,7 +3551,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'R',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             221 => 
             array (
@@ -3567,7 +3567,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             222 => 
             array (
@@ -3583,7 +3583,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '24.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             223 => 
             array (
@@ -3599,7 +3599,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'G',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             224 => 
             array (
@@ -3615,7 +3615,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             225 => 
             array (
@@ -3631,7 +3631,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             226 => 
             array (
@@ -3647,7 +3647,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             227 => 
             array (
@@ -3663,7 +3663,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '16.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             228 => 
             array (
@@ -3679,7 +3679,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             229 => 
             array (
@@ -3695,7 +3695,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             230 => 
             array (
@@ -3711,7 +3711,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             231 => 
             array (
@@ -3727,7 +3727,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             232 => 
             array (
@@ -3743,7 +3743,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             233 => 
             array (
@@ -3759,7 +3759,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             234 => 
             array (
@@ -3775,7 +3775,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             235 => 
             array (
@@ -3791,7 +3791,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             236 => 
             array (
@@ -3807,7 +3807,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             237 => 
             array (
@@ -3823,7 +3823,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             238 => 
             array (
@@ -3839,7 +3839,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '16.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             239 => 
             array (
@@ -3855,7 +3855,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             240 => 
             array (
@@ -3871,7 +3871,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             241 => 
             array (
@@ -3887,7 +3887,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             242 => 
             array (
@@ -3903,7 +3903,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             243 => 
             array (
@@ -3919,7 +3919,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             244 => 
             array (
@@ -3935,7 +3935,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             245 => 
             array (
@@ -3951,7 +3951,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '16.99',
                 'rating' => 'R',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             246 => 
             array (
@@ -3967,7 +3967,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             247 => 
             array (
@@ -3983,7 +3983,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             248 => 
             array (
@@ -3999,7 +3999,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             249 => 
             array (
@@ -4015,7 +4015,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             250 => 
             array (
@@ -4031,7 +4031,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             251 => 
             array (
@@ -4047,7 +4047,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             252 => 
             array (
@@ -4063,7 +4063,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             253 => 
             array (
@@ -4079,7 +4079,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             254 => 
             array (
@@ -4095,7 +4095,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             255 => 
             array (
@@ -4111,7 +4111,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             256 => 
             array (
@@ -4127,7 +4127,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             257 => 
             array (
@@ -4143,7 +4143,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             258 => 
             array (
@@ -4159,7 +4159,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '15.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             259 => 
             array (
@@ -4175,7 +4175,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             260 => 
             array (
@@ -4191,7 +4191,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             261 => 
             array (
@@ -4207,7 +4207,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             262 => 
             array (
@@ -4223,7 +4223,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             263 => 
             array (
@@ -4239,7 +4239,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             264 => 
             array (
@@ -4255,7 +4255,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'PG',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             265 => 
             array (
@@ -4271,7 +4271,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             266 => 
             array (
@@ -4287,7 +4287,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             267 => 
             array (
@@ -4303,7 +4303,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             268 => 
             array (
@@ -4319,7 +4319,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'R',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             269 => 
             array (
@@ -4335,7 +4335,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             270 => 
             array (
@@ -4351,7 +4351,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             271 => 
             array (
@@ -4367,7 +4367,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             272 => 
             array (
@@ -4383,7 +4383,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             273 => 
             array (
@@ -4399,7 +4399,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             274 => 
             array (
@@ -4415,7 +4415,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             275 => 
             array (
@@ -4431,7 +4431,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             276 => 
             array (
@@ -4447,7 +4447,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '24.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             277 => 
             array (
@@ -4463,7 +4463,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             278 => 
             array (
@@ -4479,7 +4479,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             279 => 
             array (
@@ -4495,7 +4495,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'G',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             280 => 
             array (
@@ -4511,7 +4511,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             281 => 
             array (
@@ -4527,7 +4527,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             282 => 
             array (
@@ -4543,7 +4543,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             283 => 
             array (
@@ -4559,7 +4559,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             284 => 
             array (
@@ -4575,7 +4575,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             285 => 
             array (
@@ -4591,7 +4591,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '16.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             286 => 
             array (
@@ -4607,7 +4607,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             287 => 
             array (
@@ -4623,7 +4623,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             288 => 
             array (
@@ -4639,7 +4639,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             289 => 
             array (
@@ -4655,7 +4655,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             290 => 
             array (
@@ -4671,7 +4671,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             291 => 
             array (
@@ -4687,7 +4687,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             292 => 
             array (
@@ -4703,7 +4703,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             293 => 
             array (
@@ -4719,7 +4719,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             294 => 
             array (
@@ -4735,7 +4735,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             295 => 
             array (
@@ -4751,7 +4751,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             296 => 
             array (
@@ -4767,7 +4767,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             297 => 
             array (
@@ -4783,7 +4783,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             298 => 
             array (
@@ -4799,7 +4799,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             299 => 
             array (
@@ -4815,7 +4815,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             300 => 
             array (
@@ -4831,7 +4831,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '24.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             301 => 
             array (
@@ -4847,7 +4847,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             302 => 
             array (
@@ -4863,7 +4863,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             303 => 
             array (
@@ -4879,7 +4879,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'G',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             304 => 
             array (
@@ -4895,7 +4895,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '24.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             305 => 
             array (
@@ -4911,7 +4911,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             306 => 
             array (
@@ -4927,7 +4927,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             307 => 
             array (
@@ -4943,7 +4943,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             308 => 
             array (
@@ -4959,7 +4959,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             309 => 
             array (
@@ -4975,7 +4975,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             310 => 
             array (
@@ -4991,7 +4991,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             311 => 
             array (
@@ -5007,7 +5007,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'R',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             312 => 
             array (
@@ -5023,7 +5023,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             313 => 
             array (
@@ -5039,7 +5039,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             314 => 
             array (
@@ -5055,7 +5055,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             315 => 
             array (
@@ -5071,7 +5071,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             316 => 
             array (
@@ -5087,7 +5087,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             317 => 
             array (
@@ -5103,7 +5103,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             318 => 
             array (
@@ -5119,7 +5119,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             319 => 
             array (
@@ -5135,7 +5135,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             320 => 
             array (
@@ -5151,7 +5151,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             321 => 
             array (
@@ -5167,7 +5167,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             322 => 
             array (
@@ -5183,7 +5183,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             323 => 
             array (
@@ -5199,7 +5199,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             324 => 
             array (
@@ -5215,7 +5215,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             325 => 
             array (
@@ -5231,7 +5231,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             326 => 
             array (
@@ -5247,7 +5247,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '24.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             327 => 
             array (
@@ -5263,7 +5263,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             328 => 
             array (
@@ -5279,7 +5279,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '15.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             329 => 
             array (
@@ -5295,7 +5295,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             330 => 
             array (
@@ -5311,7 +5311,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             331 => 
             array (
@@ -5327,7 +5327,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '16.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             332 => 
             array (
@@ -5343,7 +5343,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '16.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             333 => 
             array (
@@ -5359,7 +5359,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             334 => 
             array (
@@ -5375,7 +5375,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             335 => 
             array (
@@ -5391,7 +5391,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'PG',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             336 => 
             array (
@@ -5407,7 +5407,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             337 => 
             array (
@@ -5423,7 +5423,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             338 => 
             array (
@@ -5439,7 +5439,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             339 => 
             array (
@@ -5455,7 +5455,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             340 => 
             array (
@@ -5471,7 +5471,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             341 => 
             array (
@@ -5487,7 +5487,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             342 => 
             array (
@@ -5503,7 +5503,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             343 => 
             array (
@@ -5519,7 +5519,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             344 => 
             array (
@@ -5535,7 +5535,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             345 => 
             array (
@@ -5551,7 +5551,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'R',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             346 => 
             array (
@@ -5567,7 +5567,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             347 => 
             array (
@@ -5583,7 +5583,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             348 => 
             array (
@@ -5599,7 +5599,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             349 => 
             array (
@@ -5615,7 +5615,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             350 => 
             array (
@@ -5631,7 +5631,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             351 => 
             array (
@@ -5647,7 +5647,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             352 => 
             array (
@@ -5663,7 +5663,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             353 => 
             array (
@@ -5679,7 +5679,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             354 => 
             array (
@@ -5695,7 +5695,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             355 => 
             array (
@@ -5711,7 +5711,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             356 => 
             array (
@@ -5727,7 +5727,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             357 => 
             array (
@@ -5743,7 +5743,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             358 => 
             array (
@@ -5759,7 +5759,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             359 => 
             array (
@@ -5775,7 +5775,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '24.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             360 => 
             array (
@@ -5791,7 +5791,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             361 => 
             array (
@@ -5807,7 +5807,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             362 => 
             array (
@@ -5823,7 +5823,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             363 => 
             array (
@@ -5839,7 +5839,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             364 => 
             array (
@@ -5855,7 +5855,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             365 => 
             array (
@@ -5871,7 +5871,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             366 => 
             array (
@@ -5887,7 +5887,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             367 => 
             array (
@@ -5903,7 +5903,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'R',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             368 => 
             array (
@@ -5919,7 +5919,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'PG',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             369 => 
             array (
@@ -5935,7 +5935,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'R',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             370 => 
             array (
@@ -5951,7 +5951,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             371 => 
             array (
@@ -5967,7 +5967,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             372 => 
             array (
@@ -5983,7 +5983,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             373 => 
             array (
@@ -5999,7 +5999,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             374 => 
             array (
@@ -6015,7 +6015,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             375 => 
             array (
@@ -6031,7 +6031,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             376 => 
             array (
@@ -6047,7 +6047,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             377 => 
             array (
@@ -6063,7 +6063,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '24.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             378 => 
             array (
@@ -6079,7 +6079,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             379 => 
             array (
@@ -6095,7 +6095,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             380 => 
             array (
@@ -6111,7 +6111,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             381 => 
             array (
@@ -6127,7 +6127,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             382 => 
             array (
@@ -6143,7 +6143,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             383 => 
             array (
@@ -6159,7 +6159,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'R',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             384 => 
             array (
@@ -6175,7 +6175,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             385 => 
             array (
@@ -6191,7 +6191,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             386 => 
             array (
@@ -6207,7 +6207,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'G',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             387 => 
             array (
@@ -6223,7 +6223,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '16.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             388 => 
             array (
@@ -6239,7 +6239,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             389 => 
             array (
@@ -6255,7 +6255,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             390 => 
             array (
@@ -6271,7 +6271,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             391 => 
             array (
@@ -6287,7 +6287,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             392 => 
             array (
@@ -6303,7 +6303,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             393 => 
             array (
@@ -6319,7 +6319,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             394 => 
             array (
@@ -6335,7 +6335,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             395 => 
             array (
@@ -6351,7 +6351,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             396 => 
             array (
@@ -6367,7 +6367,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             397 => 
             array (
@@ -6383,7 +6383,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             398 => 
             array (
@@ -6399,7 +6399,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'G',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             399 => 
             array (
@@ -6415,7 +6415,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '15.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             400 => 
             array (
@@ -6431,7 +6431,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             401 => 
             array (
@@ -6447,7 +6447,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '15.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             402 => 
             array (
@@ -6463,7 +6463,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             403 => 
             array (
@@ -6479,7 +6479,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             404 => 
             array (
@@ -6495,7 +6495,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             405 => 
             array (
@@ -6511,7 +6511,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'R',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             406 => 
             array (
@@ -6527,7 +6527,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             407 => 
             array (
@@ -6543,7 +6543,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             408 => 
             array (
@@ -6559,7 +6559,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             409 => 
             array (
@@ -6575,7 +6575,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             410 => 
             array (
@@ -6591,7 +6591,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             411 => 
             array (
@@ -6607,7 +6607,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'G',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             412 => 
             array (
@@ -6623,7 +6623,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '16.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             413 => 
             array (
@@ -6639,7 +6639,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'PG',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             414 => 
             array (
@@ -6655,7 +6655,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             415 => 
             array (
@@ -6671,7 +6671,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'R',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             416 => 
             array (
@@ -6687,7 +6687,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             417 => 
             array (
@@ -6703,7 +6703,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             418 => 
             array (
@@ -6719,7 +6719,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             419 => 
             array (
@@ -6735,7 +6735,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             420 => 
             array (
@@ -6751,7 +6751,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             421 => 
             array (
@@ -6767,7 +6767,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             422 => 
             array (
@@ -6783,7 +6783,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             423 => 
             array (
@@ -6799,7 +6799,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'R',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             424 => 
             array (
@@ -6815,7 +6815,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'R',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             425 => 
             array (
@@ -6831,7 +6831,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '15.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             426 => 
             array (
@@ -6847,7 +6847,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             427 => 
             array (
@@ -6863,7 +6863,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             428 => 
             array (
@@ -6879,7 +6879,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             429 => 
             array (
@@ -6895,7 +6895,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             430 => 
             array (
@@ -6911,7 +6911,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             431 => 
             array (
@@ -6927,7 +6927,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             432 => 
             array (
@@ -6943,7 +6943,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             433 => 
             array (
@@ -6959,7 +6959,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'R',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             434 => 
             array (
@@ -6975,7 +6975,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             435 => 
             array (
@@ -6991,7 +6991,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             436 => 
             array (
@@ -7007,7 +7007,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             437 => 
             array (
@@ -7023,7 +7023,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             438 => 
             array (
@@ -7039,7 +7039,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             439 => 
             array (
@@ -7055,7 +7055,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'G',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             440 => 
             array (
@@ -7071,7 +7071,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             441 => 
             array (
@@ -7087,7 +7087,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '24.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             442 => 
             array (
@@ -7103,7 +7103,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             443 => 
             array (
@@ -7119,7 +7119,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             444 => 
             array (
@@ -7135,7 +7135,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             445 => 
             array (
@@ -7151,7 +7151,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             446 => 
             array (
@@ -7167,7 +7167,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'R',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             447 => 
             array (
@@ -7183,7 +7183,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             448 => 
             array (
@@ -7199,7 +7199,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             449 => 
             array (
@@ -7215,7 +7215,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             450 => 
             array (
@@ -7231,7 +7231,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             451 => 
             array (
@@ -7247,7 +7247,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '15.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             452 => 
             array (
@@ -7263,7 +7263,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             453 => 
             array (
@@ -7279,7 +7279,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             454 => 
             array (
@@ -7295,7 +7295,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             455 => 
             array (
@@ -7311,7 +7311,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             456 => 
             array (
@@ -7327,7 +7327,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             457 => 
             array (
@@ -7343,7 +7343,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             458 => 
             array (
@@ -7359,7 +7359,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             459 => 
             array (
@@ -7375,7 +7375,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             460 => 
             array (
@@ -7391,7 +7391,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             461 => 
             array (
@@ -7407,7 +7407,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             462 => 
             array (
@@ -7423,7 +7423,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             463 => 
             array (
@@ -7439,7 +7439,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             464 => 
             array (
@@ -7455,7 +7455,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             465 => 
             array (
@@ -7471,7 +7471,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             466 => 
             array (
@@ -7487,7 +7487,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'G',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             467 => 
             array (
@@ -7503,7 +7503,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             468 => 
             array (
@@ -7519,7 +7519,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             469 => 
             array (
@@ -7535,7 +7535,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '24.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             470 => 
             array (
@@ -7551,7 +7551,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             471 => 
             array (
@@ -7567,7 +7567,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '24.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             472 => 
             array (
@@ -7583,7 +7583,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '16.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             473 => 
             array (
@@ -7599,7 +7599,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             474 => 
             array (
@@ -7615,7 +7615,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'G',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             475 => 
             array (
@@ -7631,7 +7631,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             476 => 
             array (
@@ -7647,7 +7647,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '15.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             477 => 
             array (
@@ -7663,7 +7663,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'G',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             478 => 
             array (
@@ -7679,7 +7679,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             479 => 
             array (
@@ -7695,7 +7695,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             480 => 
             array (
@@ -7711,7 +7711,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             481 => 
             array (
@@ -7727,7 +7727,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             482 => 
             array (
@@ -7743,7 +7743,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             483 => 
             array (
@@ -7759,7 +7759,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             484 => 
             array (
@@ -7775,7 +7775,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '16.99',
                 'rating' => 'PG',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             485 => 
             array (
@@ -7791,7 +7791,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             486 => 
             array (
@@ -7807,7 +7807,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             487 => 
             array (
@@ -7823,7 +7823,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             488 => 
             array (
@@ -7839,7 +7839,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             489 => 
             array (
@@ -7855,7 +7855,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             490 => 
             array (
@@ -7871,7 +7871,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             491 => 
             array (
@@ -7887,7 +7887,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             492 => 
             array (
@@ -7903,7 +7903,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             493 => 
             array (
@@ -7919,7 +7919,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             494 => 
             array (
@@ -7935,7 +7935,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             495 => 
             array (
@@ -7951,7 +7951,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             496 => 
             array (
@@ -7967,7 +7967,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '15.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             497 => 
             array (
@@ -7983,7 +7983,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             498 => 
             array (
@@ -7999,7 +7999,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '24.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             499 => 
             array (
@@ -8015,7 +8015,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
         ));
         \DB::table('film')->insert(array (
@@ -8033,7 +8033,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             1 => 
             array (
@@ -8049,7 +8049,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             2 => 
             array (
@@ -8065,7 +8065,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '24.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             3 => 
             array (
@@ -8081,7 +8081,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             4 => 
             array (
@@ -8097,7 +8097,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '24.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             5 => 
             array (
@@ -8113,7 +8113,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             6 => 
             array (
@@ -8129,7 +8129,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             7 => 
             array (
@@ -8145,7 +8145,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             8 => 
             array (
@@ -8161,7 +8161,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             9 => 
             array (
@@ -8177,7 +8177,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'G',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             10 => 
             array (
@@ -8193,7 +8193,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             11 => 
             array (
@@ -8209,7 +8209,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             12 => 
             array (
@@ -8225,7 +8225,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             13 => 
             array (
@@ -8241,7 +8241,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             14 => 
             array (
@@ -8257,7 +8257,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             15 => 
             array (
@@ -8273,7 +8273,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             16 => 
             array (
@@ -8289,7 +8289,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             17 => 
             array (
@@ -8305,7 +8305,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '15.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             18 => 
             array (
@@ -8321,7 +8321,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             19 => 
             array (
@@ -8337,7 +8337,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             20 => 
             array (
@@ -8353,7 +8353,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             21 => 
             array (
@@ -8369,7 +8369,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             22 => 
             array (
@@ -8385,7 +8385,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             23 => 
             array (
@@ -8401,7 +8401,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             24 => 
             array (
@@ -8417,7 +8417,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'R',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             25 => 
             array (
@@ -8433,7 +8433,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             26 => 
             array (
@@ -8449,7 +8449,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '24.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             27 => 
             array (
@@ -8465,7 +8465,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             28 => 
             array (
@@ -8481,7 +8481,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             29 => 
             array (
@@ -8497,7 +8497,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             30 => 
             array (
@@ -8513,7 +8513,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             31 => 
             array (
@@ -8529,7 +8529,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'PG',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             32 => 
             array (
@@ -8545,7 +8545,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             33 => 
             array (
@@ -8561,7 +8561,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             34 => 
             array (
@@ -8577,7 +8577,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             35 => 
             array (
@@ -8593,7 +8593,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             36 => 
             array (
@@ -8609,7 +8609,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             37 => 
             array (
@@ -8625,7 +8625,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             38 => 
             array (
@@ -8641,7 +8641,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             39 => 
             array (
@@ -8657,7 +8657,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             40 => 
             array (
@@ -8673,7 +8673,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             41 => 
             array (
@@ -8689,7 +8689,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             42 => 
             array (
@@ -8705,7 +8705,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'R',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             43 => 
             array (
@@ -8721,7 +8721,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             44 => 
             array (
@@ -8737,7 +8737,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             45 => 
             array (
@@ -8753,7 +8753,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             46 => 
             array (
@@ -8769,7 +8769,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             47 => 
             array (
@@ -8785,7 +8785,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             48 => 
             array (
@@ -8801,7 +8801,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             49 => 
             array (
@@ -8817,7 +8817,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             50 => 
             array (
@@ -8833,7 +8833,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'PG',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             51 => 
             array (
@@ -8849,7 +8849,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '15.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             52 => 
             array (
@@ -8865,7 +8865,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             53 => 
             array (
@@ -8881,7 +8881,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'G',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             54 => 
             array (
@@ -8897,7 +8897,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             55 => 
             array (
@@ -8913,7 +8913,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             56 => 
             array (
@@ -8929,7 +8929,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             57 => 
             array (
@@ -8945,7 +8945,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             58 => 
             array (
@@ -8961,7 +8961,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'G',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             59 => 
             array (
@@ -8977,7 +8977,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             60 => 
             array (
@@ -8993,7 +8993,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             61 => 
             array (
@@ -9009,7 +9009,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             62 => 
             array (
@@ -9025,7 +9025,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '16.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             63 => 
             array (
@@ -9041,7 +9041,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             64 => 
             array (
@@ -9057,7 +9057,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             65 => 
             array (
@@ -9073,7 +9073,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             66 => 
             array (
@@ -9089,7 +9089,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             67 => 
             array (
@@ -9105,7 +9105,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             68 => 
             array (
@@ -9121,7 +9121,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             69 => 
             array (
@@ -9137,7 +9137,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             70 => 
             array (
@@ -9153,7 +9153,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             71 => 
             array (
@@ -9169,7 +9169,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             72 => 
             array (
@@ -9185,7 +9185,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             73 => 
             array (
@@ -9201,7 +9201,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             74 => 
             array (
@@ -9217,7 +9217,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             75 => 
             array (
@@ -9233,7 +9233,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'PG',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             76 => 
             array (
@@ -9249,7 +9249,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'PG',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             77 => 
             array (
@@ -9265,7 +9265,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '16.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             78 => 
             array (
@@ -9281,7 +9281,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             79 => 
             array (
@@ -9297,7 +9297,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             80 => 
             array (
@@ -9313,7 +9313,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '16.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             81 => 
             array (
@@ -9329,7 +9329,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             82 => 
             array (
@@ -9345,7 +9345,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             83 => 
             array (
@@ -9361,7 +9361,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             84 => 
             array (
@@ -9377,7 +9377,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             85 => 
             array (
@@ -9393,7 +9393,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'PG',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             86 => 
             array (
@@ -9409,7 +9409,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             87 => 
             array (
@@ -9425,7 +9425,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             88 => 
             array (
@@ -9441,7 +9441,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             89 => 
             array (
@@ -9457,7 +9457,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             90 => 
             array (
@@ -9473,7 +9473,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             91 => 
             array (
@@ -9489,7 +9489,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             92 => 
             array (
@@ -9505,7 +9505,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             93 => 
             array (
@@ -9521,7 +9521,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             94 => 
             array (
@@ -9537,7 +9537,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'PG',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             95 => 
             array (
@@ -9553,7 +9553,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             96 => 
             array (
@@ -9569,7 +9569,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             97 => 
             array (
@@ -9585,7 +9585,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             98 => 
             array (
@@ -9601,7 +9601,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             99 => 
             array (
@@ -9617,7 +9617,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '16.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             100 => 
             array (
@@ -9633,7 +9633,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             101 => 
             array (
@@ -9649,7 +9649,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             102 => 
             array (
@@ -9665,7 +9665,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             103 => 
             array (
@@ -9681,7 +9681,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'G',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             104 => 
             array (
@@ -9697,7 +9697,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             105 => 
             array (
@@ -9713,7 +9713,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '15.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             106 => 
             array (
@@ -9729,7 +9729,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             107 => 
             array (
@@ -9745,7 +9745,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             108 => 
             array (
@@ -9761,7 +9761,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'G',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             109 => 
             array (
@@ -9777,7 +9777,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             110 => 
             array (
@@ -9793,7 +9793,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'PG',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             111 => 
             array (
@@ -9809,7 +9809,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'G',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             112 => 
             array (
@@ -9825,7 +9825,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             113 => 
             array (
@@ -9841,7 +9841,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             114 => 
             array (
@@ -9857,7 +9857,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             115 => 
             array (
@@ -9873,7 +9873,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             116 => 
             array (
@@ -9889,7 +9889,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '24.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             117 => 
             array (
@@ -9905,7 +9905,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             118 => 
             array (
@@ -9921,7 +9921,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             119 => 
             array (
@@ -9937,7 +9937,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             120 => 
             array (
@@ -9953,7 +9953,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             121 => 
             array (
@@ -9969,7 +9969,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             122 => 
             array (
@@ -9985,7 +9985,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             123 => 
             array (
@@ -10001,7 +10001,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             124 => 
             array (
@@ -10017,7 +10017,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             125 => 
             array (
@@ -10033,7 +10033,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'G',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             126 => 
             array (
@@ -10049,7 +10049,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             127 => 
             array (
@@ -10065,7 +10065,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '24.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             128 => 
             array (
@@ -10081,7 +10081,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             129 => 
             array (
@@ -10097,7 +10097,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             130 => 
             array (
@@ -10113,7 +10113,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             131 => 
             array (
@@ -10129,7 +10129,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             132 => 
             array (
@@ -10145,7 +10145,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             133 => 
             array (
@@ -10161,7 +10161,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             134 => 
             array (
@@ -10177,7 +10177,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '15.99',
                 'rating' => 'PG',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             135 => 
             array (
@@ -10193,7 +10193,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             136 => 
             array (
@@ -10209,7 +10209,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '16.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             137 => 
             array (
@@ -10225,7 +10225,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             138 => 
             array (
@@ -10241,7 +10241,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'PG',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             139 => 
             array (
@@ -10257,7 +10257,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             140 => 
             array (
@@ -10273,7 +10273,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             141 => 
             array (
@@ -10289,7 +10289,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             142 => 
             array (
@@ -10305,7 +10305,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             143 => 
             array (
@@ -10321,7 +10321,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'PG',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             144 => 
             array (
@@ -10337,7 +10337,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'PG',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             145 => 
             array (
@@ -10353,7 +10353,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             146 => 
             array (
@@ -10369,7 +10369,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             147 => 
             array (
@@ -10385,7 +10385,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             148 => 
             array (
@@ -10401,7 +10401,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             149 => 
             array (
@@ -10417,7 +10417,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             150 => 
             array (
@@ -10433,7 +10433,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             151 => 
             array (
@@ -10449,7 +10449,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             152 => 
             array (
@@ -10465,7 +10465,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '15.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             153 => 
             array (
@@ -10481,7 +10481,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             154 => 
             array (
@@ -10497,7 +10497,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             155 => 
             array (
@@ -10513,7 +10513,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             156 => 
             array (
@@ -10529,7 +10529,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             157 => 
             array (
@@ -10545,7 +10545,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             158 => 
             array (
@@ -10561,7 +10561,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             159 => 
             array (
@@ -10577,7 +10577,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             160 => 
             array (
@@ -10593,7 +10593,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             161 => 
             array (
@@ -10609,7 +10609,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             162 => 
             array (
@@ -10625,7 +10625,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             163 => 
             array (
@@ -10641,7 +10641,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             164 => 
             array (
@@ -10657,7 +10657,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             165 => 
             array (
@@ -10673,7 +10673,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             166 => 
             array (
@@ -10689,7 +10689,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             167 => 
             array (
@@ -10705,7 +10705,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             168 => 
             array (
@@ -10721,7 +10721,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             169 => 
             array (
@@ -10737,7 +10737,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             170 => 
             array (
@@ -10753,7 +10753,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             171 => 
             array (
@@ -10769,7 +10769,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             172 => 
             array (
@@ -10785,7 +10785,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             173 => 
             array (
@@ -10801,7 +10801,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             174 => 
             array (
@@ -10817,7 +10817,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             175 => 
             array (
@@ -10833,7 +10833,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '16.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             176 => 
             array (
@@ -10849,7 +10849,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             177 => 
             array (
@@ -10865,7 +10865,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             178 => 
             array (
@@ -10881,7 +10881,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             179 => 
             array (
@@ -10897,7 +10897,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             180 => 
             array (
@@ -10913,7 +10913,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             181 => 
             array (
@@ -10929,7 +10929,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             182 => 
             array (
@@ -10945,7 +10945,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             183 => 
             array (
@@ -10961,7 +10961,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             184 => 
             array (
@@ -10977,7 +10977,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             185 => 
             array (
@@ -10993,7 +10993,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'R',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             186 => 
             array (
@@ -11009,7 +11009,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '15.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             187 => 
             array (
@@ -11025,7 +11025,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             188 => 
             array (
@@ -11041,7 +11041,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             189 => 
             array (
@@ -11057,7 +11057,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             190 => 
             array (
@@ -11073,7 +11073,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             191 => 
             array (
@@ -11089,7 +11089,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'G',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             192 => 
             array (
@@ -11105,7 +11105,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '16.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             193 => 
             array (
@@ -11121,7 +11121,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '15.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             194 => 
             array (
@@ -11137,7 +11137,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'PG',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             195 => 
             array (
@@ -11153,7 +11153,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             196 => 
             array (
@@ -11169,7 +11169,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '16.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             197 => 
             array (
@@ -11185,7 +11185,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             198 => 
             array (
@@ -11201,7 +11201,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             199 => 
             array (
@@ -11217,7 +11217,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             200 => 
             array (
@@ -11233,7 +11233,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             201 => 
             array (
@@ -11249,7 +11249,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             202 => 
             array (
@@ -11265,7 +11265,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             203 => 
             array (
@@ -11281,7 +11281,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             204 => 
             array (
@@ -11297,7 +11297,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             205 => 
             array (
@@ -11313,7 +11313,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             206 => 
             array (
@@ -11329,7 +11329,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'R',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             207 => 
             array (
@@ -11345,7 +11345,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             208 => 
             array (
@@ -11361,7 +11361,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             209 => 
             array (
@@ -11377,7 +11377,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             210 => 
             array (
@@ -11393,7 +11393,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             211 => 
             array (
@@ -11409,7 +11409,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             212 => 
             array (
@@ -11425,7 +11425,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             213 => 
             array (
@@ -11441,7 +11441,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             214 => 
             array (
@@ -11457,7 +11457,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             215 => 
             array (
@@ -11473,7 +11473,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             216 => 
             array (
@@ -11489,7 +11489,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             217 => 
             array (
@@ -11505,7 +11505,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '24.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             218 => 
             array (
@@ -11521,7 +11521,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'PG',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             219 => 
             array (
@@ -11537,7 +11537,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             220 => 
             array (
@@ -11553,7 +11553,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             221 => 
             array (
@@ -11569,7 +11569,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             222 => 
             array (
@@ -11585,7 +11585,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             223 => 
             array (
@@ -11601,7 +11601,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '15.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             224 => 
             array (
@@ -11617,7 +11617,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             225 => 
             array (
@@ -11633,7 +11633,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             226 => 
             array (
@@ -11649,7 +11649,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             227 => 
             array (
@@ -11665,7 +11665,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             228 => 
             array (
@@ -11681,7 +11681,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             229 => 
             array (
@@ -11697,7 +11697,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             230 => 
             array (
@@ -11713,7 +11713,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             231 => 
             array (
@@ -11729,7 +11729,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             232 => 
             array (
@@ -11745,7 +11745,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             233 => 
             array (
@@ -11761,7 +11761,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'R',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             234 => 
             array (
@@ -11777,7 +11777,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             235 => 
             array (
@@ -11793,7 +11793,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             236 => 
             array (
@@ -11809,7 +11809,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             237 => 
             array (
@@ -11825,7 +11825,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             238 => 
             array (
@@ -11841,7 +11841,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             239 => 
             array (
@@ -11857,7 +11857,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             240 => 
             array (
@@ -11873,7 +11873,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             241 => 
             array (
@@ -11889,7 +11889,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'R',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             242 => 
             array (
@@ -11905,7 +11905,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             243 => 
             array (
@@ -11921,7 +11921,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             244 => 
             array (
@@ -11937,7 +11937,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             245 => 
             array (
@@ -11953,7 +11953,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             246 => 
             array (
@@ -11969,7 +11969,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'R',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             247 => 
             array (
@@ -11985,7 +11985,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '16.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             248 => 
             array (
@@ -12001,7 +12001,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'R',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             249 => 
             array (
@@ -12017,7 +12017,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             250 => 
             array (
@@ -12033,7 +12033,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             251 => 
             array (
@@ -12049,7 +12049,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             252 => 
             array (
@@ -12065,7 +12065,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'PG',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             253 => 
             array (
@@ -12081,7 +12081,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             254 => 
             array (
@@ -12097,7 +12097,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             255 => 
             array (
@@ -12113,7 +12113,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             256 => 
             array (
@@ -12129,7 +12129,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             257 => 
             array (
@@ -12145,7 +12145,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'G',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             258 => 
             array (
@@ -12161,7 +12161,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             259 => 
             array (
@@ -12177,7 +12177,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             260 => 
             array (
@@ -12193,7 +12193,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             261 => 
             array (
@@ -12209,7 +12209,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'G',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             262 => 
             array (
@@ -12225,7 +12225,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             263 => 
             array (
@@ -12241,7 +12241,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             264 => 
             array (
@@ -12257,7 +12257,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             265 => 
             array (
@@ -12273,7 +12273,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             266 => 
             array (
@@ -12289,7 +12289,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             267 => 
             array (
@@ -12305,7 +12305,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             268 => 
             array (
@@ -12321,7 +12321,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             269 => 
             array (
@@ -12337,7 +12337,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             270 => 
             array (
@@ -12353,7 +12353,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             271 => 
             array (
@@ -12369,7 +12369,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '24.99',
                 'rating' => 'PG',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             272 => 
             array (
@@ -12385,7 +12385,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             273 => 
             array (
@@ -12401,7 +12401,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             274 => 
             array (
@@ -12417,7 +12417,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             275 => 
             array (
@@ -12433,7 +12433,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             276 => 
             array (
@@ -12449,7 +12449,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             277 => 
             array (
@@ -12465,7 +12465,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '24.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             278 => 
             array (
@@ -12481,7 +12481,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'R',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             279 => 
             array (
@@ -12497,7 +12497,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '15.99',
                 'rating' => 'PG',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             280 => 
             array (
@@ -12513,7 +12513,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '15.99',
                 'rating' => 'R',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             281 => 
             array (
@@ -12529,7 +12529,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             282 => 
             array (
@@ -12545,7 +12545,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             283 => 
             array (
@@ -12561,7 +12561,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             284 => 
             array (
@@ -12577,7 +12577,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             285 => 
             array (
@@ -12593,7 +12593,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'R',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             286 => 
             array (
@@ -12609,7 +12609,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             287 => 
             array (
@@ -12625,7 +12625,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '15.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             288 => 
             array (
@@ -12641,7 +12641,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '15.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             289 => 
             array (
@@ -12657,7 +12657,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             290 => 
             array (
@@ -12673,7 +12673,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '24.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             291 => 
             array (
@@ -12689,7 +12689,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '15.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             292 => 
             array (
@@ -12705,7 +12705,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             293 => 
             array (
@@ -12721,7 +12721,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'G',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             294 => 
             array (
@@ -12737,7 +12737,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             295 => 
             array (
@@ -12753,7 +12753,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             296 => 
             array (
@@ -12769,7 +12769,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             297 => 
             array (
@@ -12785,7 +12785,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             298 => 
             array (
@@ -12801,7 +12801,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             299 => 
             array (
@@ -12817,7 +12817,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             300 => 
             array (
@@ -12833,7 +12833,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             301 => 
             array (
@@ -12849,7 +12849,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '15.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             302 => 
             array (
@@ -12865,7 +12865,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             303 => 
             array (
@@ -12881,7 +12881,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             304 => 
             array (
@@ -12897,7 +12897,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             305 => 
             array (
@@ -12913,7 +12913,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             306 => 
             array (
@@ -12929,7 +12929,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             307 => 
             array (
@@ -12945,7 +12945,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'R',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             308 => 
             array (
@@ -12961,7 +12961,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             309 => 
             array (
@@ -12977,7 +12977,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             310 => 
             array (
@@ -12993,7 +12993,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             311 => 
             array (
@@ -13009,7 +13009,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             312 => 
             array (
@@ -13025,7 +13025,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'R',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             313 => 
             array (
@@ -13041,7 +13041,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '15.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             314 => 
             array (
@@ -13057,7 +13057,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             315 => 
             array (
@@ -13073,7 +13073,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             316 => 
             array (
@@ -13089,7 +13089,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             317 => 
             array (
@@ -13105,7 +13105,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             318 => 
             array (
@@ -13121,7 +13121,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             319 => 
             array (
@@ -13137,7 +13137,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             320 => 
             array (
@@ -13153,7 +13153,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             321 => 
             array (
@@ -13169,7 +13169,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'R',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             322 => 
             array (
@@ -13185,7 +13185,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             323 => 
             array (
@@ -13201,7 +13201,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             324 => 
             array (
@@ -13217,7 +13217,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             325 => 
             array (
@@ -13233,7 +13233,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             326 => 
             array (
@@ -13249,7 +13249,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             327 => 
             array (
@@ -13265,7 +13265,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             328 => 
             array (
@@ -13281,7 +13281,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             329 => 
             array (
@@ -13297,7 +13297,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             330 => 
             array (
@@ -13313,7 +13313,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             331 => 
             array (
@@ -13329,7 +13329,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '16.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             332 => 
             array (
@@ -13345,7 +13345,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             333 => 
             array (
@@ -13361,7 +13361,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             334 => 
             array (
@@ -13377,7 +13377,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             335 => 
             array (
@@ -13393,7 +13393,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             336 => 
             array (
@@ -13409,7 +13409,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             337 => 
             array (
@@ -13425,7 +13425,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             338 => 
             array (
@@ -13441,7 +13441,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             339 => 
             array (
@@ -13457,7 +13457,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             340 => 
             array (
@@ -13473,7 +13473,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             341 => 
             array (
@@ -13489,7 +13489,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             342 => 
             array (
@@ -13505,7 +13505,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '15.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             343 => 
             array (
@@ -13521,7 +13521,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '16.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             344 => 
             array (
@@ -13537,7 +13537,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             345 => 
             array (
@@ -13553,7 +13553,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             346 => 
             array (
@@ -13569,7 +13569,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             347 => 
             array (
@@ -13585,7 +13585,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             348 => 
             array (
@@ -13601,7 +13601,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             349 => 
             array (
@@ -13617,7 +13617,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             350 => 
             array (
@@ -13633,7 +13633,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             351 => 
             array (
@@ -13649,7 +13649,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             352 => 
             array (
@@ -13665,7 +13665,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             353 => 
             array (
@@ -13681,7 +13681,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             354 => 
             array (
@@ -13697,7 +13697,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             355 => 
             array (
@@ -13713,7 +13713,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             356 => 
             array (
@@ -13729,7 +13729,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '24.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             357 => 
             array (
@@ -13745,7 +13745,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             358 => 
             array (
@@ -13761,7 +13761,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             359 => 
             array (
@@ -13777,7 +13777,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'G',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             360 => 
             array (
@@ -13793,7 +13793,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             361 => 
             array (
@@ -13809,7 +13809,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'G',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             362 => 
             array (
@@ -13825,7 +13825,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             363 => 
             array (
@@ -13841,7 +13841,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             364 => 
             array (
@@ -13857,7 +13857,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             365 => 
             array (
@@ -13873,7 +13873,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             366 => 
             array (
@@ -13889,7 +13889,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             367 => 
             array (
@@ -13905,7 +13905,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             368 => 
             array (
@@ -13921,7 +13921,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             369 => 
             array (
@@ -13937,7 +13937,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             370 => 
             array (
@@ -13953,7 +13953,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'PG',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             371 => 
             array (
@@ -13969,7 +13969,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'R',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             372 => 
             array (
@@ -13985,7 +13985,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             373 => 
             array (
@@ -14001,7 +14001,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             374 => 
             array (
@@ -14017,7 +14017,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             375 => 
             array (
@@ -14033,7 +14033,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             376 => 
             array (
@@ -14049,7 +14049,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             377 => 
             array (
@@ -14065,7 +14065,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             378 => 
             array (
@@ -14081,7 +14081,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             379 => 
             array (
@@ -14097,7 +14097,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             380 => 
             array (
@@ -14113,7 +14113,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             381 => 
             array (
@@ -14129,7 +14129,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '24.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             382 => 
             array (
@@ -14145,7 +14145,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             383 => 
             array (
@@ -14161,7 +14161,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             384 => 
             array (
@@ -14177,7 +14177,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             385 => 
             array (
@@ -14193,7 +14193,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             386 => 
             array (
@@ -14209,7 +14209,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             387 => 
             array (
@@ -14225,7 +14225,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             388 => 
             array (
@@ -14241,7 +14241,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'R',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             389 => 
             array (
@@ -14257,7 +14257,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             390 => 
             array (
@@ -14273,7 +14273,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             391 => 
             array (
@@ -14289,7 +14289,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             392 => 
             array (
@@ -14305,7 +14305,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'PG',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             393 => 
             array (
@@ -14321,7 +14321,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'PG',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             394 => 
             array (
@@ -14337,7 +14337,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             395 => 
             array (
@@ -14353,7 +14353,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             396 => 
             array (
@@ -14369,7 +14369,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             397 => 
             array (
@@ -14385,7 +14385,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             398 => 
             array (
@@ -14401,7 +14401,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             399 => 
             array (
@@ -14417,7 +14417,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'R',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             400 => 
             array (
@@ -14433,7 +14433,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             401 => 
             array (
@@ -14449,7 +14449,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             402 => 
             array (
@@ -14465,7 +14465,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             403 => 
             array (
@@ -14481,7 +14481,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             404 => 
             array (
@@ -14497,7 +14497,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             405 => 
             array (
@@ -14513,7 +14513,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'PG',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             406 => 
             array (
@@ -14529,7 +14529,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             407 => 
             array (
@@ -14545,7 +14545,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             408 => 
             array (
@@ -14561,7 +14561,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             409 => 
             array (
@@ -14577,7 +14577,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             410 => 
             array (
@@ -14593,7 +14593,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             411 => 
             array (
@@ -14609,7 +14609,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             412 => 
             array (
@@ -14625,7 +14625,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'R',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             413 => 
             array (
@@ -14641,7 +14641,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             414 => 
             array (
@@ -14657,7 +14657,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             415 => 
             array (
@@ -14673,7 +14673,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             416 => 
             array (
@@ -14689,7 +14689,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '24.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             417 => 
             array (
@@ -14705,7 +14705,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             418 => 
             array (
@@ -14721,7 +14721,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             419 => 
             array (
@@ -14737,7 +14737,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '16.99',
                 'rating' => 'G',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             420 => 
             array (
@@ -14753,7 +14753,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             421 => 
             array (
@@ -14769,7 +14769,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             422 => 
             array (
@@ -14785,7 +14785,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             423 => 
             array (
@@ -14801,7 +14801,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '15.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             424 => 
             array (
@@ -14817,7 +14817,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             425 => 
             array (
@@ -14833,7 +14833,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             426 => 
             array (
@@ -14849,7 +14849,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '16.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             427 => 
             array (
@@ -14865,7 +14865,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '16.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             428 => 
             array (
@@ -14881,7 +14881,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             429 => 
             array (
@@ -14897,7 +14897,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             430 => 
             array (
@@ -14913,7 +14913,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             431 => 
             array (
@@ -14929,7 +14929,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             432 => 
             array (
@@ -14945,7 +14945,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             433 => 
             array (
@@ -14961,7 +14961,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             434 => 
             array (
@@ -14977,7 +14977,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             435 => 
             array (
@@ -14993,7 +14993,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '21.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             436 => 
             array (
@@ -15009,7 +15009,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             437 => 
             array (
@@ -15025,7 +15025,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'R',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             438 => 
             array (
@@ -15041,7 +15041,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             439 => 
             array (
@@ -15057,7 +15057,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             440 => 
             array (
@@ -15073,7 +15073,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             441 => 
             array (
@@ -15089,7 +15089,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             442 => 
             array (
@@ -15105,7 +15105,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             443 => 
             array (
@@ -15121,7 +15121,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             444 => 
             array (
@@ -15137,7 +15137,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'R',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             445 => 
             array (
@@ -15153,7 +15153,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             446 => 
             array (
@@ -15169,7 +15169,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '16.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             447 => 
             array (
@@ -15185,7 +15185,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             448 => 
             array (
@@ -15201,7 +15201,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             449 => 
             array (
@@ -15217,7 +15217,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             450 => 
             array (
@@ -15233,7 +15233,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             451 => 
             array (
@@ -15249,7 +15249,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'PG',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             452 => 
             array (
@@ -15265,7 +15265,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             453 => 
             array (
@@ -15281,7 +15281,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             454 => 
             array (
@@ -15297,7 +15297,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             455 => 
             array (
@@ -15313,7 +15313,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             456 => 
             array (
@@ -15329,7 +15329,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'G',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             457 => 
             array (
@@ -15345,7 +15345,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             458 => 
             array (
@@ -15361,7 +15361,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             459 => 
             array (
@@ -15377,7 +15377,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '15.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             460 => 
             array (
@@ -15393,7 +15393,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             461 => 
             array (
@@ -15409,7 +15409,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             462 => 
             array (
@@ -15425,7 +15425,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             463 => 
             array (
@@ -15441,7 +15441,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'G',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             464 => 
             array (
@@ -15457,7 +15457,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'G',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             465 => 
             array (
@@ -15473,7 +15473,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             466 => 
             array (
@@ -15489,7 +15489,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             467 => 
             array (
@@ -15505,7 +15505,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             468 => 
             array (
@@ -15521,7 +15521,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             469 => 
             array (
@@ -15537,7 +15537,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             470 => 
             array (
@@ -15553,7 +15553,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             471 => 
             array (
@@ -15569,7 +15569,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '24.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             472 => 
             array (
@@ -15585,7 +15585,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '27.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             473 => 
             array (
@@ -15601,7 +15601,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '24.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             474 => 
             array (
@@ -15617,7 +15617,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             475 => 
             array (
@@ -15633,7 +15633,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             476 => 
             array (
@@ -15649,7 +15649,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '25.99',
                 'rating' => 'R',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             477 => 
             array (
@@ -15665,7 +15665,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'R',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             478 => 
             array (
@@ -15681,7 +15681,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             479 => 
             array (
@@ -15697,7 +15697,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '12.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries,Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             480 => 
             array (
@@ -15713,7 +15713,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             481 => 
             array (
@@ -15729,7 +15729,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '23.99',
                 'rating' => 'R',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             482 => 
             array (
@@ -15745,7 +15745,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'PG',
                 'special_features' => 'Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             483 => 
             array (
@@ -15761,7 +15761,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '20.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             484 => 
             array (
@@ -15777,7 +15777,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '19.99',
                 'rating' => 'PG',
                 'special_features' => 'Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             485 => 
             array (
@@ -15793,7 +15793,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '24.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             486 => 
             array (
@@ -15809,7 +15809,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'PG',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             487 => 
             array (
@@ -15825,7 +15825,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             488 => 
             array (
@@ -15841,7 +15841,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '22.99',
                 'rating' => 'R',
                 'special_features' => 'Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             489 => 
             array (
@@ -15857,7 +15857,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '13.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             490 => 
             array (
@@ -15873,7 +15873,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '26.99',
                 'rating' => 'PG',
                 'special_features' => 'Deleted Scenes,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             491 => 
             array (
@@ -15889,7 +15889,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '17.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             492 => 
             array (
@@ -15905,7 +15905,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             493 => 
             array (
@@ -15921,7 +15921,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '29.99',
                 'rating' => 'PG-13',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             494 => 
             array (
@@ -15937,7 +15937,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '11.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Commentaries,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             495 => 
             array (
@@ -15953,7 +15953,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '9.99',
                 'rating' => 'G',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             496 => 
             array (
@@ -15969,7 +15969,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '14.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             497 => 
             array (
@@ -15985,7 +15985,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '10.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             498 => 
             array (
@@ -16001,7 +16001,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '28.99',
                 'rating' => 'R',
                 'special_features' => 'Trailers,Deleted Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
             499 => 
             array (
@@ -16017,7 +16017,7 @@ class FilmTableSeeder extends Seeder
                 'replacement_cost' => '18.99',
                 'rating' => 'NC-17',
                 'special_features' => 'Trailers,Commentaries,Behind the Scenes',
-                'last_update' => '2006-02-15 05:03:42',
+                'updated_at' => '2006-02-15 05:03:42',
             ),
         ));
         
