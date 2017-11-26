@@ -1,5 +1,7 @@
 @extends('layouts.site')
 
+@section('heading', 'Home')
+
 @section('content')
 @markdown
 ## Welcome
