@@ -30,6 +30,16 @@ I use [Sequel Pro](https://www.sequelpro.com/) to connect to my db's locally. So
 
 ![Sequel Pro Permissions](/images/sequel-pro-permissions.png "Sequel Pro Permissions")
 
+### Create a `.env` file and generate an application key
+
+When you clone a repo and run `composer install`, it does not execute some of the commands that it does when you are creating a project for the first time. So when cloning, you need create a `.env` file.
+
+Simply run `cp .env.example .env` to copy the example `.env` file.
+
+Another command that is not run is the Application key.
+
+We need to run `php artisan key:generate`. This creates an encryption key in your `.env` file which Laravel uses to encrypt passwords and other things. Once that is done move on to the next section.
+
 ### Now update your .env file
 
 Remember to update your `.env` file with your db credentials so that Laravel can actually connect to your db. These should work for most Valet installations:
