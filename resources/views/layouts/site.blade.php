@@ -34,9 +34,8 @@
             @include('partials.youtube')
             <section id="about" class="three">
                 <div class="container">
-                    <header>
-                        <h2>@yield('heading')</h2>
-                    </header>
+
+                    @include('partials.heading')
                     <div class="content">
                         @yield('content')
                     </div>
