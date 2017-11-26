@@ -2,7 +2,7 @@
 
 @section('heading', 'Getting Started')
 
-@section('youtube', 'utUiu84JQsM')
+
 
 @section('content')
 @markdown
