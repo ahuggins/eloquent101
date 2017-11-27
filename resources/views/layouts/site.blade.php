@@ -5,12 +5,12 @@
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-        <link rel="stylesheet" href="assets/css/main.css" />
-        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="{{ url('assets/css/main.css') }}" />
+        <link rel="stylesheet" href="{{ url('css/style.css') }}">
         <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
         <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
-        <link rel="stylesheet" href="/css/vs2015.css">
-        <script src="/js/highlight.pack.js"></script>
+        <link rel="stylesheet" href="{{ url('css/vs2015.css') }}">
+        <script src="{{ url('js/highlight.pack.js') }}"></script>
         <script>hljs.initHighlightingOnLoad();</script>
 
     </head>
@@ -44,13 +44,14 @@
         </div>
         @include('partials.footer')
 
-        <script src="assets/js/jquery.min.js"></script>
-        <script src="assets/js/jquery.scrolly.min.js"></script>
-        <script src="assets/js/jquery.scrollzer.min.js"></script>
-        <script src="assets/js/skel.min.js"></script>
-        <script src="assets/js/util.js"></script>
+        <script src="{{ url('assets/js/jquery.min.js') }}"></script>
+        <script src="{{ url('assets/js/jquery.scrolly.min.js') }}"></script>
+        <script src="{{ url('assets/js/jquery.scrollzer.min.js') }}"></script>
+        <script src="{{ url('assets/js/skel.min.js') }}"></script>
+        <script src="{{ url('assets/js/util.js') }}"></script>
         <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
-        <script src="assets/js/main.js"></script>
+        <script src="{{ url('assets/js/main.js') }}"></script>
+        @yield('scripts')
         @include('partials.ga')
     </body>
 </html>
