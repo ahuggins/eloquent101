@@ -6,11 +6,13 @@ class Base
 {
     public function render($exhibit)
     {
+        \DB::enableQueryLog();
         $code = $this->getMethodContent($exhibit);
         $data = $this->$exhibit();
         return view('lesson', [
             'code' => $code,
-            'data' => $data
+            'data' => $data,
+            'sql' => collect(\DB::getQueryLog())
         ]);
     }
 

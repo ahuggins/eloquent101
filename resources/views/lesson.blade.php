@@ -9,6 +9,19 @@
 {!! $code !!}
 ```
 
+## Sql Executed
+Total Execution Time: {{ $sql->sum('time') }}
+```
+@foreach ($sql as $query)
+    {{ $query['query'] }}
+    @if (count($query['bindings']))
+    Values: {{ implode(',', $query['bindings']) }}
+    @endif
+    Time: {{ $query['time'] }} 
+
+@endforeach
+```
+
 ## Returned Data
 {{ dump($data) }}
 @endmarkdown
