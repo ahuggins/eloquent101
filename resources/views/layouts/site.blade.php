@@ -13,6 +13,14 @@
         <script src="{{ url('js/highlight.pack.js') }}"></script>
         <script>hljs.initHighlightingOnLoad();</script>
 
+        <meta property="og:title" content="@yield('heading') | Eloquent 101" />
+        @if (array_key_exists('youtube', View::getSections()))
+            
+            <meta property="og:video" content="https://www.youtube.com/v/@yield('youtube')" />
+        @else
+            <meta property="og:image" content="{{ url('/images/code-sample-title.jpg') }}" />
+        @endif
+
     </head>
     <body>
         <div id="header">
