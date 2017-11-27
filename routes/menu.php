@@ -3,7 +3,10 @@
 use Spatie\Menu\Link;
 
 Menu::macro('main', function () {
-    $posts = File::files(base_path('resources/views/posts'));
+    $posts = collect(File::files(base_path('resources/views/posts')))->sortBy(function ($file) {
+        return $file->getFilename();
+    });
+    // dd($posts);
     $menu = Menu::new();
     $menu->add(
         Link::to(
