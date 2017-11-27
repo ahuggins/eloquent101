@@ -24,11 +24,17 @@ pre {
 code {
     background: #dedede;
     color: #ed6c63;
-    font-size: 15px;
+    font-size: 18px;
     font-weight: 400;
     padding: 1px 2px 2px;
 }
 
 p, ul, ol, dl, table {
     margin-bottom: 1em;
+}
+.fa.fa-code {
+    color: #ed6c63;
+}
+a {
+    border-bottom: solid 1px #ed6c63;
 }
