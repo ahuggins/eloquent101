@@ -38,3 +38,6 @@ p, ul, ol, dl, table {
 a {
     border-bottom: solid 1px #ed6c63;
 }
+img.img-responsive {
+    width: 100%;
+}

@@ -9,6 +9,13 @@
             allowfullscreen
         ></iframe>
     </div>
+@elseif(\Request::is('examples/*'))
+    <img 
+        src="/images/code-sample-title.jpg"
+        title="Eloquent 101"
+        alt="Eloquent 101"
+        class="img-responsive" 
+    />
 @else
     <img 
         src="/images/main-title.jpg"
