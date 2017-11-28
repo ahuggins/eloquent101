@@ -17,6 +17,7 @@
         <meta property="og:image" content="{{ url('/images/code-sample-title.jpg') }}" />
         <meta property="og:url" content="{{ Request::url() }}" />
         <meta property="og:type" content="article" />
+        <meta property="og:description" content="@yield('description')" />
         <meta property="article:author" content="Andy Huggins" />
         <meta property="article:section" content="Code" />
         <meta property="article:tag" content="Laravel" />
