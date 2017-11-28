@@ -3,8 +3,8 @@
 namespace App\Services;
 
 use DB;
-use Exception;
 use ReflectionClass;
+use App\Exceptions\LessonNotFoundException;
 
 class LessonService
 {
@@ -16,7 +16,7 @@ class LessonService
         $lesson = 'App\Lesson\\' . ucfirst($lesson);
 
         if (! class_exists($lesson)) {
-            throw new Exception('Lesson does not exist');
+            throw new LessonNotFoundException;
         }
 
         return new $lesson;
@@ -25,12 +25,12 @@ class LessonService
     public function example($lesson, $exhibit)
     {
         $lesson = $this->make($lesson);
-        return [
-            'code' => $this->getMethodContent($lesson, $exhibit),
-            'data' => $this->captureQueriesAndData($lesson, $exhibit),
+        return new LessonSample(
+            $this->getMethodContent($lesson, $exhibit),
+            $this->captureQueriesAndData($lesson, $exhibit),
             // ^captureQueriesAndData needs to be called before DB::getQueryLog().
-            'sql' => collect(DB::getQueryLog()),
-        ];
+            collect(DB::getQueryLog())
+        );
     }
 
     protected function captureQueriesAndData($lesson, $exhibit)
