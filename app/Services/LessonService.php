@@ -11,7 +11,7 @@ class LessonService
     protected $data;
     protected $lesson;
 
-    public function make($lesson)
+    protected function make($lesson)
     {
         $lesson = 'App\Lesson\\' . ucfirst($lesson);
 
@@ -19,34 +19,34 @@ class LessonService
             throw new Exception('Lesson does not exist');
         }
 
-        return $this->lesson = new $lesson;
+        return new $lesson;
     }
 
     public function example($lesson, $exhibit)
     {
-        $this->make($lesson);
+        $lesson = $this->make($lesson);
         return [
-            'code' => $this->getMethodContent($exhibit),
-            'sql' => $this->captureQueriesAndData($exhibit),
+            'code' => $this->getMethodContent($lesson, $exhibit),
+            'data' => $this->captureQueriesAndData($lesson, $exhibit),
             // ^captureQueriesAndData populates $this->data.
-            'data' => $this->data,
+            'sql' => collect(DB::getQueryLog()),
         ];
     }
 
-    public function captureQueriesAndData($exhibit)
+    protected function captureQueriesAndData($lesson, $exhibit)
     {
         DB::enableQueryLog();
         try {
-            $this->data = $this->lesson->$exhibit();
+            $data = $lesson->$exhibit();
         } finally {
             DB::disableQueryLog();
         }
-        return  collect(DB::getQueryLog());
+        return $data;
     }
 
-    public function getMethodContent($exhibit)
+    protected function getMethodContent($lesson, $exhibit)
     {
-        $reflection = new ReflectionClass($this->lesson);
+        $reflection = new ReflectionClass($lesson);
         $method = $reflection->getMethod($exhibit);
         $start_line = $method->getStartLine() + 1;
         $end_line = $method->getEndLine() - 1;
