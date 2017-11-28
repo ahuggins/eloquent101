@@ -17,11 +17,11 @@
         <meta property="og:image" content="{{ url('/images/code-sample-title.jpg') }}" />
         <meta property="og:url" content="{{ Request::url() }}" />
         <meta property="og:type" content="article" />
-        <meta property="og:article:author" content="Andy Huggins" />
-        <meta property="og:article:section" content="Code" />
-        <meta property="og:article:tag" content="Laravel" />
-        <meta property="og:article:tag" content="Eloquent" />
-        <meta property="og:article:tag" content="Eloquent ORM" />
+        <meta property="article:author" content="Andy Huggins" />
+        <meta property="article:section" content="Code" />
+        <meta property="article:tag" content="Laravel" />
+        <meta property="article:tag" content="Eloquent" />
+        <meta property="article:tag" content="Eloquent ORM" />
         @if (array_key_exists('youtube', View::getSections()))
             <meta property="og:video" content="https://www.youtube.com/v/@yield('youtube')" />
         @endif
