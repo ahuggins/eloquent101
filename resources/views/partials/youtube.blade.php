@@ -9,7 +9,7 @@
             allowfullscreen
         ></iframe>
     </div>
-@elseif(\Request::is('examples/*'))
+@elseif(\Request::is('lesson/*'))
     <img 
         src="/images/code-sample-title.jpg"
         title="Eloquent 101"
