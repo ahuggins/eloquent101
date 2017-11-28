@@ -28,7 +28,7 @@ class LessonService
         return [
             'code' => $this->getMethodContent($lesson, $exhibit),
             'data' => $this->captureQueriesAndData($lesson, $exhibit),
-            // ^captureQueriesAndData populates $this->data.
+            // ^captureQueriesAndData needs to be called before DB::getQueryLog().
             'sql' => collect(DB::getQueryLog()),
         ];
     }
