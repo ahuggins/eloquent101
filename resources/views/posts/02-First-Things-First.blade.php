@@ -4,6 +4,8 @@
 
 @section('youtube', 'wAiOHMWqpr8')
 
+@section('description', 'We set up the application in Lesson 1, now we can create a model and start writing Eloquent calls to execute queries on our DB.')
+
 @section('content')
 @markdown
 ## First Generate a Model

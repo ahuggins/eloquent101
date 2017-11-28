@@ -4,6 +4,8 @@
 
 @section('youtube', 'uyQH90okBNQ')
 
+@section('description', 'In order to get the most out of this series, you should download and install the companion site. In this lesson, I help you set up the application.')
+
 @section('content')
 @markdown
 ## Welcome to Eloquent 101
