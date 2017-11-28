@@ -4,7 +4,7 @@ namespace App\Lesson;
 
 use App\Film;
 
-class Two extends Base
+class Two
 {
     public function retrieveFirstRecord()
     {
