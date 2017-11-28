@@ -15,6 +15,7 @@
 
         <meta property="og:title" content="@yield('heading') | Eloquent 101" />
         <meta property="og:image" content="{{ url('/images/code-sample-title.jpg') }}" />
+        <meta property="og:url" content="{{ Request::url() }}" />
         @if (array_key_exists('youtube', View::getSections()))
             <meta property="og:video" content="https://www.youtube.com/v/@yield('youtube')" />
         @endif
