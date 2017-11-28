@@ -8,7 +8,6 @@ use ReflectionClass;
 
 class LessonService
 {
-    protected $code;
     protected $data;
     protected $lesson;
 
@@ -27,23 +26,22 @@ class LessonService
     {
         $this->make($lesson);
         return view('example', [
-            'sql' => $this->captureQueriesAndGetData($exhibit),
-            // ^captureQueriesAndGetData makes $this->code and $this->data available.
-            'code' => $this->code,
+            'code' => $this->getMethodContent($exhibit),
+            'sql' => $this->captureQueriesAndData($exhibit),
+            // ^captureQueriesAndData populates $this->data.
             'data' => $this->data,
         ]);
     }
 
-    public function captureQueriesAndGetData($exhibit)
+    public function captureQueriesAndData($exhibit)
     {
         DB::enableQueryLog();
         try {
-            $this->code = $this->getMethodContent($exhibit);
             $this->data = $this->lesson->$exhibit();
         } finally {
             DB::disableQueryLog();
         }
-        return collect(DB::getQueryLog());
+        return  collect(DB::getQueryLog());
     }
 
     public function getMethodContent($exhibit)
