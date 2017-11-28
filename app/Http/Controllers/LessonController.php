@@ -17,6 +17,6 @@ class LessonController extends Controller
 
     public function show($lesson, $exhibit)
     {
-        return $this->lesson->example($lesson, $exhibit);
+        return view('example', $this->lesson->example($lesson, $exhibit));
     }
 }
