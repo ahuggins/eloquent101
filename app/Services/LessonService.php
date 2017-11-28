@@ -26,7 +26,7 @@ class LessonService
     public function example($lesson, $exhibit)
     {
         $this->make($lesson);
-        return view('lesson', [
+        return view('example', [
             'sql' => $this->captureQueriesAndGetData($exhibit),
             // ^captureQueriesAndGetData makes $this->code and $this->data available.
             'code' => $this->code,
