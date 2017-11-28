@@ -6,13 +6,13 @@
 ## Eloquent Code
 
 ```
-{!! $code !!}
+{!! $sample->code !!}
 ```
 
 ## Sql Executed
-Total Execution Time: {{ $sql->sum('time') }}
+Total Execution Time: {{ $sample->sql->sum('time') }}
 ```
-@foreach ($sql as $query)
+@foreach ($sample->sql as $query)
     {{ $query['query'] }}
     @if (count($query['bindings']))
     Values: {{ implode(',', $query['bindings']) }}
@@ -22,7 +22,7 @@ Total Execution Time: {{ $sql->sum('time') }}
 ```
 
 ## Returned Data
-{{ dump($data) }}
+{{ dump($sample->data) }}
 
 @endmarkdown
 @stop
