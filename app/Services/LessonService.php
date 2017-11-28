@@ -20,7 +20,7 @@ class LessonService
             throw new Exception('Lesson does not exist');
         }
 
-        $this->lesson = new $lesson;
+        return $this->lesson = new $lesson;
     }
 
     public function example($lesson, $exhibit)
