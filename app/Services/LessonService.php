@@ -25,12 +25,12 @@ class LessonService
     public function example($lesson, $exhibit)
     {
         $this->make($lesson);
-        return view('example', [
+        return [
             'code' => $this->getMethodContent($exhibit),
             'sql' => $this->captureQueriesAndData($exhibit),
             // ^captureQueriesAndData populates $this->data.
             'data' => $this->data,
-        ]);
+        ];
     }
 
     public function captureQueriesAndData($exhibit)
