@@ -45,21 +45,21 @@ Over the next couple lessons we will take a look at some of the first queries yo
 
 We can write `Film::first()` and are returned the first record in the `films` table as an object.
 
-<i class="fa fa-code"></i> [Code Sample: See `first()` in action](/examples/two/retrieveFirstRecord).
+<i class="fa fa-code"></i> [Code Sample: See `first()` in action](/lesson/two/retrieveFirstRecord).
 
 The link above, shows you the Eloquent code that is executed and the resulting object (dumped with Symfony's Var Dumper package). Eloquent models use magic methods `__get()` or `__call` to provide some convenient ways to access the data on the returned object. You can access any piece of data as if it were a property on the object.
 
 Like this: `$film->title`
 
-<i class="fa fa-code"></i> [Code Sample: See the property accessor, `$film->title` in action](/examples/two/accessDataAsAProperty).
+<i class="fa fa-code"></i> [Code Sample: See the property accessor, `$film->title` in action](/lesson/two/accessDataAsAProperty).
 
 If you noticed in the first code example the `created_at` and `updated_at` fields look like simple dates. However, if you access those as a property you get back an instance of [Carbon](http://carbon.nesbot.com/docs/). [Carbon](http://carbon.nesbot.com/docs/) is a wrapper around PHP's [DateTime](http://php.net/manual/en/class.datetime.php) class, with some additional (and very helpful) functionality.
 
-<i class="fa fa-code"></i> [Code Sample: `$film->created_at`](/examples/two/createdAtReturnsCarbon).
+<i class="fa fa-code"></i> [Code Sample: `$film->created_at`](/lesson/two/createdAtReturnsCarbon).
 
 This means that you can then format the date however you like:
 
-<i class="fa fa-code"></i> [Code Sample: `$film->created_at->format('Y-m-d')`](/examples/two/formatCarbon).
+<i class="fa fa-code"></i> [Code Sample: `$film->created_at->format('Y-m-d')`](/lesson/two/formatCarbon).
 
 > Remember, so far all we have done is generated a model and all of this behavior is available to us.
 
