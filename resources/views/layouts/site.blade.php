@@ -24,7 +24,7 @@
         <meta property="article:tag" content="Eloquent" />
         <meta property="article:tag" content="Eloquent ORM" />
         @if (array_key_exists('youtube', View::getSections()))
-            <meta property="og:video" content="https://www.youtube.com/v/@yield('youtube')" />
+            <meta property="og:video" content="https://www.youtube.com/v/@yield('youtube')&hd=1" />
         @endif
 
     </head>
