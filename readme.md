@@ -10,7 +10,7 @@ I used a theme from [HTML5UP](https://html5up.net/) and included the attribution
 
 ## Get Started
 
-[![Get Started](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE "Video Title")
+[![Get Started](http://img.youtube.com/vi/uyQH90okBNQ/0.jpg)](http://www.youtube.com/watch?v=uyQH90okBNQ "Get Started - First Lesson explaining how to install this repo")
 
 Clone this repo to wherever you want. Needs to be setup similar to any other Laravel project.
 
